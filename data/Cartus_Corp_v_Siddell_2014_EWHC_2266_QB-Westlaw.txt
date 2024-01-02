@@ -1,0 +1,53 @@
+﻿
+Cartus Corp v Siddell
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+16 July 2014
+ 
+Where Reported
+[2014] EWHC 2266 (QB)
+[2014] 7 WLUK 586
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defences; Injunctions; Libel; Meaning; Quia timet actions
+ 
+Judge
+Nicol J
+ 
+Counsel
+For the applicant: Andrew Caldecott QC, Caroline Addy.
+For the respondents: Jonathan Cohen.
+ 
+Solicitor
+For the applicant: Howard Kennedys Fsi LLP.
+For the respondents: Metis Law.
+ 
+Case Digest
+Summary
+An applicant for a final injunction had not shown that the respondents intended to publish allegedly defamatory documents. Although the respondents had indicated a possible intention to publish other words with certain imputations, they had not indicated with reasonable certainty what those words would be; in those circumstances, the applicant was not entitled to the injunction sought.
+ 
+Abstract
+The applicant company (C), which had been granted an interim injunction restraining the respondents (S) from publishing certain documents to C’s customers, asked the court to rule on the meanings of the documents, to strike out S’s defences of truth and qualified privilege, and to grant a final injunction in an amended form.
+ 
+C provided relocation services to corporate clients. It sub-contracted some work to freight forwarding companies, using a computerised system to enable forwarders to bid for particular routes and methods of transportation. S were the directors of a freight forwarding company (X) which had worked with C for several years. Following a dispute, C suspended X from using the computerised system or otherwise contracting with it. S wrote a document entitled “The Ugly Truth”, and sent a copy to C along with a covering letter. It was C’s case that the documents would have been defamatory, and imminent publication to its clients was threatened. S’s amended defence stated, in relation to “The Ugly Truth”, that they “no longer intend to publish that document now”. It also re-cast the meanings of the documents which they were prepared to defend as true and repeated that any such publication would be covered by qualified privilege. The amended defence also stated that any words which they did publish would go no further than to make certain imputations about the fairness of C’s computerised system.
+ 
+C argued that the amended defence said that there was no intention to publish the document “now”: that left open the question as to whether the intention might change in the future.
+ 
+ 
+Held
+Application refused.
+ 
+(1) C had not shown that S intended to publish the document or the covering letter, or similar words. The word “now” in the amended defence was distinguishing S’s present intention from that when the document was written. The matters which S said they were contemplating publishing were far more limited in their reach and imputations than either the document or the covering letter. S had stated that any words which they did choose to publish would go no further than those imputations. It would be an arid exercise to determine the meanings of the words complained of in the document and the covering letter, and it would be pointless to decide whether words with those meanings could be defended as true or whether their publication would be on an occasion of qualified privilege. Absent publication, or proof of intended publication, potential defences were immaterial (see paras 21-25 of judgment). (2) The court considered whether S should be enjoined from publishing words with the imputations referred to in the amended defence. It could be said on C’s behalf that there was a threatened publication for the purposes of a quia timet injunction. A claimant in a libel action had to plead with reasonable certainty the words which were used, if publication had already taken place, or the words which were threatened, if the claim was for an injunction in advance of publication, British Data Management Plc v Boxer Commercial Removals Plc [1996] 3 All E.R. 707, [1996] 2 WLUK 374 applied. Although S had indicated meanings which they might be minded to include in a publication, they had not set out the words which they said would incorporate those meanings or even indicated with reasonable certainty what they might be. C was not entitled to the injunction sought (paras 27-29).
+ 
+

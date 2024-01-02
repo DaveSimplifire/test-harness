@@ -1,0 +1,67 @@
+﻿
+Fentiman v Marsh
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+22 July 2019
+ 
+Where Reported
+[2019] EWHC 2099 (QB)
+[2019] 7 WLUK 535
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Damages
+ 
+Keywords
+Aggravated damages; Blogs; Cyber attacks; Defamatory meaning; Libel; Loss of reputation; Measure of damages; Social media
+ 
+Judge
+Richard Spearman QC
+ 
+Counsel
+For the claimant: Jeremy Reed.
+For the defendant: No appearance or representation.
+ 
+Solicitor
+For the claimant: Kingsley Napley LLP.
+ 
+Case Digest
+Summary
+The chief executive officer of a company obtained damages of £55,000 for libel, including £10,000 for aggravated damages. The award was made against a background of earlier libel by the defendant against the company, and the escalation of his conduct to libel against the CEO personally, for which the defendant refused to apologise and which he had repeated even in his defence.
+ 
+Abstract
+The claimant brought a libel claim against the defendant concerning two blog posts and a post on social media sites.
+ 
+The claimant was the chief executive of a company which provided surface bio-decontamination products for NHS hospitals. The defendant had a history of making serious allegations against the company and its directors. An earlier defamation action by the company against the defendant in 2015 had been compromised by the defendant undertaking not to publish any further information, whether true or false, about the company, its employees or its products. The defendant breached that undertaking between 2016 and 2018 by publishing a large number of further allegations, resulting in a suspended sentence for contempt of court. The instant proceedings related to three further statements made by the defendant. The first was a blog post made on one of his blog sites, which alleged “an illegal and cowardly cyberattack” on his site and social media pages by “[the claimant] and his minions at [the company]”. A second post made on Twitter and LinkedIn stated that the defendant’s site “was fully restored this morning, following last week’s hacker attack by [the company]”. It was accompanied by a photograph of the claimant, altered to show him in a hood with bright red eyes and the word “HACKER” across his forehead. The defendant made a third post on his blog site stating “legal action is being taken against the directors of [the company] in connection with flagrant breaches of the Computer Misuse Act 1990”. The post was accompanied by reference to the claimant by name and by a cartoon of a man on horseback leading away a number of criminals. The claimant adduced evidence showing that customers of the company were aware of the allegations, as were competitors and employees. Members of the claimant’s Christian community had also become aware of them.
+ 
+ 
+Held
+Judgment for claimant.
+ 
+Meaning - The first post meant that the claimant was responsible for carrying out an illegal cyber-attack on the blog site and on the defendant’s social media pages. The second post meant that the claimant was a hacker. It also meant that the claimant had carried out an unlawful hack-attack, the effect of which was to prevent access to the blog site. The third post meant that criminal charges were being brought against the directors of the company, including the claimant, for carrying out a cyber-attack on the defendant. The meaning of the third post was more serious than a Chase level 2 meaning. It was saying, in effect, “there are very strong grounds to suspect that [the claimant] is guilty of Computer Misuse Act 1990 offences”, Doyle v Smith [2018] EWHC 2935 (QB), [2019] E.M.L.R. 15, [2018] 11 WLUK 27 and Koutsogiannis v Random House Group Ltd [2019] EWHC 48 (QB), [2020] 4 W.L.R. 25, [2019] 1 WLUK 132 applied, Stocker v Stocker [2019] UKSC 17, [2020] A.C. 593, [2019] 4 WLUK 27 followed (see paras 41-43 of judgment).
+ 
+Serious harm to reputation - Whether a statement had caused “serious harm” fell to be established “by reference to the impact which the statement is shown actually to have had”. That depended on a combination of “the inherent tendency of the words and their actual impact on those to whom they were communicated”, Lachaux v Independent Print Ltd [2019] UKSC 27, [2020] A.C. 612, [2019] 6 WLUK 127 followed and Yavuz v Tesco Stores Ltd [2019] EWHC 1971 (QB), [2019] 7 WLUK 330 applied. The significant features of the publications in issue were:
+ 
+(a) The allegations were all grave and had an inherent tendency to cause serious harm.
+ 
+(b) The number of people to whom the posts were published was substantial. Even on the defendant’s pleaded case, the second post was published to approximately 230 people and the third to approximately 188. There were, perhaps, about 100 views of the first post. Findings of serious harm were made on lower figures in Doyle and Dhir v Saddler [2017] EWHC 3155 (QB), [2018] 4 W.L.R. 1, [2017] 12 WLUK 117.
+ 
+(c) Substantial “grapevine” dissemination was made out on the evidence. The hacking allegations had spread through the local Christian community as well as the company’s customers.
+ 
+(d) The evidence showed that, far from people not believing the allegations, they were so pernicious that even those close to the claimant, who trusted and admired him, were deeply troubled by them and seriously concerned that they might be true. That was partly because the claimant had a motive for wanting to shut down platforms that were damaging him and his business. However, the defendant had no case that the claimant was guilty of the wrongdoing alleged.
+ 
+Accordingly, the claimant had established that the requirement of serious harm in the Defamation Act 2013 s.1 was satisfied in respect of each of the posts, Sobrinho v Impresa Publishing SA [2016] EWHC 66 (QB), [2016] E.M.L.R. 12, [2016] 1 WLUK 423, Doyle and Dhir applied (paras 45-46, 55-56).
+ 
+Measure of damages - The relevant factors were: the seriousness of the allegations; the fact that the defendant had asserted the truth of the libels and refused to retract them or apologise; publication to the claimant’s employees, his congregation and colleagues in the industry who believed the allegations; the propensity of the allegation to percolate; the tone of the posts, in particular the doctored photograph of the claimant. Aggravating features of the defendant’s conduct included the background of earlier allegations, and the terms of the defence, which repeated the allegations and asserted that the claimant was a liar. An award of £45,000 was made with an additional £10,000 for aggravated damages. An injunction was also granted to restrain repetition (paras 58-66).
+ 
+

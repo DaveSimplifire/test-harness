@@ -1,0 +1,64 @@
+﻿
+Sobrinho v Impresa Publishing SA
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+22 January 2016
+ 
+Where Reported
+[2016] EWHC 66 (QB)
+[2016] 1 WLUK 423
+[2016] E.M.L.R. 12
+[2016] C.L.Y. 574
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Conflict of laws; Civil procedure
+ 
+Keywords
+Abuse of process; Allocation of jurisdiction; Defamatory meaning; Libel; Newspapers; Portugal; Publication on a matter of public interest
+ 
+Judge
+Dingemans J
+ 
+Counsel
+For the claimant: Desmond Browne QC, Jonathan Barnes.
+For the defendant: Matthew Nicklin QC, Victoria Jolliffe.
+ 
+Solicitor
+For the claimant: Gresham Legal.
+For the defendant: Carter-Ruck.
+ 
+Case Digest
+Summary
+Although the meaning of the words complained of in a newspaper article, which was the subject of libel proceedings brought by an international banker against a Portugese publishing company, implied illegality on the part of the banker, publication of the article had not caused serious harm to the banker’s reputation in England and Wales. To enable the banker to pursue libel proceedings in England following vindication of his reputation in Portugal would amount to an abuse of process.
+ 
+Abstract
+The court was required to determine preliminary issues in libel proceedings brought by the claimant banker against the defendant newspaper publishing company.
+ 
+The publishing company was incorporated in Portugal. The claimant, a citizen of Angola and Portugal, was Chief Executive Officer and President of the Angolan subsidiary of a Portugese bank. He was also founder and chairman of a charity registered in England. The claimant brought proceedings in respect of an article published in a weekly newspaper in Portugal with a hard copy circulation of approximately 90,000. Its hard copy in England and Wales for the relevant edition was 136, with 52 subscriptions to online editions. The article questioned the Angolan bank’s financial practices. The claimant commenced proceedings in England in July 2014. In August, the Portugese bank collapsed and required a bail-out from Portugal’s central bank, causing major public concern. A Parliamentary inquiry was held in Portugal in which the claimant gave evidence. The claimant issued civil proceedings in Portugal. In April 2015, following publication of the inquiry’s findings, the claimant discontinued the civil proceedings in Portugal, stating that the media coverage had achieved his aim of clarifying that he was not responsible for the bank’s collapse. However, he maintained the English proceedings, contending that he had a reputation in England to vindicate. The publishing company relied on the defence that publication was in the public interest.
+ 
+The preliminary issues were (i) the meaning of the words complained of; (ii) whether the Defamation Act 2013 s.1 was satisfied; (iii) whether the action should be dismissed as an abuse of process.
+ 
+The claimant contended that the meaning of the article was that he had failed so incompetently as CEO in his governance of the Angolan bank that the Angolan state had to provide a guarantee, and that he had misappropriated millions of dollars in the form of granting suspect loans for himself, his family and companies under his control. The publisher argued that the article meant that the claimant, with other directors, had failed in their governance of the bank by allowing loans of US$5.7 billion to be granted without proper compliance, and that his approval of loans to connected accounts required investigation.
+ 
+ 
+Held
+Preliminary issues determined in favour of defendant.
+ 
+(1) There was much common ground regarding the meaning of the words complained of. Both parties accepted that the first meaning complained of was that the claimant had incompetently allowed the subsidiary to grant loans without proper records or collateral so that a guarantee was required by the Angolan state. However, the company’s version was preferred, because its meaning engaged with the wording in the article about the extent of the irrecoverable loans. The parties disputed whether the article suggested there were reasonable grounds to suspect the claimant had acted fraudulently. The use of the word “saque” in the article’s headline, which correctly translated as “pillaging”, implied some kind of illegality. The meaning of the article was therefore that there were reasonable grounds to suspect that the claimant, and other bank officers, had incompetently allowed the subsidiary to grant loans totally US$5.7 billion without proper compliance with internal regulations or procedures, thereby putting the bank at risk, and had also misappropriated millions of US dollars in cash withdrawals in the form of fraudulent loans for the benefit of the claimant, his family and companies under his control, Jeynes v News Magazines Ltd [2008] EWCA Civ 130, [2008] 1 WLUK 580 applied, Charleston v News Group Newspapers Ltd [1995] 2 A.C. 65, [1995] 3 WLUK 391 and Chase v News Group Newspapers Ltd [2002] EWCA Civ 1772, [2003] E.M.L.R. 11, [2002] 12 WLUK 44 considered (see paras 28-33 of judgment).
+ 
+(2) Under s.1, a claimant had to establish, on the balance of probabilities, in addition to common law requirements relating to defamatory statements, that the statement complained of had caused, or was likely to cause, serious harm to his reputation. “Serious” was an ordinary word in common usage. Injury to feelings alone, however grave, would not be sufficient. The publication in England and Wales of the article had not caused serious harm to the claimant’s reputation in England and Wales. Although the publication of such an article by a reputable newspaper might be thought likely to cause serious harm to a banker and philanthropist in the claimant’s position, the evidence did not justify such a finding. There were a number of possible reasons for that finding. The evidence also showed that the claimant was not likely to suffer serious harm to his reputation from publication of the article. He had been able to put the record straight in his evidence to the inquiry and his evidence was covered by the Portugese media, which was also available in London. If there was no need to pursue proceedings in Portugal because his reputation had been restored, the same applied to England and Wales (paras 44-51, 95-97).
+ 
+(3) In those circumstances, the pursuit of the instant proceedings was “not worth the candle” and was an abuse of process, Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44 applied. The claimant’s reputation had been so effectively restored by the reporting of his and other evidence to the Parliamentary inquiry in Portugal that it was no longer worth the time, effort and expense of pursuing proceedings in Portugal, and the media coverage in Portugal was available in England and Wales to about the same extent that the publication was available in England and Wales (paras 52-94, 98).
+ 
+

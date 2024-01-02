@@ -1,0 +1,59 @@
+﻿
+Ames v Spamhaus Project Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+27 January 2015
+ 
+Where Reported
+[2015] EWHC 127 (QB)
+[2015] 1 W.L.R. 3409
+[2015] 1 WLUK 562
+[2015] E.M.L.R. 13
+[2015] C.L.Y. 693
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Amendments; Email; Jurisdiction; Libel; Particulars of claim; Proportionality; Reputation; Striking out; Unsolicited communications
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimants: Adrienne Page QC, Jacob Dean.
+For the defendants: Ian Helme.
+ 
+Solicitor
+For the claimants: Carter-Ruck.
+For the defendants: Olswang.
+ 
+Case Digest
+Summary
+The court refused to strike out a libel claim brought by a US resident who operated a bulk email marketing services business against an English organisation which had reported the claimant as an illegal spammer. The claimant had a real prospect of demonstrating that the publication within England and Wales might be read by people whose opinion was of serious consequence to him and his business prospects, and that it had therefore caused serious harm to his reputation.
+ 
+Abstract
+The defendant (S), an English not-for-profit organisation, applied for an order striking out a libel claim brought against it by the claimant (C). C, who was resident in the US, cross-applied for permission to re-amend his statement of case so as to include a complaint of libel by publication in the US.
+ 
+S reported on sources of spam on the internet. C, who operated a bulk email marketing services business, brought proceedings on the basis that he had been named as a spammer on S’s register of Known Spam Offenders (the ROKSO list) and at the top of its list of the Top 10 world’s worst spammers. C claimed damages and an injunction. S sought to strike out the claim on the basis that it was an abuse of the court’s process, relying on the principles first established in Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44, where it was held that defamation proceedings would be dismissed as an abuse if they did not serve the legitimate purpose of protecting a claimant’s reputation.
+ 
+S argued that C had no significant reputation in England and Wales; that the extent of publication within England and Wales was minimal or insignificant; that the publications had not caused, nor were likely to cause, C to suffer any substantial or serious harm; and that publication had ceased and there was no intention to republish.
+ 
+ 
+Held
+Application refused, cross-application granted.
+ 
+(1) The Jameel jurisdiction was exceptional; the assessment of whether a real and substantial tort had been committed was not a “numbers game”. Even publication to a single individual could be highly damaging and make a substantial and costly libel action proportionate, Haji-Ioannou v Dixon [2009] EWHC 178 (QB), [2009] 2 WLUK 145 applied, Jameel followed. The Jameel principles were not solely applicable to libel claims but were of general application. The court had to have regard to its duty under the CPR to deal with cases justly and at proportionate cost. However, if a libel claimant had a real prospect of establishing a tort which was real and substantial, the court should be very reluctant to conclude that it could not be adjudicated in a proportionate way and that the only remaining way of dealing justly with the case was to dismiss it, Sullivan v Bristol Film Studios Ltd [2012] EWCA Civ 570, [2012] C.P. Rep. 34, [2012] 5 WLUK 151 followed (see paras 28, 33-34, 36 of judgment). (2) Although an individual suing for libel did not have to show an established reputation, whether a publication which created a bad reputation for someone who was previously unknown, or little known, amounted to a real and substantial tort would depend on circumstances such as the nature of the statement itself, the gravity of its meaning, and the nature and extent of its publication. Moreover, a publisher was responsible for damage caused by re-publications which were the natural and probably or reasonably foreseeable consequence of its own publication. It was a feature of the internet that material once published might remain accessible for a considerable time even if removed from the original site, as had happened in the instant case where the sting of the words complained of remained on third party sites for months afterwards. After January 1, 2014, the Defamation Act 2013 s.1 introduced the additional requirement that the harm suffered to the reputation of the claimant had to be “serious”. That had to be the starting point in relation to publications after that date, before the “real and substantial” test was applied. Thus, s.1 did not supersede Jameel (paras 40, 45-51). (3) C had a real prospect of showing that S had published the allegation complained of to all those who read the pages in question; of establishing that a meaning imputing involvement in illegal spamming was conveyed to those readers; and of demonstrating that the publication within England and Wales had caused serious harm to his reputation. It was common ground that S was considered authoritative and reliable; therefore, what it said about those on the ROKSO and Top 10 lists was very likely to be taken as true and relied on by readers. Nor was it possible to say that publication in England and Wales was inconsequential. C had past business connections in England which might be substantial and material; moreover, he had plans to launch a business with a UK presence. Although there had not yet been disclosure or a full examination of the evidence, C therefore had a real prospect of establishing that the words complained of might be read by people whose opinion was of serious consequence to him and his business prospects. That might be enough to establish serious harm to reputation. C had also demonstrated sufficient grounds to fear that, unless restrained, S would further publish words to the same effect as those complained of, since S evidently did not accept that what it published was wrong (paras 62, 92, 94, 97). (4) As it was not plain and obvious that C was unable to establish the existence of serious harm to his reputation in the US, he was granted permission to re-amend the particulars of claim to plead a claim in libel in respect of publication in the US (para.107).
+ 
+

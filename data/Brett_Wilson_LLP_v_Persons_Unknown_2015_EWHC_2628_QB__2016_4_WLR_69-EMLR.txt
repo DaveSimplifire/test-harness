@@ -1,0 +1,212 @@
+﻿
+*13 Brett Wilson LLP v Persons Unknown
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+16 September 2015
+ 
+Report Citation
+[2015] EWHC 2628 (QB)
+[2016] E.M.L.R. 2
+ 
+High Court, Queen’s Bench Division
+Warby J
+7 and 16 September 2015
+Absence; Default judgments; Final injunctions; Libel; Measure of damages; Solicitors; Summary disposal; Unknown persons; Websites;
+ 
+H1 Defamation—website—default judgment—proceeding in absence of defendant—jurisdiction—meaning—serious harm to reputation—serious financial loss—summary disposal—damages—injunction
+ 
+H2.  The claimant was a firm of solicitors. It featured on a website that denounced solicitors and other members of the legal profession for alleged misconduct. The claimant was accused of trying to overcharge a client and then, when the client refused to pay, of unjustifiably threatening legal proceedings and harassing him.
+ 
+H3.  The claimant was unable to discover who the operators of the website were. The registered owner of the website was Anonymous Speech (AS). AS acted as a proxy registrant for people who did not want to be traced. The claimant obtained and served on AS a Norwich Pharmacal order requiring it to disclose information that identified the owner and operator of the website. AS did not respond. In the event, the claimant issued proceedings for damages and an injunction in libel against the persons unknown who were responsible for the operation and publication of the website.
+ 
+H4.  The claimant served the claim on AS. AS did not respond. No acknowledgment of service was filed. The claimant applied for default judgment and for summary disposal of the claim under ss.8 and 9 of the Defamation Act 1996 . At the hearing of the application, the defendants were neither present nor represented. The issues for determination were (i) whether it was right to hear and dispose of the hearing in the absence of the defendants; (ii) whether the conditions for obtaining judgment in default were satisfied; and (iii) if so, what was the appropriate relief to grant.
+ 
+H5.  Held , granting the claimant’s application:
+ 
+H6.  (1) It was appropriate to proceed in the defendants’ absence. The claimant had taken all reasonable steps to notify the defendants of the hearing. The defendants had had notice of the hearing and an adequate time to respond if they chose. The reason why the defendants were not present or represented at the hearing was that they wished to remain anonymous and were in hiding; they had decided not to engage with the court process. There was no good reason not to proceed in their absence.
+H6.  Sloutsker v Romanova [2015] EWHC 545 (QB); [2015] 2 Costs L.R. 321 applied.
+ 
+H7.  (2) The conditions for obtaining judgment in default of acknowledgment of service were satisfied. There was no feature of the case that required the court to *14 consider evidence rather than the claimant’s pleaded case. On the claimant’s case, the defendants were persons within the definition of “editor” in s.1(2) of the Defamation Act 1996 . The court therefore had jurisdiction for the purposes of s.10 of the Defamation Act 2013 . 1 As to meaning, the claimant’s contention that the words complained of bore the meanings alleged was not extravagant. It was therefore appropriate to proceed on the basis that those were the natural and ordinary meanings of the words. Furthermore, the “serious harm” requirement under s.1 of the Defamation Act 2013 2 was met. In particular, the pleaded allegations were sufficient to make out a case of serious financial loss under s.1(2) of the Defamation Act 2013 . That was a condition which the claimant, as a body that traded for profit, was obliged to satisfy. Under the circumstances, the claimant had established its right to judgment for damages to be assessed, and to injunctions to ensure that the libel was not further published by the defendants.
+ 
+H8.  (3) The pleaded allegations justified the grant of prohibitory and mandatory injunctions. The mandatory orders were for the removal from the internet of specified webpages, and for the removal from the website of any metadata or search engine links which referred to the claimant as “solicitors from hell” or “lawyers from hell”. The injunctive relief granted represented a necessary interference with the defendants’ right to freedom of expression in pursuit of the legitimate aim of protecting the claimant’s reputation against false and damaging allegations of misconduct.
+ 
+H9.  (4) Orders for damages to be assessed and for final injunctions were available to the court on an application for default judgment. But the claimant had also sought summary disposal under ss.8 and 9 of the Defamation Act 1996 . The conditions of s.8 were satisfied: there was no defence to the claim and no other reason why the claim should be tried. Taking account of the seriousness of the allegations, which were likely to deter anybody unfamiliar with the claimant from engaging its services, and the likely extent of their publication, there was no doubt that there had been a financially damaging impact on a serious scale. The award also had to serve the purpose of vindication. The claimant was therefore entitled to the maximum sum available by way of damages under s.9(1) , namely £10,000.
+ 
+ 
+H10 Other cases referred to:
+      Bloomsbury Publishing Group Plc v News Group Newspapers Ltd [2003] 1 W.L.R. 1633
+      Farrall v Kordowski [2011] EWHC 2140 (QB)
+      Hussein v Hamilton Franks & Co Ltd [2013] EWHC 462 (QB)
+      Kerner v WX [2015] EWHC 128 (QB)
+      Kerner v WX [2015] EWHC 1247 (QB)
+      Law Society v Kordowski [2011] EWHC 3185 (QB); [2014] E.M.L.R. 2
+      Loutchansky v Times Newspapers Ltd [2001] EWCA Civ 1805; [2002] Q.B. 783; [2002] E.M.L.R. 14 *15
+      Novartis Pharmaceuticals UK Ltd v Stop Huntingdon Animal Cruelty [2014] EWHC 3429 (QB)
+      QRS v Beach [2014] EWHC 4189 (QB); [2015] 1 W.L.R. 2701
+      Robins v Kordowski [2011] EWHC 1912 (QB)
+      Sloutsker v Romanova [2015] EWHC 2053 (QB); [2015] E.M.L.R. 27
+      Stone & Williams v WXY [2012] EWHC 3184 (QB)
+      The Bussey Law Firm PC v Page [2015] EWHC 563 (QB)
+H11 Legislation referred to:
+      Civil Procedure Rules 1998 rr.6.15 , 6.17 , 12.3 , 12.4 , 23.10 , 23.11 , 24.2 , 24.5 , 24.6 , 53.2
+      Defamation Act 1996 ss.1 , 8 , 9
+      Defamation Act 2013 ss.1 , 10
+      Human Rights Act 1998 s.12
+ 
+Approved Judgment
+Warby J:
+ 
+1.  Members of the legal profession and other readers of the law reports will be familiar with “Solicitors from Hell”. It is the name used for and by a variety of websites which, over a period of years, have been used as a vehicle for denouncing solicitors and other member of the legal profession in the most outspoken terms, for alleged misconduct. The original website, set up by Rick Kordowski, was at www.solicitorsfromhell.co.uk. That site was closed down some years ago.
+ 
+2.  The solicitors firm which is the claimant in this action acted for the claimants in the litigation against Mr Kordowski, in which orders were made that closed down the original Solicitors from Hell site: Law Society v Kordowski [2011] EWHC 3185 (QB); [2014] E.M.L.R. 2 . Now the firm itself has been targeted, via a web address which is a simple variant of the original. I shall refer to the new site as SFHUK.com.
+ 
+3.  Some of the claims made against the operator(s) of Solicitors from Hell websites in the past have been for harassment. The majority have been in libel, as is the present claim. There are two aspects to this claim. The first complains of the listing of the claimant firm as one of the ‘Solicitors from hell’. The site is, as its home page explains, devoted to complaints about ‘Solicitor fraud, misconduct, incompetence, negligence, dishonesty, overcharging, corruption, embezzlement, lying/perjury and racism.’
+ 
+4.  The second aspect of the claim arises from some words which refer specifically to alleged conduct of the firm. An item referring to the claimant appears on the site in the “complaints” section. It is headed with the firm’s name and address, and the headline or subject line “Harassment”. The item takes the form of a letter of complaint by an anonymous client of the firm. In summary, the letter accuses the firm of seeking to charge three times the quoted fee for a simple letter and then, when the client refused to pay, unjustifiably threatening legal action and engaging in a campaign of harassment.
+ 
+5.  The offending words first appeared on SFHUK.com at some point between 2 October 2014 and 15 January 2015, which is when the claimant discovered their *16 presence there. The words complained of were still on the site at the date of the application before me in September 2015.
+ 
+6.  The claimant firm has tried, in conjunction with the Law Society, to find out the identity of the people who operate SFHUK.com, but without success. They have discovered that the WHOIS registry lists “Anonymous Speech” as the website owners. Anonymous Speech is a proxy registrant service. It claims to move its servers from one country to another on a regular basis. It further claims to ignore court orders originating from the EU or US. It appears to be an organisation which specialises in providing proxy services to those who do not wish to be traced.
+ 
+7.  A letter of claim dated 20 February 2015 was emailed to an “info@” address of SFHUK.com, but received no response. On 24 April 2015 the Law Society and the claimant obtained a Norwich Pharmacal order against Anonymous Speech, requiring it to disclose identifying information in relation to the owner/operator of SFHUK.com. The order provided for its service by email to contact@anonymousspeech.com and abuse@anonymousspeech.com and two physical addresses, one in Tokyo and the other in Panama. There was no response. So when, on 28 July 2015, the claimants started this action claiming damages for libel and an injunction to restrain the continued publication of the words complained of, they issued their claim form against Persons Unknown.
+ 
+8.  The legitimacy of this procedure has been recognised for over a decade, since Bloomsbury Publishing Group Plc v News Group Newspapers Ltd [2003] 1 W.L.R. 1633 . It is necessary for the unknown persons to be identified by description, in such a way as to identify with certainty those who are included within it and those who are not. That criterion has been met here by describing the defendants as “Persons Unknown responsible for the operation and publication of the website [SFUK.com]”.
+ 
+9.  There is no difficulty in principle, if an action may be brought against persons unknown, in granting an injunction to restrain those persons from carrying out acts such as the misuse of unlawfully obtained copies of a book prior to its official publication date (as in the Bloomsbury case), or harassment (as in Stone & Williams v WXY [2012] EWHC 3184 (QB) , and Kerner v WX [2015] EWHC 128 (QB) ). In each of the last two cases the defendants were described as “Persons Unknown responsible for pursuing and/or taking photographs of” the claimants at specified places on specified dates.
+ 
+10.  Although the injunctions granted in the cases just cited were all interim, the court can grant final injunctive relief against persons unknown. McGowan J did so in Novartis Pharmaceuticals UK Ltd v Stop Huntingdon Animal Cruelty [2014] EWHC 3429 (QB) , where she concluded on the written evidence put before her that the test for summary judgment in CPR 24.2 was satisfied.
+ 
+11.  The relevant procedural safeguards must of course be applied. A difficulty that can arise in cases of this kind is that of ensuring that the unknown defendants have been duly served with the proceedings, and with any application for interim or final relief. Kerner v WX provides an illustration of some of the difficulties: see the judgments at [2015] EWHC 178 (QB) and [2015] EWHC 1247 (QB) . In the present case, however, the claimant applied on 28 July 2015, the day the claim form was issued, for permission pursuant to CPR 6.15 to serve the claim form, Particulars of Claim, any other statements of case, application notices and documents in these proceedings by an alternative method, namely by email to the two addresses mentioned above. Master McCloud allowed that application to be *17 made without service on the defendants, and granted permission. As submitted by the claimant, the email addresses are given as contact addresses by Anonymous Speech, and it is reasonable to infer that they are genuine addresses, and that emails sent to them will be brought to the attention of the domain owners.
+ 
+12.  On the evening of 28 July the claimant emailed those two addresses with the claim form, Particulars of Claim, Response Pack, Master McCloud’s order and the documents that had been put before her. Certificates of service were completed the following day, pursuant to CPR 6.17(2) . I am satisfied that the proceedings were duly served. Pursuant to CPR 23.10(1) the defendants had the right to apply to set aside or vary the order of Master McCloud. Paragraph 3 of the order itself pointed this out. The time limit for making such an application is 7 days after the date the order was served on the person making the application: r 23.10(2) . No such application was made within that time limit, or at all. Nor did the defendants file an acknowledgment of service or a defence by the deadline for doing so which has been calculated as, and I accept was, 13 August 2015. Indeed, nothing at all has been heard from the defendants.
+ 
+13.  It is against that background that on 19 August 2015 the claimants issued the application now before me, and served it on the defendants by the method authorised by the order of Master McCloud. The application seeks, inevitably, default judgment pursuant to CPR 12.3(1) and 12.4(2) . It also seeks “summary disposal of the case pursuant to s.8 of the Defamation Act 1996 with the following relief: (a) damages, (b) an injunction and (c) costs.” The application is supported by a witness statement of Mr Iain Wilson, a partner in the claimant firm. Mr Wilson is not a solicitor-advocate but has prepared a skeleton argument and appeared before me on the application and I have allowed him to advance submissions.
+ 
+14.  The first issue to be addressed is whether it is right to hear and dispose of the claimant’s application in the absence of the defendants. I accept Mr Wilson’s submission that I should follow the approach I identified in Sloutsker v Romanova [2015] EWHC 2053 (QB) [22]-[23]:
+“Where a party fails to appear at the hearing of an application the court may proceed in their absence: CPR 23.11 . This is a power that must be exercised in accordance with the overriding objective. Ms Page properly referred me to authority making it clear that the court should be very careful before concluding that it is appropriate to proceed in the absence of a litigant in person who is seeking for the first time to adjourn a hearing: Fox v Graham Group Ltd (26 July 2001) (Neuberger J); SmithKline Beecham Ltd v GSKline Ltd [2011] EWHC 169 (Ch) (Arnold J), [6]. That is not the situation here, however. The defendant has not sought an adjournment. …
+Where a litigant fails to appear without giving a reason it is necessary to consider first whether they have had proper notice of the hearing date and the matters, including the evidence, to be considered at the hearing. If satisfied that such notice has been given, the court must examine the available evidence as to the reasons why the litigant has not appeared, to see if this provides a ground for adjourning the hearing.”
+ 
+15.  The application in Sloutsker was the defendant’s application to set aside service of proceedings on her outside the jurisdiction. In the present case, as Mr Wilson fairly points out, there is another important facet to the requirement of proper notice, in the form of s 12(2) of the Human Rights Act 1998 . Section 12 is engaged *18 because the order the claimants seek involves “relief which, if granted, might affect the exercise of the Convention right to freedom of expression” within the meaning of s.12(1) . Section 12(2) prohibits the court from granting such relief if the respondent is neither present nor represented, unless satisfied “(a) that the applicant has taken all reasonable steps to notify the respondent; or (b) that there are compelling reasons why the respondent should not be notified.”
+ 
+16.  There is clearly no good reason for not notifying the defendants in this case. But I am satisfied that the claimant has taken all reasonable steps to notify them. I am satisfied that the defendants have in fact had notice, and an adequate time to respond if they chose. As I have already noted, it is reasonable to infer that emails sent to the Anonymous Speech addresses have come to the attention of those responsible for the operation of SFHUK.com. Indeed, that is in my view highly probable. The inference I draw is that the reason why the defendants are not present or represented at this hearing is that they wish to remain anonymous, and are “hiding”. They have decided, in my judgment, to avoid engaging with the court process. I see no reason not to proceed in their absence. On the contrary, there is good reason to proceed in their absence. Any other course would lead to delay and further cost, without any justification.
+ 
+17.  The conditions for obtaining judgment in default of an acknowledgment of service prescribed by CPR 12.3(1) are met: the time for filing an acknowledgement of service or defence has expired, and neither has been filed. This is not a case in which default judgment can be obtained by filing a request pursuant to CPR 12.4(1) . The claimant has, as required by CPR 12.4(2) , made an application pursuant to CPR 23 .
+ 
+18.  The claimant’s entitlement on such an application is to “such judgment as it appears to the court that the claimant is entitled to on his statement of case”: CPR 23.11(1) . I accept Mr Wilson’s submission that I should interpret and apply those words in the same way as I did in Sloutsker v Romanova [2015] EWHC 2053 (QB) at [84]:
+“This rule enables the court to proceed on the basis of the claimant’s unchallenged particulars of claim. There is no need to adduce evidence or for findings of fact to be made in cases where the defendant has not disputed the claimant’s allegations. That in my judgment will normally be the right approach for the court to take. Examination of the merits will usually involve unnecessary expenditure of time and resources and hence [be] contrary to the overriding objective. It also runs the risk of needlessly complicating matters if an application is later made to set aside the default judgment: see QRS v Beach [2014] EWHC 4189 (QB), [2015] 1 WLR 2701 esp at [53]-[56]. ”
+ 
+19.  As I said in the same judgment at [86], “the general approach outlined above could need modification in an appropriate case, for instance if the court concluded that the claimant’s interpretation of the words complained of was wildly extravagant and impossible, or that the words were clearly not defamatory in their tendency.” Those instances of circumstances which might require departure from the general rule are not exhaustive, but only examples. I have considered whether there is any feature of the present case that might require me to consider evidence, rather than the claimant’s pleaded case, verified by a statement of truth and uncontradicted by the defendants. I do not think there is any such feature. I have therefore proceeded on the basis of the pleaded case, both in my introductory description of the facts *19 above, and in reaching the conclusion that the claimant has established its right to recover damages for libel, and to appropriate injunctions to ensure that the libel is not further published by the defendants.
+ 
+20.  In reaching those conclusions I have considered first the question of jurisdiction. Section 10(1) of the Defamation Act 2013 provides as follows:
+“(1)  A court does not have jurisdiction to hear and determine an action for defamation brought against a person who was not the author, editor or publisher of the statement complained of unless the court is satisfied that it is not reasonably practicable for an action to be brought against the author, editor or publisher.”
+ 
+21.  Section 10(2) of the 2013 Act provides that the terms ‘author’, ‘editor’ and ‘publisher’ in this context have the same meaning as in s 1 of the Defamation Act 1996 . That section provides so far as material as follows:
+“(2)  For this purpose “author”, “editor” and “publisher” have the following meanings, which are further explained in subsection (3)—
+‘“author” means the originator of the statement, but does not include a person who did not intend that his statement be published at all;
+“editor” means a person having editorial or equivalent responsibility for the content of the statement or the decision to publish it; and
+“publisher” means a commercial publisher, that is, a person whose business is issuing material to the public, or a section of the public, who issues material containing the statement in the course of that business. ’
+(3)  A person shall not be considered the author, editor or publisher of a statement if he is only involved—
+(a)  in printing, producing, distributing or selling printed material containing the statement;
+(b)  in processing, making copies of, distributing, exhibiting or selling a film or sound recording (as defined in Part I of the Copyright, Designs and Patents Act 1988 ) containing the statement;
+(c)  in processing, making copies of, distributing or selling any electronic medium in or on which the statement is recorded, or in operating or providing any equipment, system or service by means of which the statement is retrieved, copied, distributed or made available in electronic form;
+(d)  as the broadcaster of a live programme containing the statement in circumstances in which he has no effective control over the maker of the statement;
+(e)  as the operator of or provider of access to a communications system by means of which the statement is transmitted, or made available, by a person over whom he has no effective control.
+In a case not within paragraphs (a) to (e) the court may have regard to those provisions by way of analogy in deciding whether a person is to be considered the author, editor or publisher of a statement.”
+ 
+22.  The defendants in the present case are described in the title to the action as persons “responsible for the operation and publication of” SFHUK.com. They are *20 described in paragraph 3 of the Particulars of Claim as “an individual or group of individuals who has/have established and run a website at … [SFHUK.com].” Paragraph 5 alleged that SFHUK.com is “a website that produces its own content and apparently allows third parties to submit material for publication.” In paragraph 14 the Particulars of Claim allege that the defendants “published or caused to be published, and are continuing to publish, on SFHUK.com” the words complained of.
+ 
+23.  The Particulars of Claim do not allege that the defendants are in the “business” of issuing material to the public, or contain any similar allegation. It seems that the defendants are likely to fall outside the scope of the term “publisher”, as defined by s.1 of the 1996 Act. I cannot conclude, on the pleaded case, that they fall within it. The claimant has not alleged, either, that the defendants are the “authors” of any of the words complained of, or made any similar allegation. Indeed, in paragraph 39 of the Particulars of Claim it is said that “It is not known whether the publication has been authored by the Defendant(s) or whether it has been submitted by a third party.” I am satisfied, however, that on the claimant’s pleaded factual case the persons unknown who are the defendants to this action are persons within the definition of “editor” in s 1(2) , and that they are not within any of the categories described in s 1(3)(a) to (e) , or any analogous category. The court therefore has jurisdiction.
+ 
+24.  That conclusion means it is not necessary for me to address the pleaded allegation in paragraph 39 of the Particulars of Claim that “if [the publication] has been submitted by a third party it is not possible to identify him/her from the publication and it is therefore not practicable (or indeed possible) to bring an action against him/her.” I would however say in passing that whilst the evidential position may be different I am not sure that this pleading would suffice to satisfy the proviso to s.10 .
+ 
+25.  The Particulars of Claim allege that the words which the defendants published or caused to be published on SFHUK.com bore the following defamatory meanings:—
+“(a)  The Claimant is a shameless, corrupt, fraudulent, dishonest, unethical, incompetent and oppressive firm of solicitors which does not provide competent services, has had a justified complaint made against them and whose wrongdoing should be exposed to prevent others from suffering by instructing them.
+(b)  The Claimant unscrupulously inflates costs.
+(c)  The quality of the Claimant’s work is sub-standard and poor value for money.
+(d)  The Claimant’s staff and/or partners are guilty of committing the imprisonable offence of harassment contrary to section 1 of the Protection from Harassment Act 1997 .
+(e)  The Claimant breaches its professional obligations and acts contrary to the Solicitors Regulation Authority’s Code of Conduct.
+(f)  The Claimant’s staff and/or partners are rude, threatening, intimidating and unprofessional.
+(g)  The Claimant ‘strong-armed’ payment from a former client that was not owed or warranted and thus committed an offence contrary to section 40 of the Administration of Justice of Act 1970 . *21
+(h)  Prospective clients seeking to instruct the Claimant will receive sub-standard advice and lose out financially.”
+ 
+26.  The allegation that the words bore these meanings is an uncontradicted allegation of fact, and it is not one that I consider extravagant. I proceed on the basis that these are the natural and ordinary meanings of the words complained of. The meanings plainly have a defamatory tendency. Section 1(1) of the Defamation Act 2013 provides however that “A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant”. And by s 1(2) it is provided that “For the purposes of this section, harm to the reputation of a body that trades for profit is not ‘serious harm’ unless it has caused or is likely to cause the body serious financial loss.” The claimant is clearly a body that trades for profit.
+ 
+27.  Allegations relevant to these requirements are made in paragraph 2 of the Particulars of Claim, which describes the claimant. Further relevant allegations are made in paragraphs 16 to 29, which appear under the heading “Serious harm to reputation and financial harm”.
+ 
+28.  Paragraph 16 states that “The Claimant believes that the publication of the defamatory words has caused serious harm to its reputation. It also believes that the publication has caused it serious financial harm.” This could be criticised as a statement of belief rather than a statement of fact. I note also that the statutory term is “financial loss” not “financial harm”. If no more had been pleaded I would have felt uneasy about granting default judgment. I would have had to ask myself if these allegations were enough to show that the serious harm requirement is met. In the event, enough is alleged in other parts of the Particulars of Claim to satisfy me that the requirement is met.
+ 
+29.  The features of the pleaded case that lead me to that conclusion are these:
+      i)  The claimant is a “‘boutique’ firm of solicitors based in London” with two departments, one specialising in “defamation, privacy and harassment law”, and the other in “criminal litigation, civil fraud, regulatory and disciplinary proceedings” ([2]).
+      ii)  “The firm is relatively small and is only five years old. Traditionally it has attracted a considerable amount of work from the internet. Where work comes from a different source, it is usual for the prospective client to undertake some sort of ‘due dilligence’, this would typically involve a Google search.” ([21]).
+      iii)  For six months, Google searches for Brett Wilson LLP or Brett Wilson solicitors have produced the following result and snippet within the top five listings, immediately below links to the firm’s own website ([19]):
+      “SOLICITORS FROM HELL — Brett Wilson LLP Solicitors …
+      [web address given]
+      Rude, intimidating and threatening. Clients should stay well away from Brett Wilson Solicitors.Have you complained about your solicitor and got nowhere?”
+      iv)  “… the publication has been read, and will inevitably continue to be read, by a number of prospective clients considering instructing the Claimant and undertaking research on the Claimant’s reputation” ([22]). *22
+      v)  “It is inevitable that a number of prospective clients who have read (or will read) the snippet and publication have decided (or will decide) not to instruct Brett Wilson LLP as a result of what has been published.”
+      vi)  “The loss of a single instruction can cost the firm tens of thousands of pounds (and in some instances more).”
+      vii)  “… on 20 April 2015 a litigation opponent raised the publication as evidence that the Claimant was a disreputable firm.”
+      viii)  “… on 25 July 2015 a prospective client who had previoulsy indicated he wished to instruct the firm withdrew his instructions as a result of the publication.”
+      ix)  “It can be inferred that there will have been a far greater number of instances where an individual has read the publication or search result snippet and not notified the Claimant. That is, they have simply decided to ‘go elsewhere’. …”
+      x)  “The Claimant believe[s] that there has been a noticeable drop in the conversion of enquiries from prospective clients to instructions over the past six months. …”
+      xi)  The Claimant has suffered financial loss …”
+ 
+30.  Whilst the allegation quoted at [29] (x) suffers from the same deficiency as paragraph 16, these pleaded allegations taken overall are in my judgment sufficient to make out a case of serious financial loss. I need say little to elaborate on that. “Serious” is an ordinary English word. I would only add that whether loss is serious must depend on the context.
+ 
+31.  This is enough to justify judgment for damages to be assessed. It is not necessary for that purpose to allege falsity, although the Particulars of Claim do so—no doubt for the purpose of supporting the claim for an injunction.
+ 
+32.  I am satisfied that the pleaded allegations make out a case for the grant of injunctions against the defendants. It is alleged that the defendants have published allegations of a highly defamatory nature, which have caused serious financial loss, and that they are continuing to do so. It is alleged that the allegations are false. None of this has been contested by the defendants. The Particulars of Claim also set out the defendants’ failure to respond to the letter of claim and these proceedings.
+ 
+33.  Because s.12 of the HRA is engaged I must have particular regard to the importance of the Convention right to freedom of expression: s.12(4) . I must be satisfied that the injunctive relief granted represents an interference which is necessary in the pursuit of a legitimate aim, and goes no further than required. I am so satisfied. The legitimate aim is the protection of the reputation of the claimant against false and damaging allegations of misconduct. I bear in mind that it is contrary to the public interest for false or misleading information to be issued on matters of this kind.
+ 
+34.  The injunctions now sought are both prohibitory and mandatory. The mandatory orders are for the removal from the World Wide Web of specified webpages, and the removal from the SFHUK.com website of any metadata or search engine links which refer to the claimant as “solicitors from hell” or “lawyers from hell”. I hesitated at first over the mandatory orders, for two reasons. I was initially concerned that these orders went beyond what is sought in the Particulars of Claim. These claimed a negative injunction. However, there is a prayer for ‘further or other relief.’ Secondly, I wondered if mandatory orders would impose obligations *23 which the defendants might be unable in practice to perform. However, given the way the defendants are described and defined, I consider that these aspects of the order sought are legitimate.
+ 
+35.  The orders for damages to be assessed and for final injunctions to which I have just referred are available to the court on the application for default judgment. As I have explained, however, the claimant’s application notice also seeks summary disposal pursuant to ss.8 and 9 of the Defamation Act 1996 . Section 8 allows the court to give judgment for the claimant in a defamation case and grant “summary relief” if it appears to the court “that there is no defence to the claim which has a realistic prospect of success and no other reason why the claim should be tried.” Summary relief is defined by s.9 :
+“9.— Meaning of summary relief.
+(1)  For the purposes of section 8 (summary disposal of claim) “summary relief means such of the following as may be appropriate—
+(a)  a declaration that the statement was false and defamatory of the plaintiff;
+(b)  an order that the defendant publish or cause to be published a suitable correction and apology;
+(c)  damages not exceeding £10,000 or such other amount as may be prescribed by order of the Lord Chancellor;
+(d)  an order restraining the defendant from publishing or further publishing the matter complained of.”
+ 
+ 
+36.  This has been a relatively little-used procedure. That is probably because summary judgment under CPR 24 is now available in defamation cases, and the damages recoverable by way of summary relief remain capped at £10,000, as they were when the procedure was first enacted. The procedure is invoked here, however, in order to bring a swift end to the matter and avoid assessment proceedings which might well be disproportionately expensive. The claimant does not seek a declaration of falsity or any order for an apology. The application is for damages of £10,000 and an injunction. The procedure has been used in similar circumstances and for similar reasons before, for example in Robins v Kordowski [2011] EWHC 1912 (QB) .
+ 
+37.  In Robins Tugendhat J held at [55]-[57] that the jurisdiction to grant summary disposal is available after the court has entered default judgment for damages to be assessed. He applied the reasoning of the Court of Appeal in Loutchansky v Times Newspapers Ltd [2001] EWCA Civ 1805; [2002] Q.B. 783 , where judgment on the merits had been entered after a trial. Tugendhat J concluded that the criteria for summary disposal were satisfied and assessed damages at £10,000. I am invited to do likewise.
+ 
+38.  For these purposes I can and should have regard to evidence. CPR 53.2 provides that “In proceedings for summary disposal … rules 24.4 (procedure), 24.5 (evidence) and 24.6 (directions) apply.” I have allowed the claimant to apply for summary disposal although no acknowledgement of service or defence has been filed. The witness statement of Mr Wilson was served in time, in compliance with rule 24.4 . CPR 24.5 and 24.6 are inapplicable to this case.
+ 
+39.  Given what I have said already it is easy to conclude that Mr Wilson is correct when he asserts in paragraph 25 of his witness statement that there is no defence to the claim, and no other reason why it should be tried. In reaching this conclusion *24 I have considered the five matters to which s.8(4) of the 1996 Act directs me to have regard in deciding whether there is a reason for the claim to be tried. I accept also that the claimant is entitled to an award of the maximum sum available by way of damages under s.9(1) , that is to say £10,000.
+ 
+40.  For this purpose the claimant relies on the matters pleaded in paragraphs 16 to 29 and 40 of the Particulars of Claim, the material parts of which I have quoted in paragraph [29] above, and some supplementary evidence contained in the witness statements of Mr Wilson and Emma Lyons. Ms Lyons is Head of Search at Eight&Four digital marketing company, and runs digital marketing campaigns for corporate clients including the claimant. Her evidence is that between 15 January and 27 July 2015 some 276 individuals carried out a search on Google for “Brett Wilson LLP” or “Brett Wilson solicitors”. She is able to provide this figure because the firm has a Google Pay per Click account, which allows one to see how many users have carried out a search of a particular term. A further six weeks have passed since 27 July 2015 and the offending words have remained online, with the snippet cited above returned among the top search results.
+ 
+41.  Mr Wilson’s statement supports, evidentially, what is alleged in the Particulars of Claim about the response of individual clients to the publication complained of.
+ 
+42.  It is beyond dispute that the words complained of had a clear tendency to put people off dealing with the claimant firm. That was their evident purpose. The allegations are serious, and would be likely to deter anybody unfamiliar with the firm from engaging its services. There is affirmative evidence that in all probability one client was deterred, with probable financial loss. I bear in mind that of the 276 searches identified by Ms Lyons, some may have been repeats, and some may not have been serious enquiries, likely to lead to an instruction. Equally, however, the continued publication during August and September and the “grapevine” effect of publication including, if not especially, online publication must mean that the numbers to whom the defamatory messages were conveyed are very likely to be substantially larger. I have no doubt that others were put off, and that there has been a financially damaging impact on a serious scale. Quite apart from this, the award needs to serve the purpose of vindication.
+ 
+43.  Mr Wilson draws my attention to other awards made in comparable circumstances. He mentions not only Robins but also Farrall v Kordowski [2011] EWHC 2140 (QB) , Hussein v Hamilton Franks & Co Ltd [2013] EWHC 462 (QB) and The Bussey Law Firm PC v Page [2015] EWHC 563 (QB) . Farrall, like the present case, concerned a posting criticising the competence and integrity of a solicitor. The posting was thought to have been live for about a month. On an application under ss 8 and 9 of the 1996 Act in a claim which was undefended Lloyd-Jones J awarded £10,000. Hussein also involved an online “blacklist”, on which the claimants were accused of fraud. On an assessment of damages, three foreign Claimants were awarded £20,000, £10,000 and £10,000. In The Bussey Firm a US law firm and its principal sued an English defendant who had published a false and defamatory review on Google maps that was live for approximately 12 months, alleging that the principal “pays for false reviews and loses 80% of his cases”. After a trial Sir David Eady assessed damages for the law firm “conservatively, at £25,000”.
+ 
+44.  Every case depends on its own facts, but these four cases lend some support to my conclusion that the award of £10,000 is amply merited on the facts of the present case. *25
+ 
+45.  That disposes of the claim for summary relief in the form of damages. Section 9(1)(d) of the 1996 Act allows me to prohibit republication but does not at least in terms give me power to grant mandatory injunctions as part of an order for summary relief. As I have explained, however, I have power to grant the injunctions sought as part of the default judgment process. It is better to use that power in this case, and I do. *26
+ 
+ 
+Footnotes
+
+1
+
+Section 10 of the Defamation Act 2013 ( Action against a person who was not the author, editor etc. ) “(1) A court does not have jurisdiction to hear and determine an action for defamation against a person who was not the author, editor or publisher of the statement complained of unless the court is satisfied that it is not reasonably practicable for an action to be brought against the author, editor or publisher. (2) In this section, ‘author’, ‘editor’ and ‘publisher’ have the same meaning as in section 1 of the Defamation Act 1996 ”.
+
+2
+
+Section 1 of the Defamation Act 2013 ( Requirement of serious harm ): “(1) A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant. (2) For the purposes of this section, harm to the reputation of a body that trades for profit is not ‘serious harm’ unless it had caused or is likely to cause that body serious financial loss”.
+
+
+

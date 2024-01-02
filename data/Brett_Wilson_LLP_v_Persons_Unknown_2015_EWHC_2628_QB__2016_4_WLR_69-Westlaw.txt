@@ -1,0 +1,54 @@
+﻿
+Brett Wilson LLP v Person(s) Unknown
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+16 September 2015
+ 
+Where Reported
+[2015] EWHC 2628 (QB)
+[2016] 4 W.L.R. 69
+[2016] 1 All E.R. 1006
+[2015] 9 WLUK 319
+[2016] E.M.L.R. 2
+[2016] C.L.Y. 581
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Absence; Default judgments; Final injunctions; Libel; Measure of damages; Solicitors; Summary disposal; Unknown persons; Websites
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Company representative.
+For the defendants: No appearance or representation.
+ 
+Case Digest
+Summary
+A solicitors firm was entitled to default judgment in its libel claim against unknown persons who were responsible for operating a website which had accused the firm of misconduct.
+ 
+Abstract
+The claimant solicitors firm applied for default judgment in its libel claim.
+ 
+The firm had been featured on a website known for denouncing solicitors and other members of the legal profession for alleged misconduct. It had been unsuccessful in discovering the identity of those responsible for operating the website, but learnt that “Anonymous Speech” was registered as the website owner, and obtained a Norwich Pharmacal order requiring it to disclose information identifying the website’s operator. The order was served by post and by email but received no response. The firm accordingly commenced proceedings against “persons unknown”, claiming damages for libel and an injunction restraining the continued publication of the words complained of, and served the claim on the same Anonymous Speech email addresses. No acknowledgement of service was filed. The defendants had not engaged in the proceedings at all and were not present at the instant hearing. The issues were (i) whether it was right to hear and dispose of the firm’s application in the defendants’ absence; (ii) whether the conditions for obtaining judgment in default were satisfied; (iii) the appropriate relief.
+ 
+ 
+Held
+Application granted.
+ 
+(1) The firm had taken all reasonable steps to notify the defendants. The defendants had had notice of the application and an adequate time to respond. It was reasonable to infer, and highly probable, that the emails sent to the Anonymous Speech addresses had come to the attention of those responsible for the website’s operation. The defendants had chosen not to engage with the court process. There was no reason not to proceed in their absence, Sloutsker v Romanova [2015] EWHC 545 (QB), [2015] 2 Costs L.R. 321, [2015] 3 WLUK 126 applied (see para.16 of judgment). (2) The conditions for obtaining judgment in default of an acknowledgement of service, as prescribed by CPR r.12.3(1), were met. There was no feature of the case requiring the court to consider evidence other than the firm’s pleaded case, which was verified by a statement of truth and uncontradicted by the defendants. On the firm’s case, the defendants were persons within the definition of “editor” in the Defamation Act 1996 s.1(2). The court therefore had jurisdiction. The firm’s suggestion that the words bore the meanings alleged was an uncontradicted allegation of fact and was not extravagant. It was appropriate to proceed on the basis that the meanings the firm relied on were the natural and ordinary meanings of the words complained of. The firm had established its right to recover damages for libel and to appropriate injunctions ensuring that the libel was not further published by the defendants (paras 17, 19, 23, 26). (3) There was enough to justify judgment for damages to be assessed. The pleaded allegations made out a case for the grant of prohibitory and mandatory injunctions. Injunctive relief represented a necessary interference with the defendants’ right to freedom of expression in pursuit of the legitimate aim of protecting the firm’s reputation against false and damaging allegations of misconduct. The orders for damages to be assessed and final injunctions were available to the court on the application for default judgment. However, the firm also sought summary disposal pursuant to s.8 and s.9 of the Act. There was no defence to the claim, and having regard to the matters listed at s.8(4), the firm was entitled to an award of the maximum sum available by way of damages under s.9(1), namely £10,000 (paras 31, 39)
+ 
+

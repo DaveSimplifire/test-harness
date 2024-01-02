@@ -1,0 +1,68 @@
+﻿
+Napag Trading Ltd v Gedi Gruppo Editoriale SpA
+
+
+Negative Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+13 November 2020
+ 
+Where Reported
+[2020] EWHC 3034 (QB)
+[2020] 11 WLUK 158
+[2021] E.M.L.R. 6
+[2021] C.L.Y. 633
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil evidence; Media and entertainment; Civil procedure
+ 
+Keywords
+Centre of main interests; Disputing the court’s jurisdiction; Journals; Libel; Publication; Serious harm; Standard of proof
+ 
+Judge
+Jay J
+ 
+Counsel
+For the claimants: William McCormick QC.
+For the first defendant: Aidan Eardley.
+For the second defendant: Greg Callus.
+ 
+Solicitor
+For the claimants: Carter-Ruck.
+For the first defendant: Archerfield Partners LLP.
+For the second defendant: Reynolds Porter Chamberlain LLP.
+ 
+Case Digest
+Summary
+The court did not have jurisdiction to determine libel claims brought by an English company, its sole director and an Italian subsidiary. Although the articles complained of had been published to a limited extent in England and Wales and were seriously defamatory of the claimants, they had failed to establish a good arguable case that they had suffered serious harm in England and Wales.
+ 
+Abstract
+The defendant publishers applied to challenge the court’s jurisdiction to determine the claimants’ libel claims.
+ 
+The first claimant was an English-domiciled company, the third claimant was an Italian-domiciled subsidiary of the first claimant, and the second claimant, an Italian national with his main residence in Dubai, was the chief operating officer, sole director and 95% shareholder in the first claimant. The first defendant published a weekly Italian-language political and cultural magazine in print and online. The second defendant published a daily online Italian-language newspaper in England and Wales. The claimants brought libel proceedings against both defendants concerning articles relating to an investigation by the public prosecutor in Milan into alleged corrupt payments which the claimants contended imputed that the first and third claimants, and the second claimant as their alter ago, were involved.
+ 
+The issues were whether the first claimant’s centre of interests was England and Wales, and whether each claimant could show to the necessary standard all of the elements of a claim for libel under the law of England and Wales.
+ 
+ 
+Held
+Application granted.
+ 
+Centre of interests - A natural person’s centre of interests would usually match their habitual residence. General considerations of predictability and the need for clarity militated in favour of straightforward and readily accessible criteria rather than any microscopic examination of the detail, eDate Advertising GmbH v X (C-509/09) EU:C:2011:685, [2012] Q.B. 654, [2011] 10 WLUK 688 applied. The concept of centre of interests, being the Member State in which the online publication at issue caused the most damage, applied as much in an internet case to the personality rights of legal persons as it did to natural persons, Bolagsupplysningen OU v Svensk Handel AB (C-194/16) EU:C:2017:766, [2018] Q.B. 963, [2017] 10 WLUK 361 applied. The concepts of habitual residence and registered office were interchangeable. In order to ascertain the centre of interests, the rules of evidence applicable to jurisdictional challenges applied, and the real question was always whether the Member State of suit was the place where the legal person carried out the main part of its activities. In the context of the first claimant, that meant its economic activities (see paras 29-31, 34 of judgment).
+ 
+Libel - It was incumbent on the claimants to establish a good arguable case, which had three limbs. First, the claimants had to supply a plausible evidential basis for the application of a relevant jurisdictional gateway, which meant more than arguable and less than probable. The court’s task was to say where the better argument was to be found, not the “much better argument”. Secondly, in performing that exercise it might be possible for the court reliably to take a view on the material available. Thirdly, in the event that no such assessment could be made, the court would find that there was a good arguable case provided that it considered that there was a plausible albeit contested basis for that case. At that third stage the “better argument” on the material available test continued to apply, Goldman Sachs International v Novo Banco SA [2018] UKSC 34, [2018] 1 W.L.R. 3683, [2018] 7 WLUK 45 followed. The claimants also had to establish serious harm within the Defamation Act 2013 s.1, which in s.1(2) provided that harm to the reputation of a body that traded for profit was not serious unless it had caused or was likely to cause serious financial loss. What was required was proof of serious financial loss that was consequent on serious reputational harm. There might be room for inference rather than strict proof, particularly where the allegations were highly defamatory and publication was widespread. Serious harm had to be proved in respect of each statement complained of. The mere fact that a company officer had been defamed did not mean, without more, that the company had been defamed, and vice versa. To the extent that innuendo meaning was invoked, it was necessary to establish to the requisite standard that there was at least one reader who had the extrinsic knowledge to know that a reference to the company must include a reference to a company officer because he was in effect its alter ego (paras 38-44, 47-48).
+ 
+Application to the facts: first defendant - The first defendant’s articles were seriously defamatory of the claimants and they had been published in England and Wales. The third claimant had a very weak case on serious harm. The first claimant’s evidence relating to serious financial loss was not convincing. The second claimant had a reputation in England and Wales, but the evidence supporting the case that he had suffered serious harm was not compelling (paras 69, 78, 114, 145, 147).
+ 
+Application to the facts: second defendant - There was a good arguable case that the second defendant’s articles were seriously defamatory of the second and third claimants, but the first claimant had failed to show a good arguable case that it had been referred to. There was limited publication in England and Wales. The case on innuendo meaning in relation to the second claimant had not been made out to the requisite standard and his case was therefore limited to one of the articles. He had not established a good arguable case that he had suffered serious harm in England and Wales as a result of publication here (paras 77, 96, 146).
+ 
+Conclusion - The first claimant had a good arguable case that its centre of interests was in England and Wales, but the defendants had succeeded on the issue of serious harm. The court had no jurisdiction to try any of the claims and the claim form was set aside (paras 160, 163).
+ 
+

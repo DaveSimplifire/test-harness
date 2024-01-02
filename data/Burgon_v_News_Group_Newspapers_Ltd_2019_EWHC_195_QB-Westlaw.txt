@@ -1,0 +1,63 @@
+﻿
+Burgon v News Group Newspapers Ltd
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+6 February 2019
+ 
+Where Reported
+[2019] EWHC 195 (QB)
+[2019] 2 WLUK 47
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Facts; Freedom of expression; Honest opinion; Injunctions; Libel; Malicious falsehood; Public interest; Truth; Websites
+ 
+Judge
+Dingemans J
+ 
+Counsel
+For the claimant: Adam Speker.
+For the defendants: Adam Wolanski.
+ 
+Solicitor
+For the claimant: Carter-Ruck .
+For the defendants: Reynolds Porter Chamberlain LLP.
+ 
+Case Digest
+Summary
+A newspaper was guilty of libel where it had published an article on its website asserting that a Labour MP had joined a band which he knew took great pleasure in using Nazi symbols. The band’s poster had not used Nazi symbols, and serious harm had been caused to the MP’s reputation by the libel.
+ 
+Abstract
+The claimant, a Member of Parliament, claimed damages from the defendant newspaper and journalist for libel and malicious falsehood in respect of an article written about him. He also sought an injunction to restrain further publication.
+ 
+The article was published in slightly different versions in the first defendant’s daily newspaper and on its website. The online version stated “Labour’s justice boss ridiculed after he joins a heavy metal band that delights in Nazi symbols”. It also said that the band, Dream Troll, “uses the name of Hitler’s infamous SS security unit as lettering in its promotional posters”. The newspaper version stated that the band “appears to use Nazi symbols in a poster”. The poster had been published by the band on social media. It was an homage to the album cover of another heavy metal band, Black Sabbath, entitled “We sold our soul for Rock N’ Roll”. Dream Troll’s version contained the hashtag “Black Sabbath” at the top corner, with the words “We sold our soul for Rock N’ Troll”. It contained two stylised “S’s” in the words “sold” and “soul”. The claimant had been unaware of the poster. He had performed on one song for the band, but was not a member of it. Both versions of the article contained a quote from the claimant stating that he had known members of Dream Troll since they were teenagers and they were neither racist nor Nazis. The Labour party press officer told the defendant’s reporter that the poster was related to the Black Sabbath album cover, and although reference was made to Black Sabbath in the print version of the article, it was not mentioned in the online version, which was viewed by 7-8,000 people.
+ 
+ 
+Held
+Judgment for claimant in part.
+ 
+Meaning of article - The meaning of the online article was that the claimant had “joined a band which he knew took great pleasure in using Nazi symbols”. The inclusion of the claimant’s quote about the band was an antidote. The article therefore did not mean that the claimant was actively sympathetic to Nazi beliefs and ideology, or that there were reasonable grounds for that suspicion, Jeynes v News Magazines Ltd [2008] EWCA Civ 130, [2008] 1 WLUK 580 followed (see paras 65-68 of judgment).
+ 
+Serious harm - The online article was defamatory of the claimant at common law. It would have substantially affected, in an adverse manner, the attitude of other people to the claimant, Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155 and Economou v de Freitas [2018] EWCA Civ 2591, [2019] E.M.L.R. 7, [2018] 11 WLUK 320 followed. It was defamatory because the Nazis were uniquely evil, and no right-minded person would join a band which he knew took great pleasure in using Nazi symbols. The publication of the article to the thousands of people who read it had caused serious harm to the claimant’s reputation. The publication of the article in the newspaper did not affect that conclusion. The words used in that article were different, there was express reference to Black Sabbath as the source for the Dream Troll image and the symbols used, and the meaning of the newspaper article was different from the online article. Further, there was nothing to suggest that the readership of the online article mirrored the newspaper’s readership (paras 73-75).
+ 
+Defence of truth - The claimant had made a guest appearance on a song for the band, but had not joined the band. However, that minor difference would not defeat the defence of truth if the imputations were shown to be substantially true. However, the evidence did not show that the band took great pleasure in using Nazi symbols. The image was produced as a form of tribute to the Black Sabbath album cover. Further, the two “S’s” were not “Nazi symbols”. They were not positioned together, the angle of them was different from the SS symbol. The colour scheme of red, white and black; the gothic writing, and the umlaut for the words “Dream Troll” could not convert a symbol into something it was not. There was no evidence that anyone in the band thought that the image was similar to the “S” in the Nazi symbol (paras 84-88).
+ 
+Defence of honest opinion - The meaning identified above was a question of fact, and the first condition set out in the Defamation Act 2013 s.3(2) could therefore not be satisfied (para.89).
+ 
+Defence of publication in the public interest - The online story did not attract the protection of s.4 because, having contacted the claimant and having been told of the source of the symbols in the Dream Troll image, the journalist failed to include that in the online article. He had included the claimant’s quotation in the article, but that made the failure to include the reference to Black Sabbath even more inexplicable, as it showed that there would have been time to include it. In order to obtain the protection of s.4 a reference to Black Sabbath was necessary as part of responsible journalism (paras 98-101).
+ 
+Damages and injunction - The online article continued to be published until proceedings were issued. There had been no apology by the defendant. An award of £30,000 in damages was appropriate. An injunction was also granted to restrain further publication of the article (paras 108-109).
+ 
+Malicious falsehood - The words published were false, but had not been written with malice. The journalist had not appreciated the significance of the hashtag “Black Sabbath”. His failure to mention it was not dishonest because it had not altered his view. The malicious falsehood claim therefore failed (paras 110-114).
+ 
+

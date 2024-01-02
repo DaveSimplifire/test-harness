@@ -1,0 +1,2874 @@
+﻿
+*1 George v Cannell
+
+
+Negative Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+9 November 2021
+ 
+Report Citation
+[2021] EWHC 2988 (QB)
+[2021] 4 W.L.R. 145
+ 
+
+Queen’s Bench Division
+Saini J
+2021 Oct 5–8; Nov 9
+Defamation—Malicious falsehood—Pecuniary damage—Claimant bringing claim for malicious falsehood in respect of comments made orally—Whether claimant able to establish cause of action without proving special damage on basis publications calculated to cause pecuniary damage—Requirements as to proof of mechanism of loss and causation— Defamation Act 1952 (c 66), s 3(1)
+ 
+The claimant had worked for the defendants as a recruitment consultant before leaving to join a City-based recruitment consultancy. The defendants made written and oral statements, including to the claimant’s new employer and a client of her former employer, suggesting that the claimant was approaching the former employer’s clients to solicit business from them, as well as contacting its job applicants, in breach of a post-employment non-solicitation contractual obligation and express assurances which the claimant had given. The claimant brought a claim against the defendants for libel, slander and malicious falsehood. In relation to the claim for malicious falsehood, the issue arose whether the claimant could establish a cause of action without having to prove special damage, pursuant to section 3(1) of the Defamation Act 1952 1 , on the basis that the words upon which the action was founded were “calculated to cause pecuniary damage”. The claimant alleged that the publications were calculated to cause such damage to her both by preventing her from obtaining business, and thereby preventing her from earning a commission, and also in respect of the business/employment carried on by her at the time of publication, such damage being more likely than not to occur because the publishees would not want to assist or be party to a breach of contract. The question of law arose whether, as the claimant submitted, the court was confined to considering the likelihood of pecuniary damage via a particular mechanism arising because of the words themselves or whether, as the defendant contended, the claimant was required prove a mechanism of loss and causation of some form of pecuniary damage on the facts and not just by reference to the words used.
+ 
+On the claims—
+ 
+Held , dismissing the claims, that the authorities established that, while section 3(1) of the Defamation Act 1952 relieved the claimant of the burden of showing actual pecuniary loss (special damage), the claimant still had to identify the nature of the loss and the mechanism by which it was likely to be sustained; that that suggested that the likelihood of pecuniary damage caused by publication had to be subject to some form of inquiry as to the circumstances of publication generally; that, further, in order to establish causation, namely that the pecuniary damage flowed as a direct and natural result of publication of the relevant words, an examination of the facts as they were before, at and after publication was required; that the circumstances in which publication was made had to be considered and evidence as to likelihood of pecuniary damage being caused was both relevant and admissible; that the latter had to include what had actually happened, not just the probability of what might have happened; that applying that approach, the claimant had failed to establish either the nature or mechanism of the loss alleged, or that any element of the pleaded pecuniary damage had been caused by the publications, in circumstances where, inter alia, her new employer knew the publications to be false and wished her to stay at the firm, and the former client had already decided not to do business with the claimant for other reasons by the time of publication; that in that respect, it was important to remember that malicious falsehood was a tort that compensated only for pecuniary loss, not for loss of reputation, and thus recovery turned on matters of fact as to pecuniary damage, whether at common law or under section 3(1) , not on a publishee’s view of a claimant’s reputation (or his view of a product or other business interest) from which no pecuniary damage flowed; and that it followed that the circumstances of the publications in the present case were fatal to the *2 claim based on section 3(1) of the 1952 Act which was dismissed accordingly (paras 192, 193, 196–199, 201, 205–207, 208, 210).
+ 
+Sallows v Griffiths [2001] FSR 15 , CA applied.
+ 
+Quinton v Peirce [2009] FSR 17 , Tesla Motors Ltd v British Broadcasting Corpn (2013) 163 NLJ 290 , CA and BHX v GRX [2021] EWHC 770 (QB) considered.
+ 
+Fielding v Variety Inc [1967] 2 QB 841 , CA distinguished.
+ 
+ 
+CLAIM
+ 
+By a claim form issued on 19 December 2019 the claimant, Fiona George, brought an action for libel, slander and malicious falsehood in respect of four publications alleged to have been made in or around 21 January 2019 by the first defendant, Linda Cannell, and the second defendant, Lynn Cannell Associates Ltd, which was the previous employer of the claimant. The grounds of claim were that the publications contained false and defamatory statements as to breach by the claimant of post-termination contractual restrictions on *3 solicitation of the second defendant’s clients, and also breach of assurances by the claimant to the first defendant that she would not deal with such clients following her departure from the second defendant.
+ 
+The facts are stated in the judgment, post, paras 1–7.
+ 
+William Bennett QC and Gemma McNeil-Walsh (instructed by Thomson Heath & Associates Ltd ) for the claimant.
+ 
+John Stables (instructed by Brabners LLP, Liverpool ) for the defendants.
+ 
+The court took time for consideration.
+ 
+9 November 2021. SAINI J
+ 
+handed down the following judgment.
+ 
+This judgment is in eight main parts as follows:
+Content
+ 
+
+Para
+ 
+
+I. Overview
+ 
+
+1–22
+ 
+
+II. The Facts
+ 
+
+23–103
+ 
+
+III. The Sting(s) and the Truth Defence
+ 
+
+104–110
+ 
+
+IV. Publication
+ 
+
+111–113
+ 
+
+V. Serious harm to reputation
+ 
+
+114–138
+ 
+
+VI. Malice
+ 
+
+139–166
+ 
+
+VII. Malicious falsehood
+ 
+
+167–217
+ 
+
+VIII. Conclusion
+ 
+
+218
+ 
+
+Annexe: Tagg 1 and Tagg 2 (transcripts of oral legal advice)
+ 
+
+ 
+
+
+ 
+I. Overview
+1.  By a claim form issued on 19 December 2019, Fiona George, the claimant (C) brings claims for libel, slander and malicious falsehood in respect of four publications alleged to have been made in or around 21 January 2019. The publications are alleged to have been made by Linda Cannell (known as “Lynn”), the First Defendant (D1), and her company, Lynn Cannell Associates Ltd, the Second Defendant (LCA). D1 is the sole director and shareholder of LCA.
+ 
+2.  LCA is a small and well-established recruitment agency based in Essex. It specialises in recruiting employees (candidates) for estate agents and property companies. LCA has around 100 employer-clients who are primarily estate agents in the South East of England. In 2018 LCA’s important clients included the major estate agencies Balgores and Strettons.
+ 
+3.  C is a former employee of LCA. Between March and November 2018 C was employed by LCA as a probationary recruitment consultant. C resigned from LCA on 19 November 2018 and in due course she joined Fawkes & Reece, a City-based recruitment consultancy with a focus on the construction industry.
+ 
+4.  There are four publications sued upon: (a) an e-mail of 21 January 2019 (“the Lingenfelder E-mail”) sent by D1 to Graeme Lingenfelder (“Mr Lingenfelder”), a director of Fawkes and Reece; (b) oral statements said to have been made by D1 to two individuals at Balgores (Mr Matthew Butler and Mr Martin Gibbon); and (c) oral statements said to have been made by D1 to clients of LCA. The subject of each publication is said to be C and allegations concerning her conduct. I will return to these in more detail at the end of this introduction.
+ 
+5.  By way of high-level summary, the publications are said to have contained false and defamatory statements as to breach by C of post-termination contractual restrictions on solicitation of LCA’s clients, and also breach of assurances by C to D1 that she would not deal with such clients following her departure from LCA. Save in respect of the Lingenfelder E-mail, the Ds deny making these publications and one of the factual issues before me is whether C has proved they were made.
+ 
+6.  The terms of the Lingenfelder E-mail were as follows:
+“Hi Graham
+ 
+“I hope you are well and that business is good. You may recall we had a conversation in November regarding the suitability of recruiting Fiona for a potential Recruitment Consultants role with you. Whilst I explained that I felt Fiona possessed some great potential, I also advised that there were reservations, ultimately resulting her departure. Whilst not all of my reservations were revealed during our conversation I recall mentioning her lack of attention to detail and failure to respect LCA rules and processes. It is therefore with great sadness and disappointment, that I write to inform you that despite making clear to Fiona, both verbally and in writing, of her legal obligations under the terms of her employment with LCA, not to solicit business from our clients and candidates (and Fiona’s absolute assurances that this is something she would never do), that she has been proactively approaching our clients for new business as well as contacting candidates of LCA. I am writing to you firstly to ask if this is something you are aware of and secondly to ask from one business owner to another to ensure the post-employment restrictions preventing her from contacting our clients and candidates is respected by you and ask for your assurances that this will stop immediately. I have worked hard to build a business based on honesty, trust and loyalty and as I am sure you will appreciate, will do all I can to protect it. I have E-mailed Fiona today explaining her breach of post-employment obligations and asked her to confirm in writing within the next seven days, that she will desist from contacting our clients and candidates. Failure to receive confirmation will result if (sic) me taking legal action which I know will have an impact on her performance (I allowed Fiona over two months off work during her employment with LCA as she was unable to fulfil her duties to a satisfactory level whilst dealing with a personal court case).”
+ 
+ 
+7.  As will be immediately apparent, one of the main allegations is that C was in breach of post-termination restrictions on soliciting LCA’s clients. It is now common ground that C’s terms of employment contained no such contractual restriction. However, until about two weeks before trial, the Ds sought to argue (as part of a “truth” defence) that the confidentiality provisions of C’s contract of employment (see para 29 below) were in effect a post-termination non-solicitation clause. I directed that the Ds amend their Defence in this regard (at the same time as making the amendments which followed upon my striking out other parts of the amended defence as I describe further in this introduction).
+ 
+8.  The burden of showing publication of the words complained of by a defendant rests on a claimant: Duncan & Neill on Defamation 5th ed (2020), para 8.03. C advances a purely inferential case in relation to three publications the Ds deny making. These are:
+      (i)  slander to Mr Butler, the inference arising from the terms of an e-mail of 21 January 2019 sent by him to C which appears to record that D1 has informed Mr Butler that the C should not be approaching LCA’s client as part of her “terms”. I will refer to this e-mail as “the Butler E-mail” and to the alleged words spoken to Mr Butler as “the Butler Words”;
+      (ii)  slander to Mr Gibbon, the inference arising from words said to have been spoken to C by Mr Butler reporting what he said Mr Gibbon had told him about what D1 is alleged to have said to Mr Gibbon about C’s breaches of restrictions on soliciting LCA’s clients; and
+      (iii)  slanders and libels to all of the employer clients with whom the Ds dealt, the inference pleaded as arising from the statement made by D1 in an e-mail sent to C by D1 on 21 January 2019 (referred to below as “the George E-mail”) in which D1 threatened to tell all clients of the claimed breach of restrictions on solicitation by C.
+ 
+9.  The defamatory meaning of each of the publications complained of was determined by Richard Spearman QC sitting as a deputy judge of the High Court: [2020] EWHC 3386 (QB) . Before the deputy judge the parties helpfully agreed that each of the publications bore the same meaning as the Lingenfelder E-mail. The meaning of the slanders was determined on a contingent basis ie the meaning would apply if C proved that the pleaded words or words to substantially the same effect had been spoken. The deputy judge found that each publication bore the following meaning: *4
+“The claimant, in breach of the restrictions contained in her contract of employment with the Second Defendant, and contrary to her express assurances that she would never do this and thus disloyally and contrary to her word, had been approaching the Second Defendant’s clients to solicit business from them as well as contacting the Second Defendant’s job applicants.”
+ 
+ 
+10.  It can be seen that there were essentially two limbs identified by the deputy judge in respect of criticism of C’s conduct by the Ds. I will call these the “breach of contract” and “breach of assurances” aspects. The deputy judge went on to describe the nature of the sting(s) at para 14 of his judgment but the parties agreed before me that those observations do not bind me and it is for me (taking the deputy judge’s ruling on meaning) to consider that matter myself.
+ 
+11.  Amongst other defences, the Ds rely on a section 2(1) Defamation Act 2013 “truth” defence. The Deputy Judge’s finding has led to detailed argument before me as to the sting(s) of the libel and the proper scope and nature of the truth defence which the Defendants may advance. Leading counsel for C submitted that the Deputy Judge’s conclusion was a “peculiar” finding given that C did not allege in her particulars of claim that words concerning going back on assurances were spoken. However, even if such words were spoken, Leading counsel made it clear that C does not complain about them. I will need to determine the sting(s) below but for present purposes record that counsel for the Ds submitted that the sting is one of general disloyalty and untrustworthiness. He relied on the fact that this arises from allegation of breach of obligation by C (whether contractual or based on an oral assurance).
+ 
+12.  At the start of the trial I struck out parts of the Ds’ “truth” defence and large parts of the witness statements in support. For reasons I gave in my ruling on the first day, I determined that the Ds were seeking to turn the trial into a general and roving inquiry into many and varied complaints about the general conduct of C during her employment. I determined these were not relevant matters when one considers the meaning determined by the Deputy Judge, and the imputations which are concerned with post-termination alleged wrongful conduct of C in the two aspects.
+ 
+13.  It is well-established that it is the particular imputation that the words are decided to bear that must be proved substantially true. The Ds will not avoid liability by proving the truth of other facts that might be damaging to C’s reputation, but which were not presented or implied in the publication made (or which were not complained of). This is the case even if the other facts relate to the same sector of the C’s life, and are no less damaging to her reputation
+ 
+14.  Leading counsel for C complained, rightly in my judgment, that the Ds’ pleading and evidence was an attempt at “character assassination” which had little relevance to any proper truth defence and fell foul of these well-established principles. On an unrelated matter, I was also concerned about the fact that the amended defence and Ds’ witness statements contained detailed reference to sensitive personal/family matters concerning C which were not relevant and which should not have been put before the court. Those matters also fell to be struck out but in argument counsel for the Ds properly accepted that they should be removed without order. I am surprised that they had appeared in the first place. They had no possible relevance.
+ 
+15.  The approach of both parties in their witness statements was to proceed on the basis that the court would be conducting a form of “moral accounting” of meritorious and unmeritorious conduct of each of the parties in the course of the C’s employment. That also led to the creation of several trial bundles when in fact the relevant contemporaneous documents would not even fill a single slim volume.
+ 
+16.  In addition, there were two areas of discrete evidence (which I call “the CVs issue” and the “Bridge-IT Lend issue” below) where C did not seek to strike out the pleading and related evidence. As I said during closing submissions (and leading counsel for C agreed) these were also irrelevant matters. I have however made some findings (with brief reasons) on those issues given they were pursued in cross-examination and closing submissions.
+ 
+17.  Overall, counsel were focused and concise in their questioning of witnesses and they gave me substantial assistance on the law in writing and orally. They also behaved with courtesy to both one another and to all witnesses.
+ 
+18.  I heard oral evidence from C, D1, Jessica McPherson (a former employee of LCA), Matthew Butler of Balgores, and remotely from Martin Gibbon, Group Managing Director of Balgores. My impression of each of the witnesses was that they were straightforward in their answers and seeking to do their best to assist me. C and D1 were sometimes reluctant to give short answers when they were being asked questions on uncontroversial matters and reluctant *5 to not simply agree to things (in the fear of unwittingly giving some ground) but that is not a matter which I consider should be held against them.
+ 
+19.  This is a case where a relatively clear factual picture of material events can be constructed on the basis of contemporaneous documents. These include not only e-mails and social media chatter but also recordings of legal advice (where the Ds have waived privilege: see Tagg 1 and Tagg 2 which are transcripts of this advice). I have used the written documents/recordings as my primary source for findings where there are disputes of fact. Where witnesses have denied events took place but I have found to the contrary, I do not consider those witnesses were seeking to mislead me but rather that (as is common) recollections fade and honest people can convince themselves of events (or what they understood) when they are in fact wrong.
+ 
+20.  Given that D1’s state of mind at the time of the publications is one of the central issues to be determined, I have approached her oral evidence at trial of what she was thinking several years ago with caution. D1 is defending a serious legal claim made against her with allegations of malice and a lack of good faith. In my judgment, her contemporaneous communications with others at the time of the material events are more likely to be reliable than oral testimony some years later given that they would not have been made in the knowledge that they would ever be seen/heard by third parties. As appears below, the uninhibited recorded communications she had with her legal advisers are in my view the most reliable evidence on the malice issue. I have however also given weight to her oral testimony.
+ 
+21.  As for C, her candid text/WhatsApp communications with her close confidantes are a much better guide for me in relation to the events and her motivations than her witness statement prepared much later. The witness statements of course have real weight but must take second place to clear documentary evidence in the ordering of evidential value.
+ 
+22.  In summary, the issues for my decision are proof of publication, proof of serious harm, the truth defence, qualified privilege, and malice. There are issues before me as to the nature of the losses if any suffered by C which overlap on the evidence with earlier issues.
+ 
+II. The facts
+23.  My narrative of the facts is based primarily upon the documents, as indicated above. I have also relied upon oral evidence on matters of common ground and will make findings of fact where matters have been disputed. I will however only make findings where I consider the dispute to be material to the determination of an issue I have to decide. Even after the striking out, there remain a number of issues between the parties which are not relevant to the claim.
+ 
+LCA’s business and the recruitment of Fiona George
+24.  The role of LCA’s recruitment consultants is to find suitable candidates to fill roles for its employer-clients who are generally estate agents or property companies. This is typically done through LCA’s candidate database and through websites such as Reed and Linked-In, where LCA’s consultants look to identify suitable candidates, or from the CVs of candidates who approach LCA for work. LCA’s recruitment consultants are paid commission on the roles that they fill. The roles to be filled come predominantly from LCA’s established network of employer-clients and candidates. When a role comes in that a client needs to be filled it is listed on LCA’s system. All consultants have access to all of the roles registered, and whoever fills a role is paid commission on that role. There is an issue between the parties on the witnesses’ statements as to whether C was paid or overpaid commission. This is not relevant and I make no findings.
+ 
+25.  LCA’s staff all work from its office in Essex. In 2018 it also used a service office in Bank (1 Cornhill) in London for interviews and meetings with clients and candidates. In early 2018, LCA’s team included Ms McPherson who was the team leader, Ryan Doyle and Keith Cross who were senior recruitment consultants, and Rowan Smith who was LCA’s marketing consultant. D1 sat in a separate office but the rest of the team sat in one open-plan room. Paul Jacobs (“Mr Jacobs”) was also part of LCA’s team. He is a consultant to LCA (not an employee) with over 40 years’ experience in recruitment who assists D1 with business development, staff-training and managerial decision making. He did not give evidence but his interactions with C and his written communications with D1 are of relevance.
+ 
+26.  The C was employed by LCA from 26 March 2018 until 19 November 2018 but there were significant periods when she was away for personal reasons which are not relevant to the issues in this claim. The documentary evidence before me shows that C was grateful to D1 for how she had helped C during this difficult time. D1 at this time (and into 2019) had to cope with stressful personal circumstances involving care of her father, who was suffering from dementia.
+ 
+27.  C’s contract of employment with LCA was comprised of two documents: a short Statement of Main Terms of Employment (“SMT”) and the terms set out in the Employee *6 Handbook (“the Handbook”). I identify these at this stage because, as appears below, it was not always clear when parties referred to C’s “contract” which particular documents were being referenced.
+ 
+28.  As I have recorded above, C’s contract with LCA did not include a post-termination non-solicitation clause. That is, there was no term that would have prevented C from contacting/soliciting business from people and entities with whom LCA dealt. To similar effect, it is common ground that LCA did not enter into agreements with clients (such as Strettons and Balgores) or potential candidates by which they had to agree to deal with LCA exclusively.
+ 
+29.  C’s contract did however include a confidentiality provision. It is of some importance in this case given the reliance placed upon it by the Ds in explaining D1’s state of mind. The SMT stated that it incorporated the terms and conditions contained in the Handbook which included the following:
+“(B) Confidentiality
+ 
+“(1)  All information that: (a) is or has been acquired by you during, or in the course of your employment, or has otherwise been acquired by you in confidence; (b) relates particularly to our business, or that of other persons or bodies with whom we have dealings of any sort; and (c) has not been made public by, or with our authority; shall be confidential, and (save in the course of our business or as required by law) you shall not at any time, whether before or after the termination of your employment, disclose such information to any person without our prior written consent.
+ 
+“(2)  You are to exercise reasonable care to keep safe all documentary or other material containing confidential information, and shall at the time of termination of your employment with us, or at any other time upon demand, return to us any such material in your possession.”
+ 
+ 
+ 
+30.  I will call this “the Confidentiality Clause” below. In order to explain the significance of this clause, I should identify that D1’s evidence at trial was that she has no legal training and that her understanding was that the Confidentiality Clause meant that her employees must respect the confidentiality of information obtained in the course of their employment at LCA, so that they should not retain this confidential information when they left. Importantly, her evidence was that she believed that this contractual restriction “precluded the use of such confidential information, including its use to identify, contact and place candidates with employers with whom LCA employees dealt with”. So, in short, her evidence is that the Confidentiality Clause, in her non-legal understanding, essentially restrained an ex-employee in dealing with or soliciting clients/candidates—that is, covering the same ground as a classic non-solicitation clause but less strongly. I will return to a consideration of this evidence when I address D1’s state of mind at the time of the relevant publications on the malice issue.
+ 
+The resignation of C
+31.  Returning to the chronology, for reasons which I do not consider relevant to the issues I need to determine, things did not work out well between C and LCA. What is relevant is that by 19 November 2018, D1 had come to the view that C’s employment with LCA would be terminated. Putting matters neutrally, the Ds considered they had made substantial allowances to assist the C at a time of personal difficulty but she was not performing as they would have wished and had behaved inappropriately in certain respects. On the other hand, C considered she had legitimate complaints about the work environment (and conduct of other colleagues) and that she had performed her duties to an appropriate standard. Who was to “blame” for this situation is the subject of extensive parts of the witness statements and I make no findings save for recognising the strongly held feelings held by both parties.
+ 
+32.  On 19 November 2018, a meeting took place between D1, C and Paul Jacobs at Costa Coffee in Woodford. I find that C was told that she ought to resign and that if she did so she would obtain a reference. There is a clear record of what happened in an e-mail sent by D1 to Liam Tagg (“Mr Tagg”), an employment law consultant, who worked for Peninsula Business Services (“Peninsula”), an SRA regulated entity, immediately after the Costa Coffee meeting. That records that
+“[C] expressed concern about finding employment when being sacked and Paul offered her the option to resign if she felt this is something she would like to do and that of course we would be happy to provide her with a good reference. She twisted this *7 suggesting he would only give a good reference if she resigned. Which Paul clarified was not how this was said”.
+ 
+I find that this is what happened and importantly there was no conditionality imposed on the reference.
+ 
+33.  It is common ground that following the Costa Coffee meeting C resigned from her employment with D2 by e-mail timed 14.56 on 19 November 2018. I note that C said in her resignation e-mail that she hoped that she could rely on a reference from D1. She also thanked D1 personally for “all your support during my time at LCA”.
+ 
+34.  At 14.58 on 19 November 2018, D1 sought Mr Tagg’s advice on how she should reply to C’s e-mail of resignation. At 16.20 on 19 November 2018, D1 sent the draft reply she proposed to send to C’s resignation e-mail of 14.56 to Mr Tagg. This dealt with essentially financial and notice issues. Notably, this draft did not mention that C was bound by a non-solicitation clause (nor in fact did it make reference to any post-termination restrictions or confidentiality). At 16.42 Mr Tagg replied and added a paragraph to D1’s draft e-mail to C which is shown in red text in the e-mail (“the red paragraph”). He was the draftsman of the red paragraph which said: 
+“I would also like to take this opportunity to remind you that during and after your employment has ended on 19/11/2018 you will still be bound by the post-employment obligations and restrictions set out in your contract of employment, namely the confidentiality clause within the handbook, including the non-solicitation of clients and candidates details that were gained during your employment. I trust that you are unlikely to breach these terms but confirm that the Company would take action to protect itself under these circumstances.”
+ 
+ 
+35.  The genesis of the red paragraph is not explained in any contemporaneous documents but (by waiver of privilege) the Ds have disclosed a recorded conversation of the discussion between D1 and Mr Tagg (and his oral advice) on 19 November 2018 which explains how the red paragraph came to be added. I will need to consider this evidence (which is at the heart of C’s malice case), and D1’s account in more detail below, but for present purposes I record that D1’s evidence is that these added words (the red paragraph) represented her genuine belief of what C’s contract terms meant and says they were added to the e-mail by our “employment lawyers”. The recording of the advice which Mr Tagg gave is in an agreed transcript which is attached to this judgment and will be referred to below as “Tagg 1”.
+ 
+36.  D1 sent the e-mail which included the red paragraph to C at 16.53 on 19 November 2018. C did not respond in writing or orally to the e-mail suggesting that any part of it was incorrect.
+ 
+Were assurances given?
+37.  The Ds rely on three conversations between C and D1 (following C’s departure from LCA) in which the Ds say C made oral statements to the effect that C would not compete with D2 by contacting LCA’s clients and candidates. It is common ground that certain conversations took place on 22 November, 30 November and 10 December 2018 and those are the conversations in which it is said by the Ds that the assurances were given.
+ 
+38.  I find that C did give assurances to this effect to D1. I accept D1’s evidence and reject C’s oral evidence at trial to the contrary. C repeatedly and unconvincingly resisted making any concession in this regard when the documentary evidence clearly suggests some form of assurance must have been given, as I describe below. Although C’s pleaded case is a denial, her oral evidence was ultimately not clear. In closing her leading counsel, with realism and delicacy, did not appear to seriously challenge the fact that the evidence pointed to assurances having been given.
+ 
+39.  The Ds’ case on assurances is supported by the contemporaneous material. In addition to accepting D1’s oral account, the following facts are significant in my finding that assurances were given. The starting point is that C knew that D1 had said her contract prevented C from soliciting the Ds’ clients and candidates. It is in those circumstances C approached D1 to get a reference to work at another recruitment firm. It would be odd if the issue of compliance with these terms would not be raised by D1 when she was being asked to assist C.
+ 
+40.  C’s understanding is also revealed by C’s candid texts to her friend Nicki Newton (“Ms Newton”) (who had joined Balgores from LCA) and with whom she appears (from the texts) to have had a close relationship. C texted Ms Newton on 20 November 2018 in the early hours. C was clearly upset about what LCA “had done to her” (which I read as effectively *8 procuring her resignation). C proposed to send to D1 a text message seeking D1’s help. That draft message was shared by C with Ms Newton before it was proposed to be sent to D1. C informed Ms Newton that she wished to act (in her words) as a “shark”. In effect, she was seeking to manipulate D1 so that she could compete with LCA’s business by deceiving D1 to send C’s CV to a new employer.
+ 
+41.  The texts show that C’s plan was that if D1 was persuaded to do this this would preclude D1 from suing her. This was all to be done while misleading D1 into believing C was just simply being genuine in seeking advice and assistance in getting a job. I have not set out the unedifying texts in more detail. C’s conduct in this regard does not put her in a good light. The texts include deeply offensive comments and language in relation to D1 including homophobic comments—for which she apologised in court. But ultimately it seems to me that this unfortunate episode of what the Ds called “revenge” for perceived poor treatment at the hands of the Ds is of little overall relevance in this claim save in so far as it assists in determining whether assurances had been given.
+ 
+42.  On 20 November 2018, C sent D1 a text as follows:
+“I am writing now as a friend not an ex employee. I really would be very disappointed if things were left as they are. I’ve had time to reflect and would really appreciate your input and advise in terms of possible options career options. I would also really like to leave things on very amicable terms with you. Do you have anytime free for a quick even 30 minute meeting at some point this week?”
+ 
+ 
+43.  C rang D1 on 22 November 2018. There is a dispute as to the general subject matter of the conversation but on both parties’ cases the subject matter was future work prospects for C in recruitment. In those circumstances, I find it is only natural that D1 would seek an assurance from C in line with the provision she had said C was subject to, and that C would volunteer such an assurance.
+ 
+44.  On 30 November 2018, there was an exchange of text messages in which C had sought D1’s help in providing a reference for a job at Fawkes & Reece (a City firm) and told D1 that a local competitor recruitment firm had also made her an offer. In those circumstances, it is again very much more likely that an assurance against poaching business was given by C than otherwise.
+ 
+45.  I note that D1 partly evidences the subject of the 30 November 2018 call and her disappointment that C had been to see a local (and competitor) recruitment firm in a text response to C of that same day. I find that the disappointment expressed by D1 “given our chat” is far more consistent with assurances of non-solicitation having been received from C than not.
+ 
+46.  On behalf of C, it was submitted by leading counsel in his closing that whether C made any statements or gave assurances concerning the degree to which she might remain in the same market as D2, that needs to be seen in the context of pressure being exerted upon her by D1. Leading counsel for C argued (and suggested in cross-examination of D1) that at the time D1 was “trading” the reference that C needed in order to obtain a new job as a recruiter at Fawkes & Reece and the reference was offered in exchange for such assurances. I was referred to the facts that D1 later stated in an e-mail dated 11 January 2019, she gave C a glowing reference “on the basis she does not contact our candidates and clients” (this was a reference orally given by D1 to Mr Lingenfelder, as I describe below).
+ 
+47.  Why C gave assurances to D1 does not to my mind matter. There was clearly give and take on both sides. The relevant fact (and I so find) is that she gave these oral assurances on each of the days pleaded by the Ds. I note (in further support of the Ds’ case that assurances were given) in a text message that C later sent to a new colleague at Fawkes & Reece which referred to her approaches to Strettons and stated: “hopefully my ex boss won’t find out.” To that one can add the e-mail correspondence much later (11 January 2019—see below) between D1 and Mr Jacobs which also supports the Ds’ case that she had received assurances from C that she would not contact LCA’s candidates and clients.
+ 
+The C joins Fawkes & Reece
+48.  On 28 November 2018, the C texted D1:
+“I have found a really exciting opportunity and I have very much taken on your advice in terms of company and setup. Graeme Lingenfelder is the Director from Fawkes and Reece. He will be contacting you :) Is it possible to have a quick chat tomorrow prior to that?” *9
+ 
+ 
+49.  D1 spoke to Mr Lingenfelder on 3 December 2018, when she gave the C a positive oral reference. C was successful in obtaining a role within that company.
+ 
+C chases her contract with LCA
+50.  On 19 December 2018 C e-mailed D1 to ask for a copy of her “contract” and to ask about some shoes she had left behind at LCA. D1 responded: “what do you need the contract for? What issues are you looking to avoid? Has something changed?”
+ 
+51.  When asked in cross-examination why she had not simply provided the contract she said it would have been difficult for her to access it as she had finished for Christmas. C responded on 29 December 2018 to say that she wanted to check her job title. D1 did not respond to this and the matters seemed to have been dropped. I reject D1’s account and find that the reason D1 did not wish to send the “contract” (which she believed was the Handbook) was her concern that C might discover there was no covenant against solicitation. In the circumstances then prevailing D1 was concerned about soliciting of clients by C and a later private e-mail exchange on 11 January 2019 between D1 and Mr Jacobs supports this conclusion (see para 58 below).
+ 
+52.  It is clear to me on the evidence that C was planning to target LCA’s clients (contrary to the assurances she had given to D1). There are in evidence text exchanges with Mr Lingenfelder dated 21 December 2018 in which she states that: “Strettons on board” and that she was: “working my way down my list”. C has not disclosed any list but Strettons were the LCA employer-client where she had placed Lianne Berman (a friend of C). I agree with the Ds that this material supports their case that the C was putting her plan to target LCA clients into action and working through a list of LCA’s employer-clients and candidates. This was part of her revenge strategy for the slight she felt she had suffered at D1’s hands.
+ 
+53.  A positive written reference was provided to C by D1.
+ 
+54.  On 3 January 2019, C began employment with Fawkes & Reece. It is common ground that whilst employed by Fawkes & Reece, the C contacted some clients and candidates with whom D2 had dealt. I will summarise the contact in so far as material to the claim below.
+ 
+55.  On or around 11 January 2019, Ms McPherson heard from Strettons that C had been in touch with them, looking for business. C had helped place a candidate at Strettons whilst she was at LCA. Ms McPherson was told by Strettons that they were annoyed because, after her departure from LCA, C had taken the candidate out for lunch. This concerned them because they feared she would try to poach the candidate that Strettons had just paid LCA to recruit. This information was passed on to D1 by Ms McPherson.
+ 
+56.  D1’s evidence, which I accept, was that she was disappointed that C had contacted a client of LCA’s as she had helped her gain the new role at Fawkes & Reece and she had promised her in discussions that she would “act honourably and not contact LCA clients” (in effect, the assurances to which I have referred above). D1 did not at that time take any action after hearing about the call to Strettons. I accept D1’s evidence that she had hoped this was an isolated incident.
+ 
+57.  However, there is significance in the fact that she discussed the Strettons matter with Mr Jacobs and those exchanges are material in assessing D1’s state of mind. I will call these e-mails “the Jacobs E-mails”.
+ 
+The Jacobs E-mails
+58.  The first is an e-mail sent by D1 to Mr Jacobs at 10.26 on 11 January 2019 in which D1 informed Mr Jacobs about D1’s concerns that C had contacted one of “our clients” (clearly, this was a reference to Strettons). D1 did not mention that this was in breach of a non-solicitation clause. Instead, the e-mail suggests she is annoyed that she gave C a “glowing reference” on the basis that C would not contact “our candidates and clients” and that C had not “respected” this request (again evidence which in my view supports D1’s case that assurances had been given).
+ 
+59.  Mr Jacobs replied at 10.41 on 11 January 2019 and he urged D1 to inform C that she was bound by restrictive covenants and that unless C stopped approaching “[LCA’s] clients and candidates” the Ds would take “severe legal action against her and pursue an injunction”. He stated in terms that D1 should be sent “a copy of her Employment Contract with references to her Restrictive Covenants”.
+ 
+60.  D1 replied by e-mail to Mr Jacobs at 11.12 on 11 January 2019. She set out the background to the inclusion of the red paragraph in the e-mail she sent C on 19 November 2018 and attached the letter of 19 November 2018 she had sent to C. Referring to the Peninsula legal advice, she explained to Mr Jacobs:
+“When looking through contract we had nothing substantial in it, so under peninsula guidance added the vague sentence highlighted below to her [the red paragraph] … I have subsequently received signed restrictive covenant agreements *10 from all existing staff (copy attached). I know she can’t find her handbook copy as she asked me to send it to her after I broke up at Christmas (which I didn’t send). So a difficult one to quote on legal terms …”
+ 
+ 
+61.  This e-mail makes clear that by now D1 believed that C had requested a copy of her Handbook because she did not have a copy. D1 stated that she had ignored C’s request to send her a copy. I find that this was to ensure that the C could not see for herself that there was no non-solicitation clause. I will need to consider D1’s state of mind in more detail below but at this stage I would observe that if D1 believed that the Handbook did include a non-solicitation clause or something to similar effect (like the Confidentiality Clause) it is somewhat surprising that she did not simply send the Handbook with the confidentiality provision highlighted.
+ 
+62.  This e-mail exchange with Mr Jacobs reveals that, in the discussion about the deficiencies of C’s contract, he is told that remaining members of staff have had to sign restrictive covenants since C’s departure.
+ 
+63.  Having been informed of the contractual position by D1 at 14.02 on 11 January 2019 Mr Jacobs advised D1 that: “Despite the limitations in the Contract, I would still go in strong in the fashion that I have described, particularly as she cannot find the copy of her contract.” He also advises that D1 also allege to C’s employer that she is in breach. “Go for her Lynn”. In fact, as noted above, D1 did not pursue matters following the Strettons issue.
+ 
+Mr Butler becomes annoyed with C
+64.  However, the issue of C dealing with LCA’s clients arose again a few days later. On 17 January 2019, Ms McPherson e-mailed D1 stating that she had spoken with Matthew Butler (Sales Director of Balgores) about the instruction of C by Balgores. Mr Butler is reported to have stated that “Martin” had agreed to this. It is agreed that this is a reference to Martin Gibbon, the Group Managing Director of Balgores and therefore Mr Butler’s superior. It is also agreed that this was Mr Gibbon giving Mr Butler the “go ahead” to use C’s services as a recruitment consultant on certain financial terms.
+ 
+65.  D1 replied to Ms McPherson on Sunday 19 January 2019: “Silly Girl. Don’t worry, I will deal with this when back.” This is clearly a reference to C.
+ 
+66.  In or around this period, D1 also learned from Ms McPherson that Mr Butler had called her and said that he was annoyed with C because of a dispute in which she was claiming a fee on a candidate introduced by another recruiter. I will call this the “double commission” issue. It is agreed between the parties that Mr Butler had this concern and he was upset that his firm was being asked to pay two commissions (and I say nothing about the merits of his concern—that is not relevant).
+ 
+67.  Mr Butler gave evidence of his dealings with C. Save in respect of his recollection of what he discussed with D1 on 21 January 2019 (which is the subject of the slander claim), I consider his evidence to be reliable and I accept it. Mr Butler said he had originally spoken with C as a favour to an employee, Ms Newton, and agreed that she could send him some CVs to consider. His evidence was that dealing with C was “a nightmare from the start”. That is because the very first candidate CV that she sent him was for a candidate that had already been referred to his firm by Kings Permanent Recruitment. That led to the double commission dispute. He explained the nature of the problem to Ms McPherson at LCA. He said that she sounded surprised and told him that she would mention to D1 that C had been in touch with Balgores. He did not recall Ms McPherson saying that the C was in breach of her employment terms with LCA but he could not recall this part of the conversation clearly.
+ 
+68.  There is an issue as to whether on the morning of 21 January 2019 Mr Butler left a voicemail for C saying that he did not want to deal with her further as the first instruction had been problematic (by reason of the double commission issue). His evidence is that he believed he said that he was concerned that she should not be dealing with Balgores because she had worked at LCA. In his words, he “wanted a reason to not work with her further because she had caused me hassle”. Although it was suggested late in the trial that there was no evidence of such a voicemail having been left at that time, I accept Mr Butler’s evidence that he left such a message. I also consider the evidence shows that he was independently upset with C and put off dealing with her because of the double commission experience (and that does not depend on when he left her a voicemail).
+ 
+D1’s conversation with Mr Butler on 21 January 2019
+69.  It is common ground that Mr Butler spoke to D1 during the day on Monday 21 January 2019. This call is significant because it forms the basis of one of the slander claims. Mr Butler’s recollection (which I accept) is that he called D1 to discuss other matters and that the issue *11 of C arose as Ms McPherson had relayed to D1 the contents of their earlier call about C. I have difficulties however with his and D1’s recollection of what passed on the call. I will first summarise their evidence and then move to my finding.
+ 
+70.  Mr Butler’s evidence was that he does not recall D1 saying anything about terms and conditions or suggesting that C was in breach of her contractual obligations to LCA. He said that he had the impression after the call that there might have been an issue between LCA and C, and that she ought not to be approaching LCA clients (but this was not based on anything specific said by D1). He emphasised that he had already left the voicemail for C by the time that he spoke with D1 confirming that he did not want to deal with her C (which I have accepted). He referred to the fact that had C left him a voicemail in response to his in which she said that lots of “inaccurate information” was being given to him, referring to LCA.
+ 
+71.  D1’s evidence of her call with Mr Butler is broadly consistent with his account. Her evidence was that she told him that she was surprised that C had contacted him when C had specifically told D1 that she would not contact LCA clients after she left. She was adamant that she did not tell Mr Butler that C’s actions were in breach of her terms and conditions of employment. Her evidence is that the e-mail that Mr Butler later sent C (referred to below, the Butler E-mail) does not reflect the discussion or the words she used. She emphasised that she went no further than to say that she was disappointed at C’s behaviour.
+ 
+72.  Following his oral communications with the Ds, Mr Butler sent C an e-mail at 16.32 on 21 January 2019 (“the Butler E-mail”) stating:
+“Please can you put our search for staff from you on hold. I have spoken again to Lyn Cannell today she advises that as part of your terms you should not be approaching her clients. As you know, I have dealt with Lyn for 10 yrs and until you have come to a resolution with her I think its best we put on hold for now.”
+ 
+ 
+73.  In his witness statement Mr Butler said that “the wording ‘part of your terms’ were my words and not Lynn’s”. In so far as the e-mail says that he spoke “again” to D1, his evidence was that he only spoke with D1 once and that the earlier call was with Ms McPherson. He also says:
+“I would never have dealt with Fiona George again regardless of anything said by Lynn. She had caused me a headache with her first candidate referral and behaved in a way that I felt damaged any chance we had of a working relationship.”
+ 
+ 
+74.  My conclusion on the evidence is that D1 said words to the effect recorded in the Butler E-mail to Mr Butler on 21 January 2019. I start from the position that where some time has passed since the events and the language in this contemporaneous document is clear, I would require some persuasion not to prefer its contents (and to draw the obvious inference) over witness statements and oral evidence given some years later. My finding is that Mr Butler’s oral evidence is honestly mistaken. It was understandable that Mr Butler could not remember properly what had happened on 17–21 January 2019 when in March 2019 (only ten weeks after those events) he said in an e-mail he was “racking his brains” to remember what happened. I find it hard to accept that his memory had improved to enable him 18 months later to make a witness statement saying these words were not spoken. The overriding point however is the language of the Butler E-mail.
+ 
+Did D1 say anything to Mr Gibbon about C?
+75.  Martin Gibbon, Group Managing Director of Balgores, gave evidence that he did not discuss C with D1 in January 2019 and in fact had never discussed her with D1 or anyone else at LCA. He also had no recollection of discussing C with Mr Butler in January 2019 or at all. This was also the evidence of D1.
+ 
+76.  I accept this evidence. I find there was no publication of the words complained of to Mr Gibbon. I also do not accept C’s evidence that Mr Butler had told her that D1 had spoken to Mr Gibbon and asked him to stop doing business with the C. I prefer the evidence of Mr Gibbon and D1 who were the direct parties who are said to have spoken.
+ 
+D1’s E-mails to C and to Mr Lingenfelder on 21 January 2019
+77.  At 16.30 on 21 January 2019, D1 wrote to C as follows (I will call this “the George E-mail”):
+“It is with great sadness and disappointment to find that despite making clear to you, both verbally and in writing, of your post-employment obligations under the terms of your employment, not to solicit business from LCA clients and candidates and your absolute assurances that this is something you would never do, that you have in *12 fact been proactively approaching our clients for new business as well as contacting candidates of LCA. Whilst I have done all I can to support you during your time at LCA and following your departure, you have left me no choice but to address the breach of your post-employment obligations and inform you that if you persist in approaching our clients and candidates I will take severe legal action against you and pursue an injunction. I will also be writing to your employer advising them of your actions and seek their assurances that they will prevent you from abusing your post-employment restrictions. I have worked hard to build a business based on honesty, trust and loyalty and will do all I can to protect it. I will therefore be contacting our clients to advise them of your actions and your violation of the terms of your post-employment obligations. I would urge you to take serious note of this warning and confirm in writing that you will immediately desist from approaching LCA clients and candidates and that you will respect our post-employment restrictions and data protection policy. I urge you to demonstrate the consideration and respect this request deserves and confirm that you will not be making any further contact with LCA clients and candidates. If I do not receive confirmation in writing from you in this regard within the next seven days I will commence legal action without hesitation. I sincerely hope that this will not be necessary and that you can continue your time at Fawkes and Reece without the distraction of more legal action, as I am only too aware of the impact this is likely to have on you. I look forward to hearing from you.”
+ 
+ 
+78.  Shortly afterwards at 16.37, as she said to C she would, D1 sent the Lingenfelder E-mail of 21 January 2019 which has been at the centre of this claim. I have set this out above and will not repeat it: see para 6.
+ 
+79.  Both of these communications followed legal advice from Mr Tagg (Tagg 2). I will address that separately below in detail together with the 19 November 2018 advice (Tagg 1) given by Peninsula when I consider the plea of malice.
+ 
+80.  C went to find Mr Lingenfelder as soon as she received D1’s e-mail. She explained to him what had happened in relation to the e-mail from Mr Butler and also told him that what D1 had said in her e-mail to C was untrue. She informed Mr Lingenfelder that there was nothing in her contract restricting her from contacting clients. It was at this point that he showed her the e-mail he had just received from D1.
+ 
+81.  They discussed the Ds’ threat of legal proceedings and Mr Lingenfelder said that he did not think D1 would sue Fawkes & Reece, because of the costs involved. C was concerned because D1 had threatened to sue her personally. Although they discussed the allegation of breach of contract, Mr Lingenfelder did not ask her whether she had given assurances. The main issue discussed was the contract, so C showed Mr Lingenfelder the Handbook so that, in C’s words “he could see for himself that there was nothing preventing me from speaking to Balgores or Strettons or any other LCA clients”. Mr Lingenfelder said that the best way to deal with this was to ring-fence some LCA clients.
+ 
+82.  When C got home on the evening of 21 January 2019, she became hugely emotional. She spoke to her friends and family about what had happened and asked her other recruiter friends for advice. She did not sleep well that evening and was constantly worried about what might happen next. She was concerned that D1 had a “vendetta” against her. The next day, she called Mr Lingenfelder to tell him that she was resigning. She felt she could not bear the humiliation of being in the office with other people knowing about D1’s allegation and the issues with Balgores. It is clear on the basis of her private texts that strenuous efforts were made to persuade the C to remain at Fawkes & Reece. I return to those below.
+ 
+83.  Although D1 told C in the George E-mail that she would be contacting clients about her poaching activities, her evidence is that she never did so. There is nothing in the evidence before me to suggest that she did so. I find there was no further publication.
+ 
+84.  Mr Lingenfelder replied to D1 in an e-mail of 22 January 2019. He said:
+“Hi Lynn,
+ 
+“Apologies for the belated response, much like yesterday my feet have not touched the ground and am at my desk for the first time since yesterday pm. I am happy with the client list we have allocated to Fiona, but if you wish to share more specific information then I will certainly look into this. We often have consultants join us from competing businesses and our advice and actions are always to respect any covenants that are relevant and applicable.” *13
+ 
+ 
+85.  C returned to work on 23 January 2019 and spent her day trying to explain things to the clients, who were not ring-fenced, that she had already been in contact with, as well as to try to get some new clients. She said this was futile because all of the calls and e-mails she made to existing clients went unanswered, and it was proving very difficult to get enough new clients on board to make up for the ones she had lost. On the evidence, I find that this was not because of any communication by the Ds to these clients. See my finding above.
+ 
+86.  D1 replied to Mr Lingenfelder on 25 January 2019 stating:
+“Thank you for taking the time to respond to my e-mail on Tuesday and no apology needed for the delayed response, I know the feeling! Given the circumstances, I trust you will appreciate my reluctance to share information about the LCA candidates and clients Fiona has been in contact with, but can give you my absolute assurances that these are not existing clients of yours. Whilst I appreciate our respective businesses relate to the property industry, Fiona had stressed you specialise in construction and assured me there would be no competing issues, hence my genuine surprise at her recent activity. It would be helpful to understand your direction to Fiona on this point. Thank you for confirming your respectful position on post-employment covenants when recruiting consultants and trust you will reinforce this with Fiona to avoid any further conflicts. I await confirmation from Fiona next week and hope this matter can be resolved respectfully. If however, Fiona’s post-employment obligations are not respected, I will of course take further action to protect our business. I sincerely hope I can trust your support in this matter and look forward to hearing from you both with confirmation shortly.”
+ 
+ 
+87.  Insofar as D1 believed Mr Lingenfelder was agreeing with the position that D1 had relevant covenants I consider she was mistaken. Mr Lingenfelder had seen the Handbook and he had been careful in saying what would be respected by C.
+ 
+88.  Mr Lingenfelder responded on 25 January 2019. He explained that whilst his company specialised in construction recruitment, they had a relatively new estate agency division, which is where C had been working. He told D1 that he had allocated their own clients to C so there was no need for her to contact LCA clients. His e-mail indicated he had seen a copy of LCA’s Handbook (which C said she had shown him within minutes of the e-mail being received by her). D1 did not respond to this e-mail.
+ 
+89.  On 28 January 2019, Mr Lingenfelder e-mailed D1 to say that C had tendered her resignation to Fawkes & Reece over the weekend and was no longer employed by them. He also said: “I did make it clear to her upon starting that she needed to avoid any clients that she had previously done business with at LCA but it fell on deaf ears.”
+ 
+90.  C’s resignation e-mail of 27 January 2019 sent to Mr Lingenfelder included the following:
+“Lynn Cannell has played a significant part in my decision. She has taken it upon herself to tarnish my name throughout the industry and it is now clear that the clients are rejecting my approaches because of this and I believe will continue to do so for some time.”
+ 
+ 
+91.  Mr Lingenfelder informed D1 of the resignation on 28 January 2019 and she responded on 29 January 2019 as follows:
+“So sorry for the delayed response, I have just located your e-mails in my junk folder! I just wanted to thank you for your open and respectful communication in respect of Fiona and of your business interests. Given the information provided to me following Fiona’s departure from LCA (separate from the post-employment issues), I feel you have had a lucky escape.”
+ 
+ 
+92.  Mr Lingenfelder’s reply to D1 on 29 January 2019 was in the following terms:
+“Hi Lynn, thanks for the reply and yes, it certainly does appear to be that way! I did make it clear to her upon starting that she did need to avoid any client’s that she had previously done business with at LCA, but it fell on deaf ears. Quite a lot of time wasted in the past month, which was disappointing, but like you say I’ve probably saved myself a lot more time and hassle in the long run.” *14
+ 
+ 
+93.  On its face this communication (which I consider more accurately reflects the facts more than any later oral testimony) shows that Mr Lingenfelder had never in fact wanted the C to deal with LCA clients and had warned her against this (and that was nothing to do with any alleged contractual restraints D1 had represented applied to C).
+ 
+94.  I accept that C was embarrassed by the negative portrayal of her in the Lingenfelder E-mail. However, I do not accept her evidence that her reputation with him and the firm had been tarnished by the breach of contract allegation. It is inconsistent with the firm’s desire that she remain and her own candid text descriptions of how much they desired this (see further below). I do not accept that “everyone” would regard her as “untrustworthy and dishonest” as she says in her written evidence. The Lingenfelder E-mail was to one person and he clearly could not have believed that she was restrained because he had seen the Handbook.
+ 
+95.  C said that she resigned because she felt that her “reputation had been destroyed and the hurdles that I would have to overcome in order to repair it as well as earn a good salary, were insurmountable”. Again, I do not accept this. In my judgment, she had no compulsion to resign by reason of the Butler Words being communicated or the Lingenfelder E-mail. In fact, as appears below, her actual thinking is revealed by the texts in evidence before me.
+ 
+96.  Not long after leaving Fawkes & Reece, C was successful in getting a job in recruitment for the education sector. That began on 25 February 2019 and so she claims she lost around three weeks’ pay, £1,538.4 (before tax). Those figures are agreed but there is an issue as to whether this is recoverable loss.
+ 
+97.  On the evidence before me, it is clear that no pressure to resign came from Mr Lingenfelder. Indeed, in candid (and I assume truthful) messages to her friends C appears to suggest the opposite in strident terms. The text messages to Ms Berman and Ms Newton state that Fawkes & Reece were wholly supportive of C. Some examples are (with comments from me in square brackets):
+To Lianne Berman on 22 January:
+ 
+“ My Bosses are 100% behind me ”
+ 
+To Nikki Newton on 22 January:
+ 
+“ My firm refused to let me resign … ”
+ 
+“ PS they told me they will ‘fuck her up’ … ” [I assume a reference to what Fawkes & Reece proposed to do to D1]
+ 
+“ I even told the owner ‘I’ve lost my passion’ and he said its my ducking job to get it back. I couldn’t say no… ”
+ 
+“ They even said no Sales week ever for me … ”
+ 
+“ And no deals target nothing. ” [a beneficial position for a consultant, suggesting favour for her] “ But I am still focused on leaving babes. Just do it my way not Lynns ”
+ 
+To Lianne Berman on 23 January:
+ 
+“ My director wouldn’t let me resign .”
+ 
+ 
+98.  Consistently with these exchanges no suggestion was made by C in oral evidence that her employer reacted to the Lingenfelder E-mail negatively and directly or indirectly pressured her to resign. Despite this, for her own reasons, C was still in her words “focused on leaving” Fawkes & Reece.
+ 
+99.  I also consider a further text to Ms Newton on 28 January 2019 shows what her employer thought and reflects the fact that she (and her employer) knew there were no restraints. That text is as follows with my own additions in square brackets added for explanation (the redactions have been made by C’s solicitors on grounds, I assume, of relevance):
+“Hey bub, Wow Ms Cuntell [reference to D1] as we all now refer to her has really taken it too far … I have investigated her claims that ‘that I have breached my post employment regulations’ and found said regulations DON’T exist [likely referring to her consideration with Mr Lingenfelder of the Handbook]. Not only that she’s written to her 20-year contact list and (put that in writing) specifically stated these false accusations and told everyone in my industry to specifically not work with me [a reference to the George E-mail]. Effectively destroying my career. Plus she even wrote to the owner and Director of my company [Mr Lingenfelder] and attempted to get me fired. Which they [Mr Lingenfelder for Fawkes and Reece] thought was totally pathetic. That is also in fact liable and instead of her suing me, I’ll be suing her! ££££ [REDACTED]. As far as my career, well it’s not exactly going to recover from this, so I am looking to move on. X [REDACTED] is going to contact Chelmsford branch. Not meet him but seems like got potential over the phone and he’s ex House Network. *15 I had to explain I couldn’t recruit for Balgores at the mo and I’ve suggested he contact you guys direct.”
+ 
+ 
+100.  This text speaks for itself. It is frank and consistent with the earlier communications. It is clear in my judgment that Mr Lingenfelder knew that there were no covenants and considered the attempt by D1 to damage C by having her employment terminated as “pathetic”. C’s reason for resigning was not based on the Lingenfelder E-mail (or the Butler Words having been said) but her view that her career was at an end because D1 had already carried out the threat to contact the clients which she had made to D1 in the George E-mail. C’s position had not become untenable due to the Lingenfelder Email or what I have found D1 said to Mr Butler.
+ 
+The Bridge-IT Lend and CVs Issues
+101.  These are two matters of complaint against C pleaded by the Ds. As I have said above, I consider they have no relevance to a proper truth defence and had this been included in C’s list of issues to which they objected at the start of the trial, I would have struck these allegations out. Leading counsel for C agreed in closing they are irrelevant. I heard evidence on these matters and will express (albeit briefly) my conclusions on these issues.
+ 
+BridgeIT Lend
+102.  The Ds say that in breach of contract, C carried out work for BridgeIT Lend (a company of which she was a director and was working for just before joining LCA). I find that she did not inform D1 of the limited work she was going to carry out for BridgeIT Lend and D1 did not authorise it. However, I accept that C has disclosed all of her correspondence concerning BridgeIT and I accept her oral evidence. Some very limited work was done during working hours and this may have been completing existing transactions. There was no breach of contract established.
+ 
+CVs
+103.  The Ds allege that C “misappropriated” candidate CVs during her employment. I reject this serious allegation of breach and wrongdoing. I note the only documentary evidence is that on a number of occasions that C sent CVs from her work address to her BridgeIT e-mail address. There is nothing which suggests that C did anything other than use them to carry out work for LCA at home. There was no breach of contract.
+ 
+III. The sting(s) and the truth defence
+104.  The Ds’ case on common sting concerns the following scenario: if the Ds do not prove the truth of the breach of contract allegation, but prove the truth of the breach of assurance allegation, should the truth defence succeed? If there is a common sting, the answer will be “yes”. In my judgment, there is not a common sting. While there is some overlap, I do not consider the two meanings overlap sufficiently for there to be a common sting. Applying the principles in Polly Peck (Holdings) Plc v Trelford [1986] QB 1000 and Gatley at para 11.5, fn 36, I consider the stings to be distinct and severable as a matter of substance.
+ 
+105.  My reasons for concluding that the breach of contract allegation is distinct/separate are as follows: 
+      (i)  Entering into a contract causes a formal legal relationship to arise by which the parties agree to do/not do certain things. Thereby (on the meaning found by the Deputy Judge) C signed a contract which included a clause not to contact the Ds’ clients and candidates after her employment with D2 ended. In return she received a job and a salary.
+      (ii)  Contracts are not and should not be entered into lightly. The signatory will realise the importance of the terms (particularly the consequences of breach).
+      (iii)  If the contract is breached, the person breaching it may be subject to a legal claim at the conclusion of which he or she might have to pay damages. In the case of a claim for the breach of a restrictive covenant, it is more likely than not that the claimant will seek a final injunction to prevent further breaches. If an injunction is granted, it will contain a penal notice warning the defendant that a breach of the injunction will be taken so seriously that he or she might be fined or given a custodial sentence if they breach it.
+      (iv)  If a contract is breached and the defendant is sued, he or she will also have to endure the stress and expense of defending a claim. I note that in the Lingenfelder E-mail Mr Lingenfelder was told that D1 would bring a legal claim which would impair C’s ability to perform her job at Fawkes & Reece. This will be particularly so if an injunction were to be obtained against C (as threatened in D1’s e-mail to C).
+      (v)  The allegation that C was in breach of a non-solicitation clause was made on the premise that Fawkes & Reece would assume that a non-solicitation clause existed. In regard to publication *16 to a new employer, that is likely to cause the new employer to restrict the employee’s activities to avoid a further breach. In regard to publication to a client, it is likely to cause that client not to deal with C.
+ 
+106.  By contrast, the breach of an assurance will result in none of the above. There will be no consequences other than to cause the receiver of the assurance to be concerned that the other person has gone back on an assurance. The new employer may think that there is an element of disloyalty in this, but it is of altogether a different nature to an allegation of contractual breach.
+ 
+107.  The Ds have never alleged that C breached an actual non-solicitation clause. They have withdrawn the case that C’s actions constituted the breach of a de facto non-solicitation clause based on a strained/imaginative interpretation of the Confidentiality Clause in the Handbook. The fact that I find the assurances were given and broken, cannot establish the truth of the breach of contract allegation.
+ 
+108.  The remaining case seeks to prove the truth of breaches of contract which occurred during the C’s period of employment (relying upon the CVs issue and the Bridge-IT Lend issue). In my judgment, even if the Ds’ case on both alleged breaches were to succeed, they would not be capable of proving the truth of the allegation in issue concerning breach of contract.
+ 
+109.  Therefore, even if I were to find (contrary to my actual finding) that in breach of contract C did carry out work for BridgeIT Lend and “misappropriated” (the Ds’ words) candidate CVs, those proven facts could not prove that she had wrongly (whether in breach of assurance or contract) contacted LCA’s clients and candidates.
+ 
+110.  The Ds’ truth defence fails.
+ 
+IV. Publication
+111.  My findings above are that there were only two publications: the Lingenfelder E-mail and the Butler Words. I have rejected the inferential case in relation to the other two publications.
+ 
+112.  The result of my conclusions on the facts is that the viable claims remaining are libel and malicious falsehood claims arising out of the Lingenfelder E-mail, and slander and malicious falsehood claims arising out of the Butler Words I have found were spoken by D1 to Mr Butler.
+ 
+113.  Libel does not require there to be special damage. Slander and malicious falsehood require, for the purpose of liability, that either a publication caused special damage or that it is actionable per se (ie without the need to prove special damage). I will address malicious falsehood separately, but I understand that the Ds accept the slander claim arising out of the Butler Words (if proved) is actionable per se.
+ 
+V. Serious harm to reputation
+114.  This is a substantial matter in dispute between the parties. The Deputy Judge determined that each publication defamed the C at common law. However, for a publication to be defamatory the following test must also be satisfied under section 1(1) Defamation Act 2013 : “A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant.”
+ 
+115.  Both parties referred me to the statements of principle in Lachaux v Independent Print Ltd (Media Lawyers Association intervening) [2019] UKSC 27; [2020] AC 612, para 21 . The Supreme Court in Lachaux held that by section 1(1) a statement which would previously have been regarded as defamatory at common law alone, because of its inherent tendency to cause some harm to reputation, is not to be so regarded unless it “has caused or is likely to cause” harm which is “serious”. “Serious harm” was held to refer to the consequences of the publication and depends on a combination of the inherent tendency of the words and their actual impact on those to whom they were communicated. “Likely” to be caused refers to probable future harm and not merely to the tendency of the words.
+ 
+116.  In Lachaux at para 14 Lord Sumption observed:
+“The reference to a situation where the statement ‘has caused’ serious harm is to the consequences of the publication, and not the publication itself. It points to some historic harm, which is shown to have actually occurred. This is a proposition of fact which can be established only by reference to the impact which the statement is shown actually to have had . It depends on a combination of the inherent tendency of the words and their actual impact on those to whom they were communicated .” (Emphasis added.)
+ 
+ 
+117.  Therefore, it is now a requirement of an action in defamation that serious harm be proved to have been caused or be likely to be caused by publication of the words complained of as a matter of fact and by reference to those to whom the words were communicated. Proof of such *17 fact is a burden upon the claimant. One should also not lose sight of the statutory qualifier serious harm.
+ 
+118.  In respect of the extent of publication, seriousness of harm caused is not merely an arithmetical test: such assessment is not simply a “numbers game”: see Dhir v Saddler [2017] EWHC 3155 (QB); [2018] 4 WLR 1, para 55 (this was pre-Lachaux) . In Hodges v Naish [2021] EWHC 1805 (QB) , Richard Parkes QC considered serious harm in the context of a claim in slander at paras 144–150. He considered Nicklin J’s conclusion in Dhir in which Nicklin J concluded that the kind of limited harm which will usually be caused by the very limited publication of a slander could still cause serious harm as understood by section 1 . Notably, Nicklin J emphasised that it is the “quality of the publishees, not their quantity, that is likely to determine the issue of serious harm in cases involving relatively small-scale publication”: para 55. Richard Parkes QC endorsed these propositions. At para 150 he stated that the grapevine effect might also be highly relevant to serious harm.
+ 
+119.  There was an apparent issue between the parties as to the relevance if any of the reputation of the claimant in the mind of a publishee to the section 1(1) question: is it relevant to the determination of serious harm? As I originally understood C’s case, she said it is not and the Ds argued the opposite. In the context of this case the point can only be relevant to the slander claim arising out of the Butler Words where Mr Butler has given evidence (which I have accepted) as to his view of C and why he did not want to deal with her (essentially, the double commissions issue). That view was in my judgment formed before the words were said to him and on any view at around the same time.
+ 
+120.  On this subject, leading counsel for C relied upon certain observations in the pre-Lachaux case of Monroe v Hopkins [2017] EWHC 433 (QB); [2017] 4 WLR 68, para 70 (7) and (8). Given the nature of the arguments made to me, I drew the attention of the parties to certain parts of Lord Sumption’s judgment in Lachaux which appeared to be relevant. I did this after the trial and invited submissions which both parties helpfully provided in notes.
+ 
+121.  At para 16 Lord Sumption said (with my underlining):
+“Suppose that the words amount to a grave allegation against the claimant, but they are published to a small number of people, or to people none of whom believe it, or possibly to people among whom the claimant had no reputation to be harmed. The law’s traditional answer is that these matters may mitigate damages but do not affect the defamatory character of the words. Yet it is plain that section 1 was intended to make them part of the test of the defamatory character of the statement .”
+ 
+ 
+122.  In the context of para 14 of Lachaux (which I have set out above), it is hard to escape the conclusion that Lord Sumption contemplated that a consideration of the reputation of the claimant in the eyes of the publishee would be relevant: he thought this was “plain” from the terms of the section and he puts it in the same category as other relevant factual matters such as the number of publishees. In this case, asking this factual question (C’s reputation with Mr Butler) is a straightforward issue given there was only one publishee. I consider his view of C to be relevant when considering harm caused to her reputation by the Butler Words and I have evidence on this issue.
+ 
+123.  Insofar as they suggest a different position, I respectfully do not consider the brief observations in Monroe justify departing from Lord Sumption’s expressed opinion as to the scope of the section 1(1) inquiry. Monroe was also a very different case on the facts (involving Twitter publications). I was also referred to Price v MGN Ltd [2018] EWHC 3014 (QB); [2018] 4 WLR 150, para 46 which is plainly consistent with Lord Sumption’s observations at para 16 of Lachaux .
+ 
+124.  I can well see that if there is mass publication, identifying what the potentially thousand or more publishees thought of a claimant before a publication might be problematic for the reasons described in Monroe . But I do not see why as a matter of principle the terms of section 1(1) would not include a factual examination of that issue if raised. Specifically, if there can as a matter of fact be shown that there was no harm to a claimant’s reputation because of the negative view already held by a publishee of the claimant’s reputation, there is nothing in the statute that says this is a factual matter to be excluded from the court’s factual inquiry.
+ 
+125.  The impact of publication to a single identified publishee is therefore a matter governing the fact of whether serious harm has been caused to a claimant’s reputation by publication to that publishee. Determination of that fact controls whether the words complained of were defamatory at all in the circumstances. Such fact can be established with very much greater confidence where the publishee gives evidence to the court as to his pre-existing view of the claimant and the reasons for that view. *18
+ 
+126.  If evidence given to the court by the sole publishee leads the Court to doubt that the words complained of caused serious harm to the claimant’s reputation, Monroe cannot come to the aid of the claimant’s plea of serious harm. Ultimately, it was not clear to me (following their note) that as a matter of law C’s counsel were contesting this as a proposition.
+ 
+127.  Rather, there was a very late pleading complaint made by C’s counsel (in their note) that the “bad reputation” had not been pleaded in relation to Mr Butler’s view. Given that this point was the subject of his witness statement and cross-examined, I reject that as a basis for me to ignore this point. There has been no unfairness to C. Had it been a pleading point of substance one might have expected it to have been referred to well before a post-trial note.
+ 
+128.  I emphasise again however that in the context of this case this legal issue is of relevance only to the slander case in respect of the Butler Words. There is no evidence before me on Mr Lingenfelder’s view of C at the time of the Lingenfelder E-mail.
+ 
+Arguments on serious harm
+129.  Both parties made detailed submissions on this issue and I will seek to summarise at a high level the factual cases made. I will not however refer to every submission.
+ 
+130.  Leading counsel for C submitted that the meaning complained of is the same in regard to each publication: the breach of a non-solicitation clause. In his powerful submissions he argued the publication was serious on the facts because:
+      (i)  It hampered C’s ability to work. That was precisely why D1 made the allegation. She wanted to achieve a situation whereby there would be a de facto restriction on C competing with D2.
+      (ii)  This had an impact on C’s progress at work and her ability to earn commission.
+      (iii)  In his judgment the Deputy Judge stated at para 20 that if the breach of the non-solicitation clause of itself crossed the threshold of seriousness because of the points made in his two indented paragraphs. He further explained at para 22 why the breach of the non-solicitation clause was serious. Leading counsel adopted those observations.
+      (iv)  As said by C in evidence, the breaching of a non-solicitation clause was taken very seriously in the recruitment world. It was argued that this is in fact implicit in the publications complained of themselves. It was why D1 chose to make this allegation in the first place.
+      (v)  Within a week of publication, C resigned because she felt her position had become untenable due to the allegations made against her. Leading counsel argued that “but for” the publications complained of this would not have happened. 
+ 
+131.  Counsel for the Ds attractively argued that C could not fulfil the serious harm requirement and focused on the limited nature of the publications. He emphasised the case law requiring proof of harm. His submissions were concerned with the Lingenfelder E-mail (his primary case being that the Butler Words were not said). He stressed that since Mr Lingenfelder made clear by e-mail to D1 of 29 January 2019 that he had told C to avoid LCA clients, the allegations could not falsely have lowered C’s reputation in his eyes. He submitted that C’s own decision to resign is “null” in the absence of C’s making out publication to D2’s clients. He relied in particular on C’s own evidence as to the unilateral decision she made to resign when her employers were said by her to be “100%” behind her.
+ 
+Analysis and conclusion: the Butler Words
+132.  I will first address the slander claim. I am not satisfied that the words I have found D1 said to Mr Butler would have caused or were likely to cause serious harm within section 1(1) of the 2013 Act . First, this was a brief oral statement to just one person. Second, as to the case advanced that the words would have affected the commercial relationship, I am satisfied on the evidence they were not the cause of the relationship ending. I find that by reason of what I have called the “double commission” issue Mr Butler had already been put off dealing with C (even if he had not formally terminated relations until the Butler E-mail). It was not accordingly the slander which made him think less of C. Third, I do not consider the potential percolation to a few people in the Balgores office to be of relevance in relation to this publication—such limited percolation does not add in real terms to the serious harm case.
+ 
+Analysis and conclusion: the Lingenfelder E-mail
+133.  In my judgment, C has not discharged the burden of establishing that the Lingenfelder E-mail caused or is likely to have caused “serious harm” to her reputation within section 1(1) of the 2013 Act . I have considered both the inherent tendency of the words complained of and the evidential position as regards their actual impact on the person to whom they were communicated.
+ 
+134.  My reasons for this conclusion are as follows: *19
+      (i)  First, looking at the words themselves, I do not consider that in context that they themselves are of a nature that would justify an inference of serious harm without further evidential inquiry. I have taken into account the Deputy Judge’s observations when making his ruling on defamatory tendency, but he was not considering the issue before me and I do not consider the nature of the allegation (contractual breach of post-termination obligations) was an allegation in and of itself (such as an allegation of serious criminal wrongdoing might be) which establishes serious harm as a matter of inference.
+      (ii)  Second, the publication was to a single person. I have taken into account the fact that he was the MD of the new employer and the potential percolation effect, but this was not a case of media publication.
+      (iii)  Third, on C’s own evidence, Mr Lingenfelder was shown the Handbook by her within minutes of receiving the e-mail and knew that she had no restrictive covenants or non-solicitation covenants. Any negative view of C which might have been obtained was immediately corrected. Her evidence was that once she showed Mr Lingenfelder the Handbook, he “accepted its contents”.
+      (iv)  Fourth, the substance of the evidence of C (and the contemporaneous texts with her friends) was that, despite the Lingenfelder E-mail, her firm was “100%” behind her and made efforts to persuade her to stay. I refer to the evidence summarised at paras 94–100 above. Had the statement had a serious impact on her reputation, one would have expected some evidence of negative reception on the part of Fawkes & Reece. I accept it is difficult for a claimant to call evidence of positive harm to reputation from third parties but here there is contemporaneous documentary evidence from C herself suggesting no harm. The evidence is clear and convincing evidence to the contrary—to the effect that the firm was firmly embracing C. In C’s own words, the firm/Mr Lingenfelder thought that the attempt made to get her fired was “pathetic”. That is not how one would describe the attitude of someone who has formed a negative view of C.
+      (v)  Fifth, and related to the previous point, it is clear on the evidence that there was no pressure at all on C to resign and she took this decision unilaterally. I have found that she must have made that decision because she believed (wrongly, in fact) that D1 had carried out the threat made by her (in the George E-mail) to inform all clients of the position. I accept the submission made by counsel for the Ds that C acted on the statement by D1 as to publication to D2’s clients, not because of any harm caused by publication to D2’s clients. As I have found, C was the only person to whom that statement as to future publication was given. I agree that one cannot plead harm arising from libel that is self-inflicted harm in reaction to a statement of threatened publication made solely to a claimant: there is no third party publishee.
+ 
+135.  I have not overlooked the point stressed by leading counsel for C that on 25 January 2019 Mr Lingenfelder appears to have demonstrated that he had clearly taken the publication at face value because he informed D1 that he had acted upon it: “I have advised Fiona to steer clear of any client relationships that are equally held by LCA for a set period of time to honour any obligations.” That does not in my view establish (as against the points I have summarised above) that Mr Lingenfelder thought C was in fact in breach of obligations and her reputation was damaged. The evidence is clear he knew there were no obligations. This odd comment is more likely to reflect a safe commercial course to take and is not a safe evidential basis for a finding that there was serious harm when balanced against all the other evidence to the contrary.
+ 
+136.  The libel and slander claims fail on the evidence on the section 1(1) requirement. I will however need to address the malice issue because it arises in relation to the malicious falsehood claim and is relevant to the rebuttal of the qualified privilege which may attach to the two publications. I will make findings on the allegation of malice in the event this case goes further, and I am wrong on the section 1(1) serious harm question. The malice test is the same in defamation and malicious falsehood: Spring v Guardian Assurance plc [1993] ICR 412 .
+ 
+137.  For completeness, I note that it is common ground that the Lingenfelder E-mail was made on a well-established occasion of qualified privilege and the issue is whether that privilege has been lost by malice. The parties did not however agree on the qualified privilege position in relation to the Butler Words slander claim.
+ 
+138.  I do not need to determine whether qualified privilege also applied (because that slander claim has failed on the serious harm requirement). I should record however that I did not find the Ds’ case particularly convincing and was more attracted by the submissions of leading counsel for C. The defence asserts that Mr Butler contacted D1 with an enquiry about a fees dispute. D1 is said to have answered that enquiry (and that is when the words complained of in the slander claim were said on the secondary case of the Ds). But it does not seem to me that D1’s answer would provide a cloak of privilege to throw over the allegation complained of. If Mr Butler asked *20 one question about fees/the double commission issue, but the D1 answered a question not posed by him (is the C bound by a non-solicitation term?) it is hard to see how that can constitute a privileged occasion. I turn to the issue of malice.
+ 
+VI. Malice
+139.  There was no discernible dispute between the parties on the law and I will first summarise the principles to be applied. The important starting point is to underline that inaccuracy is not enough, only bad faith will do: Horrocks v Lowe [1975] AC 135 . The burden of proving malice is not easily satisfied: Horrocks at pp 149–153 . If it is proved that the person publishing defamatory matter did not believe that it was true, that is generally conclusive evidence of express malice. This is the focus of C’s case in the present claim.
+ 
+140.  If a person publishes untrue defamatory matter recklessly, without considering or caring whether it is true or not, he is treated as if she knew it to be false. But indifference to the truth of the publication is not to be equated with carelessness, impulsiveness or irrationality. A court should be slow to draw the inference that a defendant was so far actuated by improper motive as to deprive her of the protection of privilege unless they are satisfied that she did not believe that what she said or wrote was true or that she was indifferent to its truth or falsity. Where the only evidence of improper motive is the content of the defamatory material itself or the steps taken by the defendant to verify its accuracy, the claimant must show affirmatively that the defendant did not believe it to be true or was indifferent to its truth or falsity. A defendant who honestly believes in the truth of what was published is not to be found guilty of malice merely because her belief was unreasonable or was arrived at after inadequate research or investigation. As Gatley puts it at paras 17.17, by reference to a number of cases:
+“If the defendant honestly believed his statement to be true, he is not to be held malicious merely because such belief was not based on any reasonable grounds; or because he has done insufficient research or was hasty, credulous, or foolish in jumping to a conclusion, irrational, indiscreet, stupid, pig-headed or obstinate in his belief.”
+ 
+ 
+141.  As indicated above, leading counsel for C submitted that it will usually be the case that there can be no proper/acceptable motive to publish an allegation in which a defendant has no positive belief. He argued that this is the case on the facts in issue, particularly given that the motive for making the publications was to deprive C of work and thereby to benefit the Ds. He further submitted that whilst malice will turn on subjective belief, the unreasonableness of such a belief may be taken into account in deciding whether the belief was in fact held Similarly, if the court concludes that D1’s motive in publishing was to prevent C from competing with D2, the unscrupulousness with which this motive was executed will be relevant.
+ 
+142.  On behalf of C it was further submitted that in regard to the Lingenfelder E-mail, an insight into D1’s state of mind/motive is derived from the third paragraph from the end. In this paragraph D1 notifies the publishee that if C does not formally undertake not to compete with D2, legal action will be taken against C and that this will “impact on her performance” ie hinder her work for Fawkes & Reece. It was submitted to me that in regard to how “low D1 would stoop/how unscrupulous she was” in deciding what to tell Mr Lingenfelder, the answer is very low indeed. I was referred to the statement that whilst employed by D2, C was prevented from working at all for two months due to her having to “deal with a personal court case”. In further regard to motive, C submits that what D1 is trying to do is to obtain something which was never in C’s contract of employment: a formal undertaking not to deal with any client or candidate D2 had dealt/deals with.
+ 
+143.  Overall, at the heart of C’s case on malice is the D1’s lack of positive belief in the existence of the non-solicitation clause. If D1 did not positively believe that there was a non-solicitation clause, she could not therefore positively believe that it had been breached, that D2 would sue C and that C would be tied up in litigation and therefore not able to do her job at Fawkes & Reece. Reliance is placed strongly on the contents of the recordings of the legal advice given by Peninsula (Tagg 1 and Tagg 2, which I will address below).
+ 
+144.  Counsel for the Ds argued strongly that there was no possible basis for a finding of malice. He emphasised that a lack of reasonable belief is not enough to show dishonesty and submitted that even though D1 did have a reasonable belief in the truth of what she published in the Lingenfelder E-mail she in fact sought professional advice (from Peninsula) on the content and wording of her communications and followed it as described in her witness statements. These actions are said to negate any prospect of malice being made out by C. He said that she had probably been badly served by her lawyers, but she was entitled to rely upon them. As to *21 the recordings of advice given by Mr Tagg, counsel for the Ds submitted that the suggestion that they showed some plan or co-ordination to mislead was “nonsense”. He added that Mr Tagg was someone who gave advice of “doubtful quality” and sought to “finesse his advice with terminology”.
+ 
+Tagg 1, the Jacobs E-mails and Tagg 2
+145.  I have already summarised the Jacobs E-mails above. Given the importance in this case of the nature of the advice given to D1 by Mr Tagg of Peninsula, and rather than piecemeal citation of the transcript, I have attached to this judgment the transcripts of Tagg 1 and Tagg 2. I will refer below to the parts which are particularly relevant. Tagg 1 and Tagg 2 provide a clear and reliable record of the genesis of the claim that C was subject to post-termination non-solicitation restraints of a contractual nature.
+ 
+146.  Although the Lingenfelder E-mail was sent on 21 January 2019, it is necessary for me to return to events at the time C resigned her employment with LCA. Following the meeting on 19 November 2018 (at which it was agreed C would resign) D1 had a telephone conversation with Mr Tagg of Peninsula. At 16.20 D1 sent him a draft e-mail to be sent to C in response to C’s e-mail of resignation. This made no reference to post employment restrictions. At 16.30 Mr Tagg replied and draft added a new paragraph (2nd from bottom “I would also like …”). It made no reference to anything which even hinted that C was prevented from contacting D2’s clients/candidates.
+ 
+147.  It referred to “non-disclosure to clients”, which was referenced to the Confidentiality Clause in the Handbook. A copy of a Restrictive Covenant Agreement was attached to this e-mail (presumably for a reason). It was only after this, at 16.42 that Mr Tagg e-mailed a draft e-mail to D1 which included the “red paragraph” (see para 34 above).
+ 
+148.  The conversation which took place was recorded and an agreed transcript is in evidence at Tagg 1. It is apparent from the call that at some time in the past Mr Tagg/Peninsula had sent over a restrictive covenant document to be signed by employees (Liam: “Yes. Do you know if she’s signed any … restrictive covenants” and then, after D1 speaks, Liam: “Because there’s a separate one that was sent over.”). D1 then stated that C had not signed such a document. The draft e-mail to C, in the body of the same e-mail, makes no mention of restrictive covenants because Mr Tagg concluded he would not refer to them because C had not signed the restrictive covenant.
+ 
+149.  The 16.42 e-mail attached a copy of the restrictive covenants document which had been sent to LCA at some earlier point in time (this included a classic form 6 month post-termination non-solicitation covenant). Mr Tagg said again: if the C has “not signed” the restrictive covenant document, “we can’t use that”. Mr Tagg then said to D1 that there might be something in the contract to similar effect “around confidentiality” ie it might be in the same part of the contract. In an important comment, D1 then said, “So we’ve got a big loophole haven’t we?”.
+ 
+150.  As I read the transcript, it is then D1’s idea to somehow rely on the Confidentiality Clause: “I mean there is confidentiality.” Mr Tagg then described this as the “best bet” but reminded D1 that: “I don’t think really we can mention about the non-solicitation of clients and whatnot because technically she hasn’t signed to say that she won’t do that, if that makes sense?”
+ 
+151.  Mr Tagg’s next statement refers to whether C has a copy of the Handbook. The clear implication is that if she does not, she will not know that there is nothing which de facto or otherwise stops her from contacting D1’s clients. None of this is technical. It is during this time Mr Tagg adds the red paragraph to the e-mail to be sent to C. Despite his statement in clear non-legal terms that the C cannot be stopped from contacting clients (“I don’t think really we can mention about the non-solicitation of clients and whatnot because technically she hasn’t signed to say that she won’t do that, if that makes sense?”) he comes up with the red paragraph, in which he has taken the Confidentiality Clause and “change(d) it up potentially a little bit” and “manipulate(d)” to suggest that C’s contract prevents non-solicitation. It is deliberately vague.
+ 
+152.  Mr Tagg told D1 that the restrictive covenants document had in fact been sent to her on 2 October 2017. Clearly she had forgotten it but by the end of this conversation it is clear to me she knows what it is, what it does, why it is needed and that C has not signed it (in fact, she was never asked to). D1 said that she needed to make sure that she gets her employees to sign it. This shows an awareness that the “loophole” needed to be closed.
+ 
+153.  On 11 January 2019, D1 had frank e-mail exchanges with Mr Jacobs. See the Jacobs E-mails above at para 58. The fact that D1 stated that she had not sent the C a copy of her Handbook despite her request is highly relevant. To recap, Mr Jacobs summarised the plan as follows: go in strong, “particularly as she cannot find the copy of her contract”. The Jacobs E-mails are a further insight into D1’s state of mind when she went on to make the publications complained of. *22
+ 
+154.  The next conversation with Mr Tagg took place on 21 January 2019. See the attached transcript of Tagg 2. D1’s evidence is that this conversation probably took place after she spoke to Mr Butler but before she sent the e-mail to Mr Lingenfelder at 16.37. Nothing in this later conversation displaces the conclusions reached during the 19 November 2018 conversation. The significant aspects are as follows. The context is that C is said to have “gone all out” in going “into clients” and behaving inappropriately with candidates. D1 referred to the fact that she had left a call for the new employer who she explained to Mr Tagg “will also have restrictive covenants” but she then went to remind Mr Tagg that “we didn’t have the relevant restrictive covenants in our contract. We subsequently had everyone sign the supplemental one”.
+ 
+155.  Rather remarkably Mr Tagg said that he is in “100%” agreement with where D1 was going “with sort of sending it to, making her employer (Fawkes & Reece) aware because even, well I know obviously we haven’t got the restrictions in place but hopefully you know, they’re not going to know that are they ?” (my emphasis). In other words, let’s see if we can get away with this because the new employer (Mr Lingenfelder) is not going to have the contractual terms to hand and will not find out our assertion is plainly false.
+ 
+156.  They also discuss that they will change “your contract” to “terms of employment” to assert a slightly vaguer position (“not calling it something we haven’t got signed for”).
+ 
+157.  I agree with leading counsel that it is apparent from the audio recording that when D1 says “Hmm” (as described on the transcript), she is agreeing with Mr Tagg. I have listened to the recordings a number of times and gone back to study D1’s answers in relation to advice in cross-examination. This is not simply a client going along with a lawyer’s advice: both D1 and Mr Tagg formulate the strategy with the clear knowledge that they simply do not have in place restrictive covenants but will assert that something sufficiently vague binds C to the same substantive effect.
+ 
+158.  Later Mr Tagg said, when discussing the draft letter to Fawkes & Reece:
+“I, again, I think what we have put in there is hopefully enough to make them (Fawkes & Reece) potentially do something about it as well so in that, it might just where we have obviously again mentioned restrictive covenants. I am not sure whether it might be worth changing it to, just in case they have that conversation.”
+ 
+ 
+159.  In context, I find that the agreement between D1 and Mr Tagg is that if restrictive covenants are mentioned, C will be able to say that they do not exist but if the words “post-employment restrictions” are used that she is less likely to do so. The plan is to take a chance so that hopefully Fawkes & Reece will just look at D1’s letter to it and therefore tell C to stop dealing with D2’s clients because otherwise Fawkes & Reece “could get in trouble” when, I find, D1 knew, it could not.
+ 
+Conclusion on malice
+160.  Although I consider D1 gave her evidence to me seeking to do her best to reconstruct in good faith her thought processes and state of mind at the time of the relevant publications, I conclude that she did not have an honest belief in the truth of what she represented at that time. In her oral evidence to me, she asserted on more than one occasion that she was simply acting on legal advice. While she clearly had such advice, she was on the facts an author with Mr Tagg of a strategy in which a knowingly false position was to be asserted.
+ 
+161.  I am conscious of the substantial hurdle which the C must overcome in satisfying me of malice. I consider that the contemporaneous documents/recordings taken together with D1’s answers in evidence establish malice. I did not consider her answers (given when Tagg 1, the Jacobs E-mails and Tagg 2 were put to her) were a satisfactory explanation of why what appears on the face of the contemporaneous material should not be accepted.
+ 
+162.  When she said in answers to leading counsel’s questions that she did not understand the legal position but understood they were not in a “strong position” on the restraints, I find this does not accord with what the documents as a whole show as to her state of mind at the material time, as I describe further below. It significantly underplays the position.
+ 
+163.  The written and oral evidence lead me to the following conclusions:
+      (i)  By the time of the Lingenfelder E-mail, D1 was aware that C was not subject to a post-termination clause/covenant which prohibited her from soliciting clients or candidates of LCA. She herself had earlier identified this as a “big loophole” and took immediate steps to get existing employees signed up to such restrictions.
+      (ii)  D1 with the creative assistance of Mr Tagg went along with his suggestion that the Confidentiality Clause be “manipulated” and presented as in effect such a non-solicitation *23 covenant. This was a deliberate attempt to fill the loophole with a work-around they thought they might get away with.
+      (iii)  They thought they might get away with it because C may not have had the Handbook and she would not know that she was not in fact subject to any restraint.
+      (iv)  The Jacobs E-mails make clear that D1 fully knew of the manipulation and the absence of an actual restraint. Her reference to C’s inability to find her contract in her frank exchanges with Mr Jacobs is telling.
+      (v)  This was more than a legal “try on” which her Solicitors had invented and put forward in good faith. It is hard to escape the conclusion that both D1 and Mr Tagg knew that what was being put forward was untrue and hoped that C would not discover the reality of the situation.
+      (vi)  This was not a case of D simply acting in good faith on legal advice, as suggested in argument. Mr Tagg was clear that this was an attempt to manipulate something to put forward a legal restraint which simply did not exist.
+      (vii)  I accept the submission of leading counsel for C that the fact that Mr Tagg was involved in giving legal advice does not shield D from a finding of malice.
+ 
+164.  Although the Tagg 2 Recording may be dated after the Butler Words, I do not consider it substantially affects my findings as to D’s state of mind. The Tagg 1 Recording and the Butler E-mail satisfy me that at the time of the Butler Words, D1 did not have an honest belief that C was subject to a non-solicitation covenant. The Tagg 2 recording makes matters worse for D1. A simple reading of it reveals the strategy to mislead.
+ 
+165.  My overall conclusion is that D1 did not have any honest or positive belief that C had acted in breach of post-termination non-solicitation contractual terms by contacting D2’s clients and candidates. I find that she, together with her lawyers, worked out a way of making assertions as to C’s legal obligations which had, to their knowledge no proper basis. It is significant that the publication was not a spur of the moment act in which spontaneity might serve as an excuse for a failure to present facts accurately. The threat to sue C for breach of a non-existent non-solicitation clause had been hatched and discussed on 11 January 2019 during the exchanges with Mr Jacobs.
+ 
+166.  With regard to D1’s case to the effect that she genuinely believed that the contract forbade C from soliciting clients and candidates over whom D2 had some sort of explicit right to deal, if that belief had been genuine one would have expected D1 to have given the C a copy of the contract with the relevant Confidentiality Clause highlighted.
+ 
+VII. Malicious falsehood
+167.  C’s complaint under this cause of action is that there were two relevant falsehoods: (1) the fact that C is bound by a contractual term not to solicit LCA’s clients and candidates; and (2) that C has breached that term. I note that the defamation claim hinges on the first falsehood because the second falsehood is not in itself defamatory. Falsehood relates to the specific false facts pleaded. It will not matter whether C breached assurances.
+ 
+168.  The Ds did not quarrel with C’s submissions as to the reasonably available meaning of both the Butler Words and the Lingenfelder E-mail (there being no evidence on this specific issue from the specific publishees). In my judgment, leading counsel for C was right to submit that these communications were not capable of being interpreted in a way which did not convey to them that the C: (1) was bound by a non-solicitation clause (2) which she had breached. That is plainly what the language used would suggest and I adopt it in the absence of contrary evidence.
+ 
+169.  At common law, a claimant in a malicious falsehood claim must prove publication to a third party of words referring to him, his property or his business which (1) are false; (2) were published maliciously; and (3) have caused special damage (subject to exceptions—here section 3(1) of the Defamation Act 1952 (“the 1952 Act”) is relied upon).
+ 
+170.  I say nothing further about (1) or (2) because I have found those requirements established. It is the section 3(1) 1952 Act issue which has emerged as controversial. C also makes a claim for special damage.
+ 
+171.  At the time I distributed my draft judgment, I understood the parties to be agreed as to what a claimant had to show to establish a cause of action (for general damages) falling within section 3(1) of the 1952 Act . That is, cases where special damage does not have to be proved.
+ 
+172.  C’s leading and junior counsel had dealt with the law at some length in writing and leading counsel supplemented those submissions orally in closing. Those submissions had not been responded to, or contradicted, in any manner by counsel for the Ds’ oral or written submissions as regards section 3(1) issues. However, following circulation of my draft judgment, counsel for the Ds asked for amplification of my reasons for having concluded (based on what I understood was undisputed law) that a cause of action under section 3(1) of the 1952 Act had been made out in respect of both the Butler Words and the Lingenfelder E-mail. Based on my *24 findings as to publication, falsity and malice, I found in my draft judgment that C was entitled to general damages including an injury to feeling award, to be assessed in due course (I had stated at the end of submissions at trial that I would consider quantum issues following judgment).
+ 
+173.  Specifically, based on leading counsel for C’s undisputed submissions, I had proceeded on the basis that the application of section 3(1) was to be undertaken by reference only to the words spoken/published themselves and an assessment (without reference to actual historic facts) of whether they themselves were “calculated to cause pecuniary damage”. That is, without reference to any form of causation-focused factual inquiry as to what actually took place (such as is required for example under section 1(1) of the 2003 Act when considering the different issue of proof of serious harm to reputation).
+ 
+174.  Following exchanges after my draft judgment was circulated, it became clear that there was a real dispute of law on section 3(1) of the 1952 Act . I accordingly invited further submissions. I also drew to the attention of the parties a case based on my own research which appeared to be relevant to the issue apparently in dispute. This is the case of Quinton v Peirce [2009] EWHC 912 (QB); [2009] FSR 17 .
+ 
+175.  The parties then exchanged further written submissions in which, for the first time, the Ds explained their position on the law on section 3(1) in some detail. Although this was not an appropriate time and method for the Ds to state their case, I accepted these submissions and C’s very helpful detailed written submissions on the section 3(1) issue (including reference to submissions on case law which had not been addressed earlier). Although Ds’ counsel accepted he had not addressed the section 3(1) issue orally or in writing he reminded me that as a matter of pleading C’s case on that matter was in issue.
+ 
+176.  Leading counsel for C argued that it was procedurally unfair and improper for the Ds to take this very late opportunity to make submissions which should have been made earlier. He submits that the remedy for the Ds should be an appeal. I do not accept that course, in the particular circumstances before me, would be consistent with the overriding objective. In my view, it is significant that the points the Ds raise are purely legal and do not require one to traverse over factual ground which has not already been fully explored. I also consider there to be a lack of any identifiable prejudice to the C, aside from costs and the natural disappointment that the result might be different from that in the draft judgment. While finality is clearly important, the situation before me is one where only a draft judgment has been issued and no orders have been made.
+ 
+177.  In all the circumstances, I have concluded that it is appropriate for me to take into account the additional submissions of both parties in accordance with the overriding objective. I have considered the discussion of the governing principles summarised in the White Book 2021 , vol 1, para 40.2.1. I have also given all parties a full opportunity to address the issues raised both orally and in writing. There is nothing further they wish to add on the points of law.
+ 
+178.  I would add that in the particular circumstances of this case, I do not consider it would appropriate for a court to proceed on the basis of proposition of what it believes to be undisputed as a matter of law when before judgment is delivered that impression is corrected. The fact that I had this impression is partly my fault and I should perhaps have sought specific confirmation from counsel for the Ds that my understanding was correct. I also asked the parties for submissions on the case of Quinton .
+ 
+179.  I will first address the claim for special damage where the position on the facts is straightforward and no new submissions were made.
+ 
+Special damage
+180.  Having considered the pleaded claims for pecuniary losses, I am not satisfied on the evidence that there was any financial impact of the publications at all in this case. There was no loss flowing from the Butler Words because I accept Mr Butler’s evidence that he decided not to deal with C because of the double commission issue. It was not the Butler Words that would have put Balgores off dealing with the C (had she in fact stayed on at Fawkes & Reece).
+ 
+181.  Equally, no recoverable loss flowed in my judgment from the Lingenfelder E-mail because, despite its contents, Fawkes & Reece wanted C (on her own clear evidence) to remain in employment. Further, Mr Lingenfelder had seen the nature of the restraints in the Handbook and would have been aware of their limitations and any limits he imposed on C’s abilities to contact LCA’s clients and candidates were his own decision. I have found on the facts that the cause of the resignation was C’s belief (wrong, as it turned out) that D1 had carried out the threat in the George E-mail. C’s case did not always distinguish between losses flowing from falsehoods and those flowing from that E-mail. *25
+ 
+182.  Accordingly, the claim for lost commissions sought by way of pecuniary loss in respect of the Lingenfelder E-mail (the pleaded sum of £1,433·00) is not maintainable. Those losses do not flow in a legally recoverable sense from the falsehoods which are the subject of claim.
+ 
+183.  The special damages claims all fail on the facts.
+ 
+Section 3(1) of the 1952 Act
+184.  Section 3(1) provides as follows (with my underlining):
+“3. Slander of title, etc
+ 
+“(1)  In an action for slander of title, slander of goods or other malicious falsehood, it shall not be necessary to allege or prove special damage— (a) if the words upon which the action is founded are calculated to cause pecuniary damage to the plaintiff and are published in writing or other permanent form; or (b) if the said words are calculated to cause pecuniary damage to the plaintiff in respect of any office, profession, calling, trade or business held or carried on by him at the time of the publication.”
+ 
+ 
+ 
+185.  The purpose of this provision is to enable a claimant against whom a false fact has been published maliciously to establish a cause of action in malicious falsehood without having to prove special damage. Whilst a claimant who succeeds on this basis will not be able to recover special damages, she will in principle be able to recover general damages. The issue between the parties is what, beyond publication, falsity and malice, must be established by the claimant who seeks to get her claim within that section. Specifically, when the court is considering the underlined provisions in section 3(1) , is it confined to asking (as C submits) about the likelihood of pecuniary damage via a particular mechanism arising because of the words themselves? Or is the Ds’ counter approach, which requires a claimant to prove a mechanism of loss and causation of some form of pecuniary damage on the facts (and not just by reference to the words), correct?
+ 
+186.  I will begin by identifying what (as I understand the position) is common ground. Section 3(1)(a) of the 1952 Act applies to a written falsehood or one published in other permanent form and therefore applies to the Lingenfelder E-mail. Section 3(1)(b) of the 1952 Act applies to a spoken falsehood and adds an additional hurdle to the test set out in section 3(1)(a) by adding the condition that the pecuniary damage must be in respect of an office etc held by the claimant at the time of publication. It is agreed that it applies to the Butler Words.
+ 
+187.  As I have outlined above, the issue between the parties concerns the scope of the court’s inquiry when determining whether the words are calculated to cause pecuniary damage to the claimant. It is established law that “calculated” in section 3 is applied in a meaning of “more likely than not”: Tesla Motors Ltd v British Broadcasting Corpn [2013] EWCA Civ 152; (2013) 163 NLJ 290, para 27 .
+ 
+Submissions
+188.  In summary, on behalf of C it is argued that once section 3(1) is satisfied general damages (not special damages) are in principle available. Nominal damages would serve to indicate that a wrong has been done. Strong reliance is placed on Fielding v Variety Inc [1967] 2 QB 841 , a case which I address below. It is said on behalf of C that general damages for a higher amount may take account of damage actually caused by publication which falls short of special damage, which will normally include hurt to feelings where there is a personal claimant.
+ 
+189.  Particular emphasis was placed by counsel for C on the submission that in order to give section 3(1) effect, the court must ensure that the conditions for proving special damage are not imported into the test as to whether section 3(1) is satisfied. In particular, it was submitted to me that the court must guard against applying the onerous rules concerning causation of special damage because to do so would defeat the object of section 3(1) . It is said that this is not in any sense unfair to a defendant because a claimant whose case solely depends upon section 3(1) will not be able to recover special damages. Emphasis was placed on the fact that a defendant against whom general damages are awarded will have been found to have published a false fact maliciously (malicious falsehood is an intentional tort), therefore one could hardly regard the operation of section 3(1) as unfair because, following the normal rule in tort, the defendant ought to compensate the claimant for harm caused by the publications in issue (even if that is something other than special damage).
+ 
+190.  The Ds strongly contest C’s submissions. They argue that section 3 of the 1952 Act operates in the same way as section 2 of that Act in respect of slander actionable per se: it relieves a claimant of the common law burden of making out special damage as an ingredient of the tort (as does the common law exception in slander—see Gatley para 4.2) but does not thereby impose a form of strict liability on a defendant by reason of publication alone. It is said “per se” in the *26 context of these torts means no more than actionable without proof of special damage. Counsel for the Ds reminded me that malicious falsehood is an economic tort: BHX v GRX [2021] EWHC 770 (QB) at [55(11)] ) and that it is not a tort of reputation. As Gatley records at para 21.12, it has been held that “ The damage is the gist of the action ” and that “ The essential ground, the gist, of the action is special damage, done maliciously ”. See also BHX at para 55(11). Counsel for the Ds’ argued that section 3(1) of the 1952 Act relieves a claimant of having to plead and prove special damage, but the likelihood of some pecuniary damage is nevertheless central to the statutory provision. 
+ 
+Analysis and conclusions
+191.  Having had the benefit of these further submissions and reference to additional authorities, I consider the preponderance of modern authority favours the Ds’ position. I am also satisfied that C has had a full opportunity to respond to the unfortunately very late submissions of the Ds.
+ 
+192.  I consider C’s case on section 3(1) of the 1952 fails on two fronts: (1) nature and mechanism of loss and (2) causation. These are related issues on the facts of this case but I will address them separately.
+ 
+Nature and mechanism of loss
+193.  In my judgment, authority establishes that although section 3(1) of the 1952 Act relieves a claimant of the burden of showing actual pecuniary loss it is settled law that a claimant relying on section 3(1) must identify the nature of the loss and the mechanism by which it is likely to be sustained. I refer for example to Tesla at para 37 and BHX at para 55(12)(v). This requirement confirms that the likelihood of pecuniary damage caused by publication must be subject to some form of inquiry as to the circumstances of publication generally. I also consider that such an inquiry at trial was contemplated by Birss J in Niche Products Ltd v MacDermid Offshore Solutions LLC [2013] EWHC 3540 (IPEC); [2014] EMLR 9, paras 50–52 , which was a strike-out application.
+ 
+194.  I agree with counsel for the Ds that it is instructive in this respect to examine C’s pleading in respect of the nature and mechanism of the loss argued for in relation to section 3(1) (specifically, the “calculated to cause pecuniary damage” question).
+ 
+195.  The amended particulars of claim (APOC) paras 20 and 21 plead as follows:
+“20.  Those publications contained in writing were calculated to cause pecuniary damage to the Claimant by preventing her from obtaining business from the publishees and thereby preventing her from earning a commission. This was more likely than not to occur because the publishees would not want to assist or be party to a breach of contract. The Claimant relies on the fact that Balgores withdrew from dealing with her as a result of such publications. This would have been the most likely reaction of other publishees.
+ 
+“21.  The publications complained of were calculated to cause pecuniary damage to the claimant in respect of the business/employment carried on by her at the time of publication. This was more likely than not to occur because the publishees would not want to assist or be party to a breach of contract. The claimant relies on the fact that Balgores withdrew from dealing with her as a result of such publications. This would have been the most likely reaction of other publishees.”
+ 
+ 
+196.  As to APOC para 20 (written communication— section 3(1)(a) ), it can only apply to publication to Mr Lingenfelder (I have found no other written communication was made). Neither the nature of the loss (preventing C from obtaining business from the publishees and thereby preventing her from earning a commission) nor the mechanism pleaded can apply. Fawkes & Reece was not a body from whom business (placement of candidates) or commission could be obtained by C. In any event, and as I have held above, Mr Lingenfelder knew the e-mail to be false, had beforehand told C to avoid LCA clients, and wished C to stay at Fawkes & Reece.
+ 
+197.  As to APOC para 21 (business/employment— section 3(1)(b) ), it will apply both to publication to Mr Lingenfelder and to Mr Butler. What I have said above about the failure of the nature and mechanism pleaded in respect of Mr Lingenfelder and of the circumstances in which publication to him took place applies again. As for Mr Butler, I have found that by the time of publication of the Butler Words to him he had decided not to do business with C because of the double-commission issue and not the words. Therefore the mechanism fails in respect of Mr Butler: when the Butler Words were spoken to him, he was not a client, and would not be a client, of C by reason of C’s own other actions. *27
+ 
+198.  The final two, identical, sentences of APOC paras 20 and 21 fall away: it is clear that Balgores did not withdraw from dealing with C because of the words complained of, and there were no other client publishees.
+ 
+199.  The pleaded case on nature and mechanism of loss fails.
+ 
+Causation
+200.  There is also a causation problem. Gatley at para 21.15 makes clear that the pecuniary damage must flow as a “direct and natural result” of publication of the relevant words, citing in footnote 130 the Court of Appeal decisions: Kaye v Robertson [1992] EWCA Civ 21 ; [1991] FSR 62, para 67 and Sallows v Griffiths [2001] FSR 15, para 17 .
+ 
+201.  As with the requirement that a claimant pleads nature and mechanism of loss, this causation principle seems to me to require an inquiry into the circumstances of the publication, including into historical facts.
+ 
+202.  In that regard, at Gatley para 21.15 the facts of Tesla are discussed. The discussion is instructive. In Tesla there had been prior broadcasts of the relevant words (which were statute barred) but whose effect could not be separated from that of the broadcasts that were not statute barred. The Court of Appeal did not question whether the earlier broadcasts should be considered as part of the examination of direct and natural result. The issue was addressed as a fact inevitably bearing on the result of publication of the (actionable) words.
+ 
+203.  Asking whether the effect of words caused pecuniary damage as a direct and natural result of their publication is a matter of causation. In BHX , Nicklin J set out a summary of the principles of malicious falsehood (to which I have already referred). At para 55(11) he made clear that the issue of causation of loss is as relevant to claims under section 3(1) of the 1952 Act as it is to special damage claims in the tort: “Nevertheless, the issue of causation remains important, whether a claimant relies upon a plea of special damage or upon section 3 Defamation Act 1952 .”
+ 
+204.  I note also that at paras 36 and 45 of Tesla , the facts were said to raise “acute” issues of causation. In Tinkler v Ferguson [2020] EWHC 1467 (QB); [2020] 4 WLR 89, para 94 , Nicklin J considered the surrounding circumstances of publication in order to assess whether or not the pleaded case under section 3(1) of the 1952 Act was viable. Amongst his reasons for rejecting the claim was that there were other likely causes of the pleaded loss.
+ 
+205.  In my judgment, causation must require an examination of the facts as they were before, at and after publication. The point is put in clear terms in the section 3 case of Sallows at para 17:
+“I accept [counsel for the defendants] argument. Damages for malicious falsehood, as Glidewell LJ said in Kaye v Robertson [1991] FSR 62, para 67 , are recoverable for damage flowing as a direct and natural result of the publication of the malicious statements. Whilst the plaintiff did not have to show that he had sustained special damage, he did have to show that the statements in the circumstances in which they were made were calculated to cause damage to him in the way of his office, profession or business. Apart from the loss suffered as a result of his wrongful dismissal, there was no evidence before the judge that the plaintiff would have been likely to suffer any other damage from publication to any of the three persons relied upon. ” (Emphasis added.)
+ 
+ 
+206.  The underlined words are authority for two relevant propositions: (i) that the circumstances in which publication was made must be considered; and (ii) that evidence as to likelihood of pecuniary damage being caused is both relevant and admissible. The latter must as a matter of logic include what actually happened, not just the probability of what might happen. I note that Sallows was perhaps a case close to the present case in the fact of very confined publication: publication was to a limited group of people (a board meeting, a solicitor and an assistant to one of the defendants. Evidence from the publishees was available to the court. The circumstances of the publishees were considered and a malicious falsehood award (for which the other ingredients were made out) overturned on the basis of no likelihood of pecuniary damage because of the circumstances in which publication took place. The significant point that arises is that inquiry into the circumstances of the publishees and of other evidence at trial was admissible and decisive.
+ 
+207.  In mass media or other general publication cases the court will not have the opportunity of receiving evidence from or in respect of most publishees—or as in the instant case from or in respect of every publishee. Findings as to the circumstances of publication in cases such as the present one and in Sallows is therefore a different and more precise exercise than in those concerning wide publication. *28
+ 
+208.  On the facts of this case, I find that no element of the pleaded pecuniary damage was caused by the publications. The circumstances of the publications as I have found them are fatal to the claim based on section 3(1) of the 1952 Act .
+ 
+209.  There is another route to this conclusion. If a claimant can satisfy the court that the words were, on their own, and therefore in the abstract, more likely than not to cause pecuniary loss, it is open to a defendant to show that no such loss actually occurred. If a court finds as a fact that no loss was in fact suffered by reason of publication of the words (as I have found) yet then goes on hold that the publication of them by themselves attracted a remedy, a strange situation would arise. Simultaneously the court would be holding that pecuniary loss which as a fact was not caused was as a fact more likely than not to have been caused. That this situation might arise on C’s case suggests there is something wrong with the submission.
+ 
+210.  In this respect, I return to the point that malicious falsehood is a tort that compensates only for pecuniary loss, not for loss of reputation. Recovery turns on matters of fact as to pecuniary damage, whether at common law or under section 3(1) , not on a publishee’s view of a claimant’s reputation (or his view of a product or other business interest) from which no pecuniary damage flows. C has failed in defamation in any event.
+ 
+Further cases relied upon by C
+211.  Given the reliance placed on it by counsel for C, I need to address Fielding v Variety Inc. This is the only authority drawn to my attention in which nominal damages for malicious falsehood were awarded under section 3 despite no evidence of loss. It is clear that none of the judges accepted any real likelihood of loss arising from the entertainment newspaper’s report that was sued on. 
+ 
+212.  However, Fielding is an unusual case for a number of reasons. The defendant entered no defence and on appeal from a Master’s award admitted liability in malicious falsehood (and libel): see p 844D (defendant’s counsel’s admission), p 848E (defendant’s counsel’s submission for a nominal award in light of the admission but lack of likelihood of pecuniary damage), pp 850B–C, and 855E–F. The Court of Appeal was therefore faced with submissions by the defendant that admitted liability in malicious falsehood and that on the defendant’s own case argued for nominal damages. The basis of the decision is made clear at pp 855E–F. In my judgment, the award of nominal damages in Fielding must be understood as turning on those facts. In the instant case there is no admission—liability under section 3 of the 1952 Act is denied.
+ 
+213.  As stated above, I drew the attention of the parties to Quinton v Peirce at para 50, in which the submission of the defendant’s counsel is recorded that:
+“Whether or not the words were ‘calculated’ to cause the claimant pecuniary loss is a matter to be judged, not by reference to what might subsequently have happened, but rather as at the time of publication (ie during the period when the leaflet was being distributed prior to the election itself).”
+ 
+ 
+214.  The difficulty with this submission (and the judge’s conclusion at para 84 accepting the argument) is that both are inconsistent with the later case law. Tesla and BHX state that causation is as relevant a factor under section 3 , as it is for actual pecuniary loss under the common law. Yet the court in Quinton held that causation applied only to determination of actual loss—see Quinton paras 85 and 86. I do not consider that to be consistent with the later cases and it is to be noted that Sallows was not cited. Both on principle and as a matter of authority I follow Sallows .
+ 
+215.  It is clear that injury to feelings alone will not found a cause of action in malicious falsehood: Khodaparast v Shad [2000] 1 WLR 618 , 629B. That claim fails. The Ds do not accept as a matter of law such damages are available but that question does not arise for resolution.
+ 
+216.  For completeness, even if I had been satisfied that C had established a claim for general damages under section 3(1) of the 1952 Act in accordance with her counsels’ submissions on the law), I would have awarded a purely nominal sum.
+ 
+VIII. Conclusion
+217.  Fiona George was the subject of false allegations of fact made maliciously by Lynn Cannell to two third parties, Mr Butler and Mr Lingenfelder. However, for the reasons given above, her claims are dismissed. *29
+ 
+  Jo Moore, Barrister *39
+Claims dismissed. Permission to appeal granted on 11 November 2021.
+TAGG 1
+Recording 19 November 2018
+Time (Minutes)
+ 
+
+Speaker
+ 
+
+Speaker
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+02:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+04:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+06:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+08:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+10:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+12:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+14:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+16:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+18:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+20:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+22:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+24:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+26:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+28:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+30:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+
+ 
+TAGG 2
+Recording 21 January 2019
+Time (Minutes)
+ 
+
+Speaker
+ 
+
+Speaker
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+02:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+04:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+06:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+08:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+10:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+12:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+14:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+16:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+18:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+20:00
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+22:00
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+ 
+
+Liam
+ 
+
+Liam
+ 
+
+ 
+
+Lynn
+ 
+
+Lynn
+ 
+
+
+ 
+Footnotes
+
+1
+
+Defamation Act 1952, section 3(1) : post, para 184.
+
+
+(c) Incorporated Council of Law Reporting for England & Wales
+

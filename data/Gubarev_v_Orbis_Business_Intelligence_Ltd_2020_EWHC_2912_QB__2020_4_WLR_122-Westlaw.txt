@@ -1,0 +1,59 @@
+﻿
+Gubarev v Orbis Business Intelligence Ltd
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+30 October 2020
+ 
+Where Reported
+[2020] EWHC 2912 (QB)
+[2020] 10 WLUK 404
+[2021] E.M.L.R. 5
+[2021] C.L.Y. 634
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defamatory meaning; Libel; Loss of reputation; Publication; Responsibility; Serious harm
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimants: Andrew Caldecott QC, Ian Helme, Chloe Strong.
+For the defendants: Gavin Millar QC, Edward Craven.
+ 
+Solicitor
+For the claimants: McDermott Will & Emery LLP.
+For the defendants: Renyolds Porter Chamberlain LLP.
+ 
+Case Digest
+Summary
+A Russian businessman and his company were unsuccessful in their libel claim against a former British intelligence officer and his intelligence services company concerning the publication by a media company of an intelligence memorandum produced by the intelligence officer. The memorandum suggested that there were reasonable grounds to suspect the claimants of hacking the computers used by the US Democratic Party leadership during the 2016 presidential election, but the intelligence officer could not be held liable for the publication because he had neither intended nor authorised publication by the media company.
+ 
+Abstract
+The claimants, a Russian businessman (G) and a company which he owned (W) claimed for libel against the defendants, a former British intelligence officer (S) and an intelligence services company which he owned (O).
+ 
+A media company had published an online article referring to a dossier compiled by S, suggesting that Russia had been involved in hacking the US Democratic party during the 2016 presidential election. The dossier comprised numbered intelligence memoranda and was embedded in the article by means of a document viewer. Sixteen of the memoranda pre-dated the election on 8 November 2016. They had been created by S acting in his capacity as director and/or employee of O, having been commissioned by persons within the US Democratic Party, via a US law firm and a US consultancy (Fusion). The seventeenth (the December memorandum), which contained the words complained of, was produced between the election and President Trump’s inauguration, and was produced by O outside the scope of that commission. At S’s request, Fusion had given a copy of the memoranda to a US State Department official (K). At S’s suggestion, K met a journalist (B), who was employed by the media company and who had heard about the dossier. K allowed B to see the dossier and, apparently without K’s knowledge, B left the meeting with photographs of the memoranda on his mobile phone. The article appeared on the media company’s news website a few weeks later. The claim concerned the publication of the article within the EU. The claimants asserted that the words complained of bore the meaning that they “had deliberately and without consent hacked into the IT systems of the leadership of the United States Democratic Party and had used such unlawful access to transmit viruses, plant bugs, steal data and alter files and programs”. It was not in dispute that the words complained of referred to both claimants, bore meanings defamatory of them and caused G serious reputational harm.
+ 
+The issues were (1) the natural and ordinary meaning of the words complained of; (2) whether the publication caused or was likely to cause serious harm to W; (3) whether the defendants were legally responsible for the publication of the December memorandum on the news website.
+ 
+ 
+Held
+Claim dismissed.
+ 
+Meaning - Viewed in isolation, the December memorandum would convey the meaning that G and W were guilty of the conduct reportedly attributed to them. The memorandum presented the allegations as fact and did not suggest any grounds for doubting the veracity or reliability of the intelligence. However, the article repeatedly stressed the unverified nature of the information and the fact that the dossier contained errors. The article invited its readers to approach the dossier with a degree of scepticism and gave them specific reasons for doing so. The natural and ordinary meaning of the words complained of, in their overall context, was that: “there were good reasons to suspect the claimants of having, under duress from the Russian Secret Service, taken part in hacking the computers used by the Democratic Party leadership, and using the access they unlawfully gained in that way to transmit virus, plant bugs, steal data and alter files and software” (see paras 25, 28-30, 33-35 of judgment).
+ 
+Serious harm - Under the Defamation Act 2013 s.1(2), W had to establish serious reputational harm which caused, or was likely to cause, serious financial loss. There was room for inference rather than strict proof, but there had to be a sound evidential basis for that, Lachaux v Independent Print Ltd [2019] UKSC 27, [2020] A.C. 612, [2019] 6 WLUK 127 followed. W relied on (a) a decision by a substantial UK-based customer not to proceed with a planned agreement which would expand its dealings with W; and (b) messages received from third parties indicating that the reputational damage caused by the publication was continuing and had deprived it of profitable contracts or the opportunity to secure them. W invited the court to infer that those instances were examples of a wider pattern in which it had failed to obtain business that it would otherwise have done. However, W had not sufficiently established its pleaded case in relation to either of those two examples so as to support the inference of serious financial loss (paras 42, 44-46, 52, 67-78, 81, 84-86, 89, 151).
+ 
+Responsibility for publication - Where a defamatory document was voluntarily republished by someone else, the defendant was liable as a joint wrongdoer if he intended or authorised the republication. It had not been shown that S authorised or intended publication of the memoranda by the media company. The media company obtained the dossier from K. However, the evidence could not sustain a finding that K intended or authorised the publication of the dossier or any words quoted from it. On the contrary, the evidence was that K was shocked when that happened. S’s evidence of his own shock at the publication was not only supported by K’s account, but was corroborated by contemporaneous records and was unchallenged. S indicated that he was only seeking an exploratory conversation between K and B. K admitted that he lied to S about how the media company got the documents, clearly indicating that he knew that he had done wrong because he was not supposed to make documents available. The information which K provided to B was on the express condition that it was for investigation and not for publication unless it had been independently verified. In the pre-election period S was keen to ensure that the media were aware that intelligence had been gathered which indicated a connection between Mr Trump and Russia, and he briefed accordingly. His overall purpose was to provide a spur to investigation. After the election, having conducted further research and created the December memorandum, he provided one copy to K, as a UK intelligence official, and one to Fusion. His aims were limited to providing information for national security purposes. At a time when B and other journalists were pestering him, he asked K to meet B to find out what he wanted but did not authorise or intend K to provide any part of the dossier to B. B’s conduct in photographing the dossier was not only unauthorised, but was expressly prohibited by K. It was that wrongful conduct that led directly to the publication of the article, including the words complained of. The claimants had failed to prove that the defendants were responsible for the publication (paras 132-133, 148, 151).
+ 
+

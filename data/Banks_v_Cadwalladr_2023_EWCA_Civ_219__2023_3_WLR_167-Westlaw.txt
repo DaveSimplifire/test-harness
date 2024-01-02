@@ -1,0 +1,67 @@
+﻿
+Banks v Cadwalladr
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Court of Appeal (Civil Division)
+ 
+Judgment Date
+28 February 2023
+ 
+Where Reported
+[2023] EWCA Civ 219
+[2023] K.B. 524
+[2023] 3 W.L.R. 167
+[2023] 2 WLUK 433
+[2023] E.M.L.R. 14
+[2023] 7 C.L. 79
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defamatory meaning; Libel; Public interest; Publication; Reputation; Serious harm
+ 
+Judge
+Dame Victoria Sharp PKBD;
+Singh LJ;
+Warby LJ
+ 
+Counsel
+For the appellant: Benjamin Williams KC, Richard Munden.
+For the respondent: Gavin Millar KC, Aidan Wills.
+ 
+Solicitor
+For the appellant: Lysander Law Ltd (Bristol).
+For the respondent: Reynolds Porter Chamberlain.
+ 
+Case Digest
+Summary
+In an appeal in libel proceedings brought by a prominent public figure against a journalist who had accused him in a TED Talk and on Twitter of breaking electoral law, the judge’s conclusions that the talk was on a serious subject given by an award-winning journalist on an authoritative and credible international platform, and her findings as to the scale of publication, the inherent gravity of the allegations and the appellant’s prominent role in public life, should have led to an inevitable inference that the appellant would have suffered serious reputational harm. However, she had been entitled to dismiss the claim in respect of the tweet in relation to a later period of publication in view of her conclusion that access to the tweet would have peaked at or shortly after the time of first publication.
+ 
+Abstract
+The appellant, a prominent public figure in the Brexit campaign, appealed against the dismissal of his libel claim against the respondent journalist.
+ 
+In April 2019, the respondent gave a TED Talk which was published widely online. The appellant brought the libel claim on the basis that the respondent had suggested, in the TED Talk, that he had broken the law on electoral funding by taking money from a foreign power and lying about it. The words complained of were repeated on Twitter. The tweet contained a hyperlink to the TED Talk. The TED Talk and the tweet both remained accessible online from the time of first publication until trial. It was common ground that in such a case a public interest defence could expire if the circumstances changed in such a way that it was no longer reasonable for the respondent to believe that publication was in the public interest. On 29 April 2020, the investigating authorities confirmed that there was no evidence of any illegal activity. At a trial of preliminary issues, the meaning of the words complained of was held to be defamatory at common law. The respondent abandoned her defence of truth and apologised, but did not concede liability. She claimed that she had intended to convey less serious meanings than those found by the judge and relied on the statutory defence of publication on public interest grounds.
+ 
+The judge held that, although the initial publication of the TED Talk had caused serious harm to the appellant’s reputation pursuant to the Defamation Act 2013 s.1(1), the public interest defence in s.4(1) applied. She held that publication of the TED Talk after 29 April 2020 (phase two) was not so protected, but had not caused serious harm and was not actionable, and that publication of the tweet would have been protected by the public interest defence to the same extent as the TED Talk. In reaching those findings, the judge held that the extent of worldwide publication of the TED Talk in phase two was “close to a tenth of the figure from April 2019” and publication in the jurisdiction was likely to be a “similarly small fraction of the whole”. She also held that it could be inferred that most people within the jurisdiction who had viewed the TED Talk during phase two were likely to be supportive of the respondent’s defence of the claim and “within her own echo chamber”.
+ 
+ 
+Held
+Appeal allowed in part.
+ 
+Application of s.1 when public interest defence fell away - A statement was defamatory at common law if it conveyed an imputation with an inherent tendency to cause substantial harm to a person’s reputation. The publication of such a statement was actionable without proof of damage. Section 1 of the Act modified the common law by requiring a defamation claimant to prove that the publication complained of had caused them actual reputational harm that was serious. The touchstone was not the nature of the statement, but the impact of its publication. Section 1(1) was to be read as meaning that a statement was defamatory only if and to the extent that its publication caused serious harm. Thus, the effect of s.1(1) was that any publication not causing serious harm to reputation, and not likely to do so, was not actionable. The judge had correctly proceeded on the basis that the respondent had to make out all the elements of the public interest defence with respect to the whole of the continuing publication, and that the court had to focus on the whether there had been a significant change in circumstances. There was no requirement to prove that each individual publication caused serious reputational harm. The statutory words “its publication” were flexible enough to embrace typical cases of media or online publication involving a mass of individual publications to numerous unknown individuals. The TED Talk conveyed a serious allegation of dishonesty and breach of electoral law, which was inherently likely to cause serious reputational harm. On any view, there was extensive publication of the TED Talk in phase two. The tweet conveyed the same serious imputation as the TED Talk, but the judge found that its publication peaked at or near the time it was first posted (see paras 3, 5, 8-10, 40-46, 49 of judgment).
+ 
+Assessment of serious harm:
+ 
+    • Scale of publication - Scale of publication was relevant when deciding whether publication had caused serious harm to reputation. The judge had concluded that the initial publication of the TED Talk was on a scale at least equivalent to a high-circulation newspaper, being in the order of 1 million, and that the number of people within the jurisdiction to whom the tweet was published was likely to be only a fraction of that. Precision was impossible in such matters. The broad conclusions at which the judge arrived were open to her on the evidence (paras 52-53).
+    • ”Echo chamber” - Where a person published a specific allegation of a seriously damaging kind in circumstances which would ordinarily lead to an inference of serious reputational harm, the fact that those to whom that allegation was published were politically opposed to the claimant or had a generally low opinion of them was not a proper basis on which to reject that inference. A person’s reputation was not a simple question of whether they were liked or disliked; evidence of bad reputation had to be confined to the sector of the claimant’s character relevant to the libel. By referring to an “echo chamber”, the judge meant a closed environment in which the information people received was merely repetition of the same things they had heard or said before and already believed. However, there was no evidential basis for her inference that the TED Talk and tweet did not cause serous harm because most of those to whom they were published already believed in the truth of the allegation which they contained (paras 55, 57, 60).
+ 
+ 
+Conclusion - A decision on serious harm was an evaluative one, akin to the exercise of a discretion. To succeed in an appeal against such a decision, the appellant had to identify a flaw in the judge’s treatment of the question which undermined the cogency of their conclusion, Sprintroom Ltd, Re [2019] EWCA Civ 932, [2019] B.C.C. 1031, [2019] 6 WLUK 42 followed. As far as the TED Talk was concerned, the judge’s errors fatally undermined her conclusion. The judge had held that it was a serious talk on a serious subject given by an award-winning journalist on an authoritative and credible international platform. Given those conclusions, the findings as to the scale of publication in phase two, the inherent gravity of the allegations and the appellant’s prominent role in public life, serious reputational harm was an inevitable inference. However, she had been entitled to dismiss the claim in respect of the tweet in relation to phase two in view of her conclusion that access to the tweet would have peaked at or shortly after the time of first publication. It was improbable that anyone in the jurisdiction would have read the tweet after 29 April 2020 and even less likely that anyone would have read the tweet and followed the link to the TED Talk after that time. Accordingly, the claim in respect of the TED Talk was dismissed in so far as it related to publication up to 29 April but it succeeded in respect of phase two (paras 66-71).
+ 
+

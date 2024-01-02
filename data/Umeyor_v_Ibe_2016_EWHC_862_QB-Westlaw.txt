@@ -1,0 +1,58 @@
+﻿
+Umeyor v Ibe
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+20 April 2016
+ 
+Where Reported
+[2016] EWHC 862 (QB)
+[2016] 4 WLUK 410
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Community organisations; Dishonesty; Meaning; Qualified privilege; Reputation; Slander
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Mohammed Bashir.
+For the defendant: Adrian Davies (Bar Public Access).
+ 
+Solicitor
+For the claimant: SLA.
+ 
+Case Digest
+Summary
+A claim for slander was dismissed where, although witnesses had given English translations of the words complained of, the words actually spoken in the Ibo language were not proved. Even if the alleged statement had been proved, part of it would not have been actionable in slander, and the claimant had failed to prove that the other part had caused serious harm to his reputation. In any event, the defendant had spoken without malice on an occasion of qualified privilege.
+ 
+Abstract
+The claimant brought a claim of slander against the defendant.
+ 
+Both were members of an unincorporated associated created by members of a south-eastern Nigerian community in the UK. The association met regularly to discuss issues affecting the community. The claimant had agreed to take association funds to Nigeria for a medical mission. However, he spent an equivalent sum discharging a hotel bill in Nigeria and the association questioned his use of the money and the receipts presented for the hotel bill. The association’s treasurer referred in a document to “dodgy receipts” and “forgery” and the claimant began a libel claim against the treasurer. Subsequent minutes of the association’s meetings referred to the defendant making unspecified inappropriate and insulating remarks in the Ibo language. The claimant alleged that a true English translation of the remarks was that he had used the association’s money to buy prostitutes in Nigeria. His and other witnesses’ statements referred to the English translation of the remarks, but did not specify the Ibo words used. The defendant denied that he had made the statement complained of and denied having used the Ibo word for prostitutes. He asserted that the words used bore a meaning to the effect that the claimant should provide a receipt because otherwise it would look like the association squandered its money in a hotel in Nigeria. The claimant asserted that the statement was actionable without proof of special damages because it imputed the commission of a criminal offence, namely theft, and because it had harmed his reputation as ward chairman of a Nigerian political party, and therefore came within the exception contained in the Defamation Act 1952 s.2. By the time of the instant proceedings, the claimant’s libel action had been upheld (Umeyor v Nwakamma [2015] EWHC 2980 (QB), [2015] 10 WLUK 434).
+ 
+The issues were whether (1) the claimant had proved that the defendant made the statement complained of; (2) the statement was actionable as slander; (3) the defendant had established a defence of qualified privilege; (4) the publication was malicious.
+ 
+ 
+Held
+Claim dismissed.
+ 
+(1) The claimant had adduced evidence about the English meaning of the words allegedly spoken in Ibo by the defendant, but had not specified the Ibo words complained of. He had therefore led no evidence to prove the words complained of. Liability for defamation depended on meaning, which was subtle and nuanced. Small differences in wording could lead to significantly different meanings and precision was therefore necessary. Evidence of the words’ English meaning had not been given by an interpreter but by lay witnesses who did not have the independence required of expert witnesses. Although the evidence was highly unsatisfactory, the court was able to conclude that the defendant had not used the Ibo words alleged, or any words which could be accurately translated in English in the way which had been pleaded (see paras 36-51 of judgment).
+ 
+(2) In so far as it imputed sexual immorality, the alleged statement would not have been actionable as a slander, even if it had been proved. The claimant failed to prove serious harm to his reputation had flowed from it. Membership of a political party could not be an “office” for the purposes of s.2, and there was no evidential basis that any statement made to a small audience in the UK, to the effect that the claimant acted in a sexually immoral way, was likely to disparage him in a political office as a ward chairman in Nigeria (paras 52-60, 65-67). In relation to dishonesty, words imputing criminal conduct which was criminal under English law were actionable as slander, regardless of where the conduct occurred. That aspect of the statement would have been actionable without proof of special damage. However, the defendant had not alleged theft. In any event, that part of the claim would have failed for lack of proof that the statement caused serious harm to the claimant’s reputation. The gist of the judgment in the libel action would also have been known to the majority of those at the meeting and would have provided clear vindication of any suggestion of guilt. Any harm caused by the defendant’s statement had been undone by that judgment and it ceased to be defamatory (paras 74-82).
+ 
+(3) The meeting was an occasion on which qualified privilege would normally protect what was said because the claimant’s use of the association’s funds was a matter of legitimate interest and concern to all members. A statement which was logically irrelevant would only fall outside the protection of the privilege if it was entirely irrelevant and extraneous. Any suggestion of the use of a hotel for sexual liaisons was firmly linked with the privileged topic of whether the association’s money had been misapplied or misused by the claimant. Qualified privilege therefore applied (paras 83-85).
+ 
+(4) The defendant had not made a direct accusation of sexual misconduct. The focus of his remarks had been on the possibility that there had been a misuse of association funds. He had not acted maliciously (paras 90-91).
+ 
+

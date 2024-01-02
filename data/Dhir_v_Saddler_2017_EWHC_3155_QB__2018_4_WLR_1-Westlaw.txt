@@ -1,0 +1,68 @@
+﻿
+Dhir v Saddler
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division District Registry (Leeds)
+ 
+Judgment Date
+6 December 2017
+ 
+Where Reported
+[2017] EWHC 3155 (QB)
+[2018] 4 W.L.R. 1
+[2017] 12 WLUK 117
+Times, January 2, 2018
+[2018] C.L.Y. 705
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Damages
+ 
+Keywords
+Adultery; Credibility; Loss of reputation; Measure of damages; Publication; Slander; Threatening to kill; Truth
+ 
+Judge
+Nicklin J
+ 
+Counsel
+For the claimant: David Mitchell.
+For the defendant: John Samson (Direct Access).
+ 
+Solicitor
+For the claimant: Michael Lewin Solicitors.
+ 
+Case Digest
+Summary
+A claimant was awarded £35,000 in damages following his successful claim for slander. The claim related to a false allegation, made in front of a congregation of 90 people, that he had threatened to kill one of the church members.
+ 
+Abstract
+The claimant businessman brought a claim of slander against the defendant in respect of words spoken by her at a meeting of the Seventh Day Adventist Church.
+ 
+The defendant’s son was married, but had entered into an extra-marital relationship with the claimant’s daughter. The claimant’s family believed that the relationship was wrong, and that the defendant’s son was exploiting their daughter financially. They complained to the church about the relationship, and their belief that the defendant knew of it and sanctioned it. A meeting was convened before the church’s congregation. The meeting was well-attended, although the parties could not agree on the actual numbers who attended. At the meeting, the defendant stated that on an earlier occasion at her home (the September meeting), the claimant had “threatened to slit my throat”. The defendant relied on the defence of truth.
+ 
+The court was required to determine (1) whether the publication was actionable per se, as an imputation that the claimant had committed a criminal offence punishable by imprisonment; (2) the extent of publication; (3) whether the publication caused, or was likely to cause, serious harm to the claimant’s reputation; (4) whether the claim was an abuse of process under the principle in Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44; (5) whether the defence of truth was established; (6) the appropriate compensation.
+ 
+ 
+Held
+Judgment for claimant.
+ 
+(1) Actionable per se - The court was satisfied that the words “he threatened to slit my throat” imputed the commission of the offence of making a threat to kill under the Offences Against the Person Act 1861 s.16. That was an offence punishable by imprisonment, so the slander claim could be maintained without proof of special damage, Colman v Godwin 99 E.R. 554, [1782] 5 WLUK 7 applied (see para.30 of judgment).
+ 
+(2) Extent of publication - The claimant had pleaded that approximately 300 people were present at the church meeting, but the defence put the figure at no more than 70. The court gained the clear impression that the defendant’s witnesses were seeking to minimise the number of people at the meeting rather than assisting the court with their genuine recollection. It was impossible to ascertain the precise figure, but a reasonable estimate based on the totality of the evidence was that publication of the alleged slander was made to at least 90 people (paras 35-37).
+ 
+(3) Serious harm - The seriousness of the allegation against the claimant raised an inference of serious reputational harm, Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155 followed. The effect of Lachaux was that serious harm had to be caused to the reputation of the claimant in the eyes of the publishees; not in the eyes of people generally. The defendant had argued that serious harm was not established where the number of publishees was very limited. However, it was the quality of the publishees, not their quantity that was likely to determine the issue of serious harm in cases involving small-scale publication. A significant factor was whether the claimant was identified in the minds of the publishees, so that the allegation “sticks”. A feature of the sticking power of a defamatory allegation was the likelihood of repetition, otherwise known as the grapevine effect. It was clear from the claimant’s presence at the meeting, its agenda and the context of the defendant’s address, that all 90 people would have understood her words to refer to the claimant. Serious harm had been caused to the claimant’s reputation (paras 50-61).
+ 
+(4) Jameel Abuse - The court rejected the suggestion that there was so little at stake that the claim amounted to an abuse of process, Jameel followed. If the claim was successful, that vindication alone, particularly following a public trial at which a truth defence was advanced, would weigh heavily against the contention that there was nothing of value at stake for the claimant (paras 64-66).
+ 
+(5) Truth defence - The defendant had the burden of showing that the defamatory imputation was substantially true, Turcu v News Group Newspapers Ltd [2005] EWHC 799 (QB), [2005] 5 WLUK 62 applied. She had failed to discharge that burden because (a) text messages from the defendant’s daughter-in-law showed that no threats were made at the September meeting; (b) it was not credible that the defendant would not have informed her own family of the threat; that her son could have forgotten who had told him about it; or that they would not have reported it to the police; (c) the defendant’s account of the September meeting was not credible. There were two workmen present in her home whom she could have called to assist her. The defendant had lied about the threat (paras 67, 94).
+ 
+(6) Damages - The claimant’s persistence in her plea of truth, when she must have known that her allegation was false, was a significant aggravating factor. An allowance should also be made for the propensity of the grapevine effect when assessing the harm to the claimant’s reputation. However, the court was entitled to have regard to evidence before it of two previous incidents, captured on a mobile phone, which indicated that the claimant had in the past resorted to violence or the threat of violence when angered, Pamplin v Express Newspapers Ltd [1988] 1 W.L.R. 116, [1985] 2 WLUK 280 and Turner v News Group Newspapers Ltd [2006] EWCA Civ 540, [2006] 1 W.L.R. 3469, [2006] 5 WLUK 399 followed. Balancing those competing factors, the appropriate sum of damages was £35,000 (paras 103,107, 121-122).
+ 
+

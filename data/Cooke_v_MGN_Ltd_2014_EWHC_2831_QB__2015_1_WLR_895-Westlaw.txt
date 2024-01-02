@@ -1,0 +1,57 @@
+﻿
+Cooke v MGN Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+13 August 2014
+ 
+Where Reported
+[2014] EWHC 2831 (QB)
+[2015] 1 W.L.R. 895
+[2015] 2 All E.R. 622
+[2014] 8 WLUK 180
+[2014] E.M.L.R. 31
+[2014] C.L.Y. 834
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defamatory meaning; Preliminary issues; Publication
+ 
+Judge
+Bean J
+ 
+Counsel
+For the claimants: Hugh Tomlinson QC.
+For the defendants: David Price QC.
+ 
+Solicitor
+For the claimants: Wragge Lawrence Graham.
+For the defendants: David Price Solicitors and Advocates.
+ 
+Case Digest
+Summary
+The court, as a preliminary issue, determined the defamatory meaning of words complained of in a defamation claim but determined that the claimants had not demonstrated serious harm to their reputations as required by the Defamation Act 2013 s.1.
+ 
+Abstract
+The court was required to determine preliminary issues in a defamation claim brought by the claimants (C and M) against the defendants (X) following the publication of a newspaper article.
+ 
+C was the CEO of M, a private housing association, and both had been mentioned in an article that focussed on a landlord who was said to have been benefitting from letting sub-standard properties to tenants on benefits. The article mentioned C’s salary and the location of her home. An online version of the article was published but was subsequently deleted. Following the exchange of correspondence between the parties, X published an apology. A deputy master ordered the trial of two preliminary issues, namely (i) the defamatory meaning of the words, particularly in the context of the entire article, and (ii) whether the article had caused serious harm to the reputations of either or both of the claimants within the meaning of the Defamation Act 2013 s.1.
+ 
+The claimants submitted that the article was about “slum landlords” who were benefitting from squalid properties in “benefits street” and that they were part of the “rogue’s gallery” in the article.
+ 
+ 
+Held
+Preliminary issues determined.
+ 
+(1) A reasonable reader would not think that M was being depicted as a “slum landlord”. The natural and ordinary meaning of the words complained of was that (a) M, whose chief executive was C, was one of the well-off landlords of rented properties on a particular street who let houses to people in receipt of housing benefit at rents of up to £650 per month, thereby making money from the misery of those residents; and that (b) C was personally responsible for that conduct of M, and had herself profited and become rich from it, in that she was paid £179,000 a year and lived in a large house in Gloucestershire. The apology was sufficient in the mind of the hypothetical reader to eradicate or at least minimise any unfavourable impression of M or C created by the original article in the mind of the hypothetical reasonable reader who read both. That left a residual class of readers of the original article who had not read the apology. As far as the latter group was concerned, it was important to note that the apology was now far more accessible on internet searches than the original article. Only someone actively trying to find the unamended article might come across it. The apology was not relevant to meaning, but was relevant to the issue of serious harm. The claimants accepted that there was no specific evidence that the article had caused serious harm to their reputation so far and such serious harm could not be inferred. They had also failed to show that it was more likely than not to cause serious harm to their reputations in the future (see paras 17,19, 21-22, 44-45 of judgment).
+ 
+

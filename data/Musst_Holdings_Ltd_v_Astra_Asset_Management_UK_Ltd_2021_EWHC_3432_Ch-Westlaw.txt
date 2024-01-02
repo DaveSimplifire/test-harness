@@ -1,0 +1,70 @@
+﻿
+Musst Holdings Ltd v Astra Asset Management UK Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Chancery Division
+ 
+Judgment Date
+17 December 2021
+ 
+Where Reported
+[2021] EWHC 3432 (Ch)
+[2021] 12 WLUK 257
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Contracts
+ 
+Keywords
+Breach of contract; Commission; Companies; Disparagement; Estoppel by convention; Evidential burden; Fund managers; Illegality; Interpretation; Malicious falsehood; Meaning; Novation; Publication; Serious harm; Slander
+ 
+Judge
+Freedman J
+ 
+Counsel
+For the claimant: Peter Knox QC, Kirsten Sjovoll.
+For the defendants: Christopher Boardman QC, Tom Beasley, David Glen.
+ 
+Solicitor
+For the claimant: Collyer Bristow LLP.
+For the defendants: Payne Hicks Beach.
+ 
+Case Digest
+Summary
+In a claim for breach of contract concerning fees for effecting introductions to an investment fund manager, the court construed the contractual definition of “Introduction” and considered issues such as novation and illegality. It also considered a counterclaim for slander and examined the correct approach to the burden of proof where there was no direct evidence of publication.
+ 
+Abstract
+The claimant (M) sought damages for breach of contract from the defendants (Astra). The defendants counterclaimed for slander and malicious falsehood.
+ 
+The defendants were two companies, Astra UK and Astra LLP. In 2013, M had entered into a written contract with an investment fund manager (O) which agreed to pay M a 20% share of management and performance fees which it received from clients which M introduced to it. M claimed that it introduced two clients (2B and Crown) who had both invested in accounts managed by Astra LLP on O’s behalf. At first, O paid M the agreed share of fees. In 2014, M claimed that Astra LLP took over the management of the funds in place of O and that by April 2016, the management of the clients’ funds had been transferred to Astra UK. In July 2016, M sent three invoices to Astra UK, and it denied any obligation to pay them. M claimed that the contract had been novated to Astra LLP after it took over management of the funds, and that it was then novated to Astra UK in May 2016. Astra denied that there was ever such a takeover of functions. Astra claimed that there was no obligation to pay fees, but a voluntary oral arrangement, agreed in 2012 (the November agreement), which had only been for a three-year period.
+ 
+The slander and malicious falsehood counterclaims concerned allegations that in June 2016, M’s beneficial owner (S) had made four disparaging statements about Astra to an employee of Crown. The alleged statements included that Astra was a “sinking ship” which did not have enough money to pay its staff and that its investors were pulling out. M denied that S had said the words complained of.
+ 
+ 
+Held
+Judgment for claimant.
+ 
+(1) Breach of contract
+ 
+(a) November arrangement - The contemporaneous documents substantially contradicted Astra’s account and provided more support for M’s case, which also made commercial sense. M would not have been satisfied with a voluntary arrangement because substantial fees were likely to be involved (see paras 198-211 of judgment).
+ 
+(b) Introduction of 2B and Crown - The definition of “Introduction” in the contract included “any circumstance where a Prospective Investor ultimately makes an investment for the Current Strategy in a Fund or a managed account at the instigation or on the initiative of the Introducer or commences a relationship with [O] through the initiative of the Introducer”. The introduction of 2B to O by M came within that definition. At the point in time when the investment was made, the question was whether that was at the instigation or initiative of the introducer. The contract specified that its effective date was 21 November 2012 and it was consistent with commercial sense to construe the words of the contract as indicating that approaches prior to the effective date would be paid for provided that the investments were made thereafter. There was nothing in the words used which precluded that construction, Rainy Sky SA v Kookmin Bank [2011] UKSC 50, [2011] 1 W.L.R. 2900, [2011] 11 WLUK 37, Arnold v Britton [2015] UKSC 36, [2015] A.C. 1619, [2015] 6 WLUK 320 and Wood v Capita Insurance Services Ltd [2017] UKSC 24, [2017] A.C. 1173, [2017] 3 WLUK 724 followed (paras 272-276). Although Astra asserted that the introductions had been made by another company, the words of the contract did not state that the instigation or initiative had to be the sole or predominant instigation or initiative of M. Adopting an iterative approach to construction, M introduced both 2B and Crown to O (paras 88-90, 278-284, 288, 296-300, 303).
+ 
+(c) Estoppel by convention and rectification - Even if the contract had to be construed so that M had not introduced 2B and Crown to O, the argument that no fees were due to M in respect of those introductions would have been barred by an estoppel by convention because the parties had proceeded on the basis that M had made the introductions and was entitled to the fees. Alternatively, the agreement would have been rectified (paras 311-313, 318-320).
+ 
+(d) Novations - There was no express agreement of novation, but that did not preclude an agreement by conduct. The novation did not go back to the inception of the contract, but Astra could not argue that the partial novation did not work because it offended against contractual anti-variation and transfer provisions. The introduction of new parties was not a variation, but a new contract and it had no application to a novation. The contract had been novated to Astra LLP and then to Astra UK (paras 369-375, 377, 385-386, 392-394).
+ 
+(e) Current Strategy defence - The “Current Strategy” was defined in the contract as “to invest primarily in synthetic asset backed securities and on a buy and hold basis with limited or [no] direct leverage”. The contract did not state that if the investments ceased to be managed according to that strategy, the entitlement to the fees would cease. The investments satisfied the strategy at the start, and did not cease to attract fees simply because the strategy changed (paras 418, 421, 434-435).
+ 
+(f) Illegality - Astra argued that because 2B was a US client, the US Securities and Exchange Act 1934 s.15 required that M should be registered in the US as a “broker-dealer”, and that if it now paid fees to M it would be aiding and abetting a breach of s.15. However, the 2B contract had not been shown to be an investment contract and therefore a security within s.15. In any event, a breach of s.15 would make the contract voidable rather than void, and M had an equitable defence in US law: it was inequitable for O and Astra to take the benefit of the introduction of 2B but then to refuse to pay the agreed fees. Further, the risk of aiding and abetting was not sufficient to give rise to a defence: the contract required that the payment had contravened the law, but a payment by Astra to M would not contravene the US Act as there had been no knowing or reckless breach at the time of the contract (paras 493, 498, 501, 506-507, 511-518).
+ 
+(2) Defamation - The onus of proof was on Astra, but it had not called any direct evidence of publication. In particular, it had not adduced written evidence from or called as a witness the only person to whom the words had allegedly been spoken. It had given no explanation for that. The only direct evidence had been given by S. Proof of publication was fact-specific, but the absence of contemporaneous notes, records or accounts of an alleged slander was likely to make it very difficult for a claimant to discharge their burden and prove publication. While it might be possible to prove publication in the absence of direct evidence, the court should not adopt a more lenient or relaxed approach in recognition of the fact that oral publications were more difficult to prove than written publications. Astra had not established that the statements had been made, in whole or in part. The defamation claim had to fail (paras 586-590, 597-598, 602-604, 607-612). In any event, Astra had not established serious harm within the Defamation Act 2013 s.1(1) or that M had caused or was likely to cause Astra serious financial loss within s.1(2). The malicious falsehood claim also failed, as did a claim that various disparaging statements amounted to repudiatory breaches of contract or gave rise to a contractual right to terminate (paras 623-632, 634-640, 645-659).
+ 
+

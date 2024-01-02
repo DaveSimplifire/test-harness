@@ -1,0 +1,145 @@
+﻿
+Hope Not Hate Ltd & Another v Nigel Farage
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+2 November 2017
+ 
+Claim No HQ17M01391
+No. IHQ17/0500
+High Court of Justice Queen’s Bench Division
+[2017] EWHC 3275 (QB), 2017 WL 04977289
+Before: Mr. Justice Warby
+Thursday, 2nd November 2017
+Representation
+      Mr. A. Hudson QC (instructed by Hamlons LLP ) appeared on behalf of the Claimant.
+      Mr. J. Rushbrooke QC (instructed by Carter-Ruck ) appeared on behalf of the Defendant.
+Judgment
+Mr Justice Warby:
+ 
+1.  This has been the hearing of procedural applications. The principal issue raised is one of case management, not one of substance.
+ 
+2.  The procedural issue is one that has been the subject of some debate and controversy in general terms over recent months, if not years. It is whether there should be a trial of the issue of serious harm as a preliminary issue in a defamation action.
+ 
+3.  The issue arises in the present case under some unusual, if not exceptional circumstances that are most unlikely to be repeated. Nothing in this short ruling is intended to lay down any fresh principles or to give any guidelines or to set any rules about when it is appropriate to order preliminary issue trials in this kind of case in the future.
+ 
+4.  Among the peculiar circumstances of this case is the fact that, until quite recently, it was a matter of agreement between the parties that there should be a trial of serious harm as a preliminary issue, concurrently with the hearing of an application to strike out on another ground. Hence, the matter has been listed for trial in just two weeks’ time.
+ 
+5.  The defendant has now raised the question of whether that trial should proceed. My conclusion is that, given the particular circumstances of this case, the preliminary issue trial should go ahead, and I shall give a direction accordingly.
+ 
+6.  That resolves that that aspect of the issues raised by the claimant’s application. I will have to come to what procedural consequences that has, but before doing so, I need to explain my conclusion and, for that purpose, I need to outline the nature of the claim, the procedural background, and the issues which have been raised.
+ 
+7.  The claimants are a company limited by a guarantee and a charitable trust. They describe themselves as respected civil society organisations which, amongst other things, seek to challenge and defeat the politics of hate and fear at a national grassroots level. Of some potential relevance to the issues that will be before the court is the fact that neither claimant trades for profit. The serious harm threshold that applies is therefore the one set by s.1(1) of the Defamation Act 2013 , so it would appear.
+ 
+8.  The defendant is the well-known politician Nigel Farage, a long-standing Member of the European Parliament. The claim relates to words spoken by the defendant in the course of a radio interview on 20th December 2016. In the course of that interview, on the Nick Ferrari Breakfast Show on LBC, the defendant said these words:
+”Yes, well, of course, he would know more about extremists than me, Mr. Cox [the widower of the late MP, Jo Cox]. He backed organisations like Hope not Hate who masquerade as being lovely and peaceful but actually pursue violent and very undemocratic means.”
+ 
+ 
+9.  It is alleged that a video clip of this interview, including this statement, was posted and remains on the LBC website.
+ 
+10.  A letter of complaint was sent on the day of broadcast. There was no response. Accordingly, this action was started by a claim form issued on 21st April 2017. The particulars of claim filed at the same time complained that the statement I have quoted meant that the claimants “each pretend to be peaceful but in fact, pursue violent and undemocratic means to achieve their aims and objectives”. The particulars allege that the statement has caused and/or is likely to cause serious harm to the reputation of each claimant. That, of course, is an essential ingredient of a claim ever since the enactment or coming into force of s.1 of the Defamation Act 2013 .
+ 
+11.  No defence has been filed. Time for service of a defence has been extended by order of the court and then by agreement against the following background.
+ 
+12.  On 16th June 2017, the defendant’s solicitors raised a number of preliminary points, including two which are significant today. The first was that the defendant had a defence of limitation because he had made similar remarks about Hope not Hate in a TV interview on 12th May 2014. The defendant relies on the “Single publication rule” contained in s.8 of the 2013 Act. The second point raised was that the pleaded claims do not meet the serious harm threshold laid down by s.1 of that Act.
+ 
+13.  On 4th July 2017, the defendant filed an application notice seeking three orders, together with an order for costs. The first two were:
+”1.  Pursuant to CPR 3.4(2)(a) and/or (b) and/or CPR Part 24 that the claim be struck out on the grounds that by virtue of s.8 of the Defamation Act, 2013 , the claimant’s cause of action is time barred and
+ 
+2.  For a determination by way of preliminary issue of the question whether the statement complained of has caused or was (alternatively is) likely to cause serious harm to the claimant’s reputations within s.1 of the said Act, and a consequential order striking out the claim.”
+ 
+ 
+14.  The application was supported by evidence in the form of a witness statement made by the defendant’s solicitors, Dominic Garner. This relied on a number of facts and matters in support of the defendant’s case that the claim failed to get over the statutory threshold. It is unnecessary to cite at any length from the witness statements, but two passages give the general flavour. In para.90, Mr. Garner said:
+”The defendant disputes that this is a case where the requisite serious harm may be inferred … in particular, there is no suggestion that the claimants’ campaigning or fundraising activities have been harmed in any way by the words complained of or evidence of any detriment to any other relevant areas of their activity.”
+ 
+ 
+15.  In para.23, Mr. Garner said,
+”Although they are not for profit companies, as corporate entities rather than individuals one might expect the claimants to have put forward some tangible case of harm to their reputations … What is evident is that the claimants’ profile and support has, if anything, been bolstered by the publicity given to the words complained of.”
+ 
+ 
+16.  The application contained a further para.3 seeking the following, “If necessary and appropriate, directions in advance for the trial of the said preliminary issue and for the service of evidence in relation to thereto.”
+ 
+17.  The defendant’s solicitors wrote at the same time as serving their application notice saying this:
+”We…consider it sensible and proportionate for the question of serious harm to be dealt with at the same time as our client’s s.8 application. If your clients are agreeable to this course, it should also be possible for the parties to agree directions for the service of further evidence prior to the hearing.” 
+ 
+ 
+18.  They sought confirmation as to whether the claimants agreed to that and if so, whether they agreed to the time estimate. It was suggested that the parties could, if such agreement was forthcoming, proceed to have the application listed and put an agreed order for directions before the court. That order for directions was contemplated to include, “of course”, an order for the trial of serious harm as a preliminary issue. In the event that an agreement was not forthcoming, the defendant’s solicitors reserved the right to bring the application before the court for a preliminary hearing in any event, and to seek directions.
+ 
+19.  In the event, it was unnecessary for an order to be sought because the claimants’ substantive response by email from their solicitors of 6th July included the following:
+”1.  We agree to the listing of the serious harm and s.8 applications as you suggest.
+ 
+2.  Counsel agree with your time estimate…we will wish to have this application listed for a fixed date rather than floating in the warn list.”
+ 
+ 
+20.  At the same time, the claimants agreed to vacate a pending application by the defendant for a further extension of time for service of the defence. In response, Carter Ruck, the defendant’s solicitors made clear that their understanding of this correspondence was that, “Your clients are now agreeable to the question of serious harm being tried as a preliminary issue at the same time as the s.8 issues.”
+ 
+21.  There was then correspondence in late July and early August about the directions that had been proposed with a view to getting the matter in good procedural shape in advance of the hearing. That in the event did not result in the consent order that both sides had contemplated. There have been recriminations from both sides as to whose fault that was. What is clear, however, is that both sides contemplated that there would be a procedural timetable for the service of evidence by consent and that, in any event, there would be a one-and-a-half to two-day hearing of the applications in paras.1 and 2 of the application notice in the Autumn.
+ 
+22.  On 28th July 2017, a hearing was fixed for the 16th and 17th November, two weeks from now. It was clearly the common understanding of the parties and it in due course became my understanding, as judge in charge of this list, that the hearing was to deal with the matters in paras.1 and 2 of the application notice, the parties having agreed that those were appropriate matters to be dealt with.
+ 
+23.  The claimants thereafter changed their position, and have now issued the application notice which is before the court seeking:
+”A case management conference…before a judge…to determine the question as to whether or not an order should be made for the trial of serious harm as a preliminary issue; and to provide directions for the hearing listed for the 16th and 17th November 2017.”
+ 
+ 
+24.  That change of position first emerged on 20th September 2017 in a letter that contained the following sentence:
+”Although the application notice has been listed for hearing on 16th and 17th November 2017, the court has not, as far as we are aware, made any directions in relation to it.”
+ 
+ 
+25.  That is a somewhat remarkable thing to say against the procedural background that I have described. It was plainly an agreed position that the court did not need to make any directions or, if it did, that they were directions that would have gone by consent.
+ 
+26.  It is relevant also to quote a passage on the second page of this letter, in which the following is said: 
+”At para.11 of their Particulars of Claim, our clients have set out in detail the numerous facts and matters on which they rely in support of their case on serious harm. They would, if necessary and at the appropriate stage produce extensive evidence of these facts and matters.”
+ 
+ 
+27.  The claimants’ solicitors went on to say, however, that in accordance with the decision of the Court of Appeal in the case of Lachaux v Independent Print Ltd [2017] EWCA Civ 1334 :
+”It is neither appropriate nor proportionate for the court to determine as a preliminary issue whether the statement complained of by our clients has caused or is likely to cause them serious harm. Our clients, therefore oppose your application…”
+ 
+ 
+28.  The reference to Lachaux is to an important decision handed down on 12th September 2017 in a case that I heard and gave judgment upon in July 2015. The appeal was heard in November 2016, and it was some ten months before the judgment was handed down. The procedural moves that I have described therefore happened in the period between the hearing of the appeal and the giving of judgment.
+ 
+29.  Mr. Hudson has referred me to extensive passages in Lachaux , in particular, paras.67-70 and 80 and 81. For present purposes, I think it is sufficient to quote from para.82 in which Davis LJ drew together the threads and identified what he considered to be the position concerning the trial of preliminary issues as to serious harm, and related issues. He said this:
+ 
+”(3)  If there is an issue as to meaning (or any related issue as to reference) that can be resolved at a meaning hearing, applying the usual objective approach in the usual way. If there is a further issue as to serious harm, then there may be cases where such issue can also appropriately be dealt with at the meaning hearing. If the meaning so assessed is evaluated as seriously defamatory it will ordinarily then be proper to draw an inference of serious reputational harm. Once that threshold is reached further evidence will then be likely to be more relevant to quantum and any continuing dispute should ordinarily be left to trial.
+ 
+(4)  Courts should ordinarily be slow to direct a preliminary issue, involving substantial evidence, on a dispute as to whether serious reputational harm has been caused or is likely to be caused by the published statement.”
+ 
+ 
+30.  Davis LJ went on to say, at para.82(6):
+”All interlocutory process in such cases should be sought to be managed in a way that is proportionate and cost-effective and actively promotes the overriding objective.”
+ 
+ 
+31.  For the claimants, Mr. Hudson has submitted that there should be no trial of any preliminary issue unless the court has ordered it; and no such order should be made until after the court has given consideration to the issue at a case management conference. It is always a question for the court and not the parties as to whether such a trial should take place. Accordingly, it is submitted, the defendant should have sought an order for such a trial from the court and the claimants’ agreement to that course is a red herring.
+ 
+32.  Mr. Hudson submits that the clear change of approach, as he calls it, indicated by the Court of Appeal in Lachaux made it incumbent upon the defendant following the letter of 20th September to raise the matter with the court. Having failed and refused to do so, the claimants have taken an appropriate course by raising it themselves.
+ 
+33.  Mr. Hudson submits that it is inappropriate to have a preliminary issue trial here, his principal arguments being these. First, it is unclear what, if any, substantive defences will be relied upon. Secondly, there is little room for argument about the meaning complained of meaning, thirdly, that it is proper to draw an inference of serious reputational harm for the purposes of s.1(1) , on the facts of this case. The defendant’s case that there should be no such inference is one that depends on evidence and it would be inconsistent with the approach dictated by Lachaux to dictate a preliminary issue trial here. It would impose on the claimants, argues Mr. Hudson, a further burden of adducing evidence to establish serious harm or to at least rebut the defence case on that issue, which the Court of Appeal was opposed to.
+ 
+34.  Mr. Rushbrooke has emphasised very much the procedural fairness aspect of the matter. His skeleton argument identified the “single and relatively straightforward issue” raised by the application as “whether or not the claimants should be permitted to resile from the clear agreement they reached with the defendant some months ago, that there should be a preliminary issue trial on serious harm.”
+ 
+35.  Preliminary issues are generally frowned on in litigation. At least, the court takes a cautious approach. The risks of taking what is often called a “treacherous short cut” are well-documented. I adverted to them in Brown v Bower, Faber and Faber Ltd [2017] EWHC 1388 (QB) . There have, however, been a number of orders for preliminary issue trials of the issue of serious harm in a defamation claim. As I have mentioned, this has caused some controversy. It would serve no purpose to trace the history of this debate or to seek to debunk any of the myths that may have grown up around it. What is clear is that in Lachaux, the Court of Appeal was concerned at the risk that preliminary issue trials would run up significant if not substantial costs to no useful purpose or, indeed, in a way that is inimical to achieving the overriding objective.
+ 
+36.  What is also clear, however, as I mentioned in Brown v Bower , is that all these cases depend on their particular facts. I accept Mr. Hudson’s submission that it is for the court to decide whether a preliminary issue trial should proceed. Such a decision is, however, a classic instance of discretionary case management. The court must apply the overriding objective, seeking to identify what the issues would be, and how they fit within the overall picture of the litigation. It must strive to balance the competing considerations - of which there are many - in such a way as to best achieve the overriding objective.
+ 
+37.  I bear in mind the warning that the court should be slow to direct a preliminary issue trial involving substantial evidence. I am mindful of the risk in this case that the determination of the issues might generate an appeal. But my conclusion that, despite what was said by the Court of Appeal in Lachaux , the envisaged trial should proceed in this action is based on an assessment of all the circumstances of this case. I give particular weight to the following.
+      (1)  First, the evidence that the defendant has already prepared and submitted on the issue, at a time when the procedural context was as it stood before the Court of Appeal’s decision.
+      (2)  Secondly, the parties’ agreement to the pursuit of this procedural course. That does not create a procedural estoppel - the court is not bound to do what the parties have agreed - but it is to be given some weight. Both as a matter of procedural fairness, and as a matter of public policy, it is desirable to encourage parties to adhere to agreements made on procedural issues. That is a good way of encouraging them to reach such agreements in the first place.
+      (3)  Thirdly, the timing of the application, which comes before me quite late in the day when preparations have been made for the preliminary issue trial, and it is not far off. Equally, there is still enough time to prepare for such a trial. It is not so late that it is impossible.
+      (4)  Fourthly, I note that in Lachaux at paras.73 and 79, Davis LJ said that if there is an issue as to whether serious reputational harm has been caused or is likely, it may be that that is conveniently dealt with at a meaning hearing, if it is not appropriate for it to be left to a trial. He may have been thinking, or thinking primarily, of cases where the court would not consider much, if any, evidence going beyond the statement itself and its context, but
+      (5)  fifthly, doing the best I can, it does seem to me that the evidential investigation that would be involved in the trial that I am now contemplating would be relatively modest. The claimant has said what I have quoted from its correspondence about the nature of the evidence it would put in, but it has said no more. The burden of the case as pleaded is one that depends upon the nature of the allegation and the scope and extent of its publication. This is not a case where the defence contentions seem likely to lead to the sort of cross-examination that took place in Lachaux , where the claimant was tested at some length with a view to establishing that he had no reputation of any consequence in this jurisdiction. The central points raised by the defendant are that the claimants are corporate claimants which have failed to identify any tangible adverse impact upon them. The core issue appears to be whether the defendant has done enough to rebut the inference that would ordinarily be drawn from the gravity of the defamatory implication conveyed by the words complained of. The time estimate is about half a day on top of what the parties suggest is one day on the s.8 point.
+      (6)  Sixthly, the prominence which this issue would appear to have in the action overall. It is not easy to reach any definitive conclusion, but the fact that no substantive defence has yet been indicated is, in context, a factor that I take to support the view that a preliminary trial should be directed. It might be the end of the matter.
+      (7)  Seventh, the fact that as the procedural regime now stands, no defence will be served in any event until twenty-one days after the resolution of the limitation point following the 16th and 17th of November hearing. That is not until shortly before Christmas, if then.
+      (8)  Eight, and finally, the desirability in the public interest of an early exploration of at least some of the consequences of Lachaux at a hearing before this specialist court.
+ 
+38.  I add that in my judgment it would be appropriate, and I will direct, that the question of what natural and ordinary meanings the words bear should be determined at the same time. It is a short point. It does not depend on any evidence other than the words, and will be a matter that takes up little time at the hearing. It is intimately connected with serious harm.
+ 
+39.  Finally, directions will be necessary to ensure that (i) the issues to be tried are clear and, (ii) evidence is served in good time. I direct that the defendant serve a statement of case as to the issues of meaning and serious harm by 4.00 p.m. on 3 November; the claimants’ evidence on that issue to be served by 4.00pm on 9 November; and the defendant’s evidence in reply, if any, by 4.00 p.m. on Monday, 13th November.
+ 
+ 
+Crown copyright
+

@@ -1,0 +1,67 @@
+﻿
+Lachaux v Independent Print Ltd
+Lachaux v Evening Standard Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Supreme Court
+ 
+Judgment Date
+12 June 2019
+ 
+Where Reported
+[2019] UKSC 27
+[2020] A.C. 612
+[2019] 3 W.L.R. 18
+[2019] 4 All E.R. 485
+[2019] 6 WLUK 127
+[2019] E.M.L.R. 22
+Times, July 8, 2019
+[2019] C.L.Y. 800
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Common law; Damage; Defamatory statements; Libel; Newspapers; Reputation; Statutory interpretation
+ 
+Judge
+Lord Kerr JSC;
+Lord Wilson JSC;
+Lord Sumption JSC;
+Lord Hodge JSC;
+Lord Briggs JSC
+ 
+Counsel
+For the appellants: David Price QC (Solicitor Advocate), Jonathan Price.
+For the respondent: Adrienne Page QC, Godwin Busuttil.
+For the intervener: Guy Vassall-Adams QC, Romana Canneti, Edward Craven.
+ 
+Solicitor
+For the appellants: David Price Solicitors and Advocates.
+For the respondent: Taylor Hampton.
+ 
+Case Digest
+Summary
+The Defamation Act 2013 s.1(1) altered the previous common law in that a statement that would previously have been regarded as defamatory because of its inherent tendency to cause some harm to the subject’s reputation would no longer be so regarded unless it had caused, or was likely to cause, serious harm. Whether that was so was a proposition of fact that could be established only by reference to the actual impact of the words used, not just their inherent meaning.
+ 
+Abstract
+The publishers of two British newspapers appealed against a decision that articles published by them caused, or were likely to cause, serious harm to the respondent’s reputation within the meaning of the Defamation Act 2013 s.1(1).
+ 
+The respondent was a French aerospace engineer who had been living in the United Arab Emirates with his British wife and their young son. When the marriage broke down, he began divorce proceedings in the UAE courts and was awarded custody of his son. In early 2014 the publishers ran articles which reported allegations about the respondent’s conduct towards his wife. He initiated libel proceedings and, at a “meaning hearing”, the judge held that the articles bore eight defamatory meanings, including that the respondent had been violent and abusive towards his wife and had taken their child from her. Nevertheless, the publishers argued that the articles were not defamatory because they had neither caused nor were likely to cause serious harm to the respondent’s reputation within the meaning of s.1(1). The judge at first instance rejected the respondent’s submission that s.1(1) simply added to the common law rule, that libel would be made out if the words had an inherent tendency to cause some injury to reputation, a requirement that the inherent tendency had to be to cause “serious harm” to reputation. Instead, he substantially accepted the publishers’ argument that s.1(1) inserted an additional requirement that the words complained of should in fact result in serious harm. However, finding that the articles did cause serious harm, he found for the respondent. The Court of Appeal preferred the respondent’s construction of s.1(1), but upheld the judge’s finding of serious harm.
+ 
+ 
+Held
+Appeal dismissed.
+ 
+Interpretation of s.1(1)
+The Act unquestionably altered the common law. Firstly, the common law presumed damage to reputation, but did not go so far as to assume serious damage. Therefore, the least that s.1 achieved was to introduce a new threshold of serious harm that did not previously exist. A statement that would previously have been regarded as defamatory because of its inherent tendency to cause some harm would no longer be so regarded unless it had caused, or was likely to cause, serious harm. Whether the statement had caused or was likely to cause serious harm was a proposition of fact that could be established only by reference to its actual impact, not just the inherent meaning of the words themselves. It depended on a combination of the inherent tendency of the words and their actual impact on those to whom they were communicated. Secondly, s.1(1) had to be read with s.1(2) which, in relation to statements said to be defamatory of a body trading for profit, adopted the serious harm test and provided that there had to be “serious financial loss”. That loss was not the same as special damage, but was the measure of the required harm and had to exceed the threshold of seriousness. Finally, s.1(1) was intended to significantly amend the law, and if serious harm could be demonstrated merely by reference to the words’ inherent tendency to harm, it was difficult to see that any substantial change had been effected. The foregoing analysis was inconsistent with the previous common law governing statements that were actionable per se only to the extent that the defamatory character of such statements no longer depended only on their meaning and inherent tendency to harm. To that extent, Parliament intended to change the common law. However, s.1(1) did not effect a revolution in the law of defamation and it was not inconsistent with s.14 of the Act or with the Limitation Act 1980 s.8 (see paras 12-17 of judgment).
+ 
+Application to the instant case
+The conclusion of the judge at first instance that the articles had caused or were likely to cause serious harm was based on the scale of the publications; the gravity of the statements; the fact that they had come to the attention of at least one person in the UK who knew the respondent; and the fact that they were likely to come to the attention of others who either knew him or might come to know him in future. It was thus based on a combination of the meaning of the words, the respondent’s situation, the circumstances of publication, and the inherent probabilities. There was no reason why inferences of fact as to the seriousness of the harm should not be drawn from such considerations. The first instance court had to reach a conclusion on an issue in respect of which precision would rarely be possible and, the absence of some error of principle potentially critical to the outcome, its findings would rarely be disturbed on appeal. The judge had made no such errors of principle in the instant case. He was correct to reject arguments by the publishers based on the “repetition rule” (which treated as defamatory the reporting, even without endorsement, of another person’s statement) and the rule in Associated Newspapers Ltd v Dingle [1964] A.C. 371, [1962] 5 WLUK 82 (that a defendant could not rely in mitigation of damages on the fact that similar defamatory statements have been published about the same claimant by other persons). The repetition rule governed meaning and the availability of the defence of truth; it had nothing to do with the seriousness threshold and was neither abolished nor limited by the 2013 Act. The Dingle rule treated evidence of damage to reputation by earlier publications of substantially the same statement as irrelevant to the assessment of damage by the publication complained of. Although s.1 of the 2013 Act was concerned with the threshold of harm rather than the measure of general damage, both raised a similar question of causation and it would be irrational to apply the Dingle rule in one context but not the other. Nobody was asking for the rule to be abrogated, and the judge had been entitled to apply it, Dingle considered. Finally, the judge had been entitled to take account of the fact that the articles were likely to come to the attention of people who did not yet know the respondent but who might come to know him in future (paras 21-26).
+ 
+

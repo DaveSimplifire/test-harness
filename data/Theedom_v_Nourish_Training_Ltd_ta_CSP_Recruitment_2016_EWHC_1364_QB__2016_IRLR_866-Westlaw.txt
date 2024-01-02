@@ -1,0 +1,66 @@
+﻿
+Theedom v Nourish Training Ltd (t/a CSP Recruitment)
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+15 June 2016
+ 
+Where Reported
+[2016] EWHC 1364 (QB)
+[2016] 6 WLUK 326
+[2016] I.R.L.R. 866
+[2016] C.L.Y. 578
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil evidence
+ 
+Keywords
+Authenticity; Documentary evidence; Gross misconduct; Imputation; Libel; Truth
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: William Bennett.
+For the defendants: Kate Wilson.
+ 
+Solicitor
+For the claimant: Carter-Ruck.
+For the defendants: Ward Hadaway.
+ 
+Case Digest
+Summary
+An employee’s defamation claim was rejected, where his former employer had emailed clients stating that he had been dismissed for gross misconduct, as the imputation conveyed by the emails was substantially true. The court commented on the risk of costly preliminary issues trials becoming the norm as to whether a publication had satisfied the “serious harm” requirement in the Defamation Act 2013 s.1 and stated that the best solution to the risks involved might be the introduction of early costs budgeting.
+ 
+Abstract
+The claimant employee claimed damages for libel for emails sent by the defendant employers.
+ 
+The employee had been employed as a trainee recruitment consultant. Two of his fellow employees joined a rival firm and he was accused of leaking confidential information to them. On 26 June 2014 after a short investigation the employee was handed a letter requiring him to attend a disciplinary meeting the next day. On inspection of his phone, messages were found suggesting that he had leaked confidential information. He was immediately dismissed and a letter was sent to him on 30 June confirming the facts as found. He maintained that he had resigned at that meeting. Pursuant to a confidentiality clause in his employment contract the employee signed an undertaking not to deal with a number of clients for six months after his dismissal. A manager sent over 100 emails to the employer’s actual or potential customers saying that the employee had been dismissed for gross misconduct. The issues at the trial of preliminary issues were the actual defamatory meaning of the words and whether the publication satisfied the “serious harm” requirement in the Defamation Act 2013 s.1. The judge found that the natural and ordinary meaning of the majority of the emails was that (i) the employer had regularly supplied commercially important, confidential information about the employer’s business and its customers’ businesses to its commercial rivals in breach of his obligations to his employer (ii) he had been dismissed for gross misconduct as a result (iii) his misconduct had been so serious that there were reasonable grounds to suspect that it also amounted to a criminal offence. He held that on the balance of probabilities the publication of the emails had caused harm to the employee’s reputation to a sufficient degree of seriousness to pass the threshold set by s.1(1).
+ 
+An employee’s defamation claim was dismissed, where his former employer had emailed clients stating that he had been dismissed for gross misconduct, as the imputation conveyed by the emails were substantially true. The court commented on the risk of costly preliminary issues trials becoming the norm on whether a publication had satisfied the “serious harm” requirement in the Defamation Act 2003 s.1 and stated that the best solution to the risks involved might be the introduction of early costs budgeting.
+ 
+The employer submitted that the imputation conveyed in the emails was substantially true pursuant to s.2(1) of the 2013 Act.
+ 
+ 
+Held
+Claim dismissed.
+ 
+(1) A key issue was whether the letters of 26 June and 30 June were authentic. If they were, their contents were likely to be truthful. The authenticity of the letters had been established and their contents were, for the most part, accurate. The employee had breached his contract by disclosing confidential information as alleged and those breaches were sufficient to prove the substantial truth of the first element of the imputation (see paras 56, 58 of judgment).
+ 
+(2) The employee had not resigned but had been dismissed for gross misconduct. The employer had seen clear documentary evidence on the employee’s phone of disloyalty by leaking or showing willingness to leak confidential information. That was enough to justify dismissal. The second element of the imputation was substantially true (para.59).
+ 
+(3) There were reasonable grounds for suspecting the employee of offences contrary to the Fraud Act 2006 s.1 and s.4. In reaching those conclusions the court had had regard to all the evidence, including the documents and assessment of the witnesses.
+ 
+(4) (Obiter) At the trial of the preliminary issues the judge had expressed concern at the risk of costly preliminary issue trials on “serious harm” becoming the norm. The court had to be alert to the costs risk. Individual claimants faced with what they saw as unmeritorious applications for preliminary issue trials of that kind might seek summary judgment on the issue, as suggested by the judge. Cases falling within s.1(2) of the 2013 Act might call for a different treatment, Undre v Harrow LBC [2016] EWHC 931 (QB), [2017] E.M.L.R. 3, [2016] 4 WLUK 544 considered. However, there were other risks of excessive costs. It was not clear, either, that many cases had been like the instant, where a “serious harm” trial had been followed by a full trial on the merits. The best solution to the risks involved might be the introduction of early costs budgeting (para.107).
+ 
+

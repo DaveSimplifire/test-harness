@@ -1,0 +1,56 @@
+﻿
+Hayden v Family Education Trust
+
+
+No Substantial Judicial Treatment
+
+
+Court
+King’s Bench Division
+ 
+Judgment Date
+24 March 2023
+ 
+Where Reported
+[2023] EWHC 950 (KB)
+[2023] 3 WLUK 515
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Abuse of process; Defamation; Identification; Reputation; Serious harm; Social media; Summary judgments
+ 
+Judge
+Nicklin J
+ 
+Counsel
+For the claimant: In person.
+For the defendant: Victoria Simon-Shore (Direct Access).
+ 
+Case Digest
+Summary
+(EXTEMPORE) A defendant was granted summary judgment on a defamation claim where the claimant was unable to show that a tweet by the defendant had caused or was likely to cause serious damage to her reputation. The tweet had been liked twice and retweeted three times, and had only been available for 40 minutes.
+ 
+Abstract
+The defendant applied to strike out, or for summary judgment on, the claimant’s defamation claim.
+ 
+The claim concerned a tweet published by the defendant referring to a “delusional trans activist” and accused her of harassing people. It was deleted after 40 minutes. The claimant said that the tweet referred to her and defamed her. She sought unlimited damages. The tweet had been liked twice and retweeted three times. The defendant’s Twitter account had 2,399 followers. The tweet had also tagged two others. The tweet did not name the claimant, but one person challenged the tweet, and it was deleted.
+ 
+The defendant submitted that it should be awarded summary judgment, or that the claim should be struck out as an abuse of process, because the claim did not establish a reasonable cause of action as the claimant could not show that the tweet had caused serious harm to her reputation where it was only published for 40 minutes and it was not clear that the tweet referred to her.
+ 
+The claimant submitted that her claim should be determined at trial. She asserted that the defamatory allegations were serious and implied that she was guilty of harassment, and that as the defendant was a registered charity its words would be taken seriously. She argued that given two others were tagged in the tweet, it could have reached 45,000 users, that being the total number of their followers. As to identification, she submitted that at the summary judgment stage the question was whether the tweet was capable of referring to her.
+ 
+ 
+Held
+Application granted.
+ 
+Legal principles - Pursuant to the Defamation Act 2013 s.1, the claimant had to demonstrate that the tweet had caused or was likely to cause serious harm to her reputation. The touchstone was not the nature of the statement but the impact of its publication, Banks v Cadwalladr [2023] EWCA Civ 219, [2023] K.B. 524, [2023] 2 WLUK 433 followed. Whether s.1 was satisfied was a question of fact. It could be determined on a summary basis, Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155 applied. However, as it required a factual investigation and was bound up with the question of damages, it was not usually suitable for preliminary issue determination, Bindel v PinkNews Media Group Ltd [2021] EWHC 1868 (QB), [2021] 1 W.L.R. 5497, [2021] 7 WLUK 44 applied. At common law it was essential that the claimant could prove that the words complained of identified them. That test was objective. As for abuse of process, the court had jurisdiction to strike out a claim where no real or substantial wrong had been committed and litigating would yield no tangible or legitimate benefit to the claimant proportionate to the likely costs and use of court resources. The jurisdiction to strike out claims as abusive was reserved for exceptional cases, Tinkler v Ferguson [2020] EWHC 1467 (QB), [2020] 4 W.L.R. 89, [2020] 6 WLUK 84 applied.
+ 
+Application to the facts - The first question was whether the pleaded case disclosed a proper basis of identification. The nature of the case was clear. The claimant’s case on identification was not fanciful. A Twitter user had identified her. It was a question for trial. As for serious harm to reputation, the claim was based on inference. The only direct evidence on reputation was from one Twitter user who had said that the accusations were unsubstantiated, following which the tweet had been deleted. Section 1 was not satisfied. The claimant had to concentrate on the effect of the publication. While the status of the parties was a factor, the court had to look at the evidence. It was very doubtful that 45,000 users had seen the tweet. The claimant had provided no evidence that tagging somebody sent it to all their followers. Even if it did, 45,000 was the maximum number of views: the tweet had been liked twice and retweeted three times, and had only been available for 40 minutes. The actual number of people who read it would have had to have been using Twitter at that time. The claimant also had to show that they understood the tweet to refer to her. It was fanciful to suppose that the case on serious harm to reputation was going to improve if it went to trial. It was hopeless. The court granted summary judgment because the claimant had no real prospect of satisfying s.1, and there was no other compelling reason why the claim should go to trial. The question of abuse of process did not arise, but if it had the court would not have struck the claim out as an abuse.
+ 
+

@@ -1,0 +1,60 @@
+﻿
+Mahmudov v Sanzberro
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+17 December 2021
+ 
+Where Reported
+[2021] EWHC 3433 (QB)
+[2022] 4 W.L.R. 29
+[2021] 12 WLUK 256
+[2022] C.L.Y. 654
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Conflict of laws; Civil procedure
+ 
+Keywords
+Defamation claims; Disputing the court’s jurisdiction; Domicile; EU law; Internet; Publication; Serious harm
+ 
+Judge
+Collins Rice J
+ 
+Counsel
+For the claimants: Justin Rushbrooke QC, Julian Santos.
+For the defendants: Greg Callus.
+ 
+Solicitor
+For the claimants: Discreet Law LLP.
+For the defendants: Reynolds Porter Chamberlain LLP.
+ 
+Case Digest
+Summary
+The Court of Justice of the European Union in eDate Advertising GmbH v X (C-509/09) EU:C:2011:685, [2012] Q.B. 654, [2011] 10 WLUK 688 had not created a new, free-standing route to recovery for international libel by describing an alternative jurisdiction conferred by a claimant’s country of interest alone. The effect of eDate was that a claimant suing where the allegedly harmful event occurred, in their country of interest, could get global relief rather than being limited to compensation for harm arising in that individual state. Unless at least some harm had occurred in a state, the courts of that state were not the best place to conduct a trial of the issues.
+ 
+Abstract
+The defendants applied under CPR r.11 to contest the High Court’s jurisdiction to determine the claimants’ defamation claim.
+ 
+The claimants were the children of the former head of national security in Azerbaijan. The second to sixth defendants were publishers domiciled in Spain, and owners of Spanish, Galician and Catalan language newspapers and websites. The claimants sought to bring defamation proceedings over an article they had published, by-lined by the first defendant. The article concerned allegations about the origins of the family’s wealth. The claimants sought global damages and injunctive relief.
+ 
+ 
+Held
+Application granted.
+ 
+Jurisdiction in defamation cases - Pursuant to Regulation 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters the default rule was that legal claims had to be brought against defendants in their own country. The Regulation also provided for instances of “special jurisdiction”, so that an action for defamation could also be brought in England against a defendant domiciled in Spain if the “harmful” event occurred in England. Accordingly, a claimant had two routes to global remedies: the general jurisdiction based on the defendant’s domicile or, if all of the “harmful events” did not happen in a single country, a cumulative mosaic of actions in different countries relying on the special jurisdiction, Shevill v Presse Alliance SA (C-68/93) EU:C:1995:61, [1995] 2 A.C. 18, [1995] 3 WLUK 87 followed. With the advent of the internet, that analysis of international press libel had become unsustainable, as the availability of libellous material became universal. In eDate Advertising GmbH v X (C-509/09) EU:C:2011:685, [2012] Q.B. 654, [2011] 10 WLUK 688, the CJEU established a new route, via the special jurisdiction, to obtain a global remedy based on the concept of a claimant’s country of interest (CoI), which usually corresponded to their habitual residence, eDate considered (see paras 4-5, 10, 13, 16-17 of judgment).
+ 
+Interpretation of eDate - The claimants maintained that England was where their CoI was, and that following eDate, there were now three free-standing routes to recovery for international libel, including an alternative special jurisdiction conferred by CoI alone. The defendants’ case was that the effect of eDate was that claimants suing where the harmful event occurred, in their CoI, could now get global relief rather than being limited to compensation for harm arising in that individual state. If the claimants were correct, the key question was whether their CoI was in the UK. If the defendants were correct, the question was whether a “harmful event” (that is, an actionable tort) had occurred in the UK. The court in eDate had not been invited to engage in a radical reconsideration of Shevill. It was looking at the practical problems of applying Shevill to internet questions. It was trying to relieve claimants of an unsatisfactory choice between a potentially remote state of defendant domicile, or the evidential difficulties of state-by-state mosaic compilation, and to relieve defendants from the oppressive and chilling effect of being potentially subjected to actions from all quarters. The solution was to give one court in which the defendant might already be sued the power to provide global remedies. The mechanism chosen for identifying that court was CoI. The claimant’s interpretation a species of jurisdiction giving primacy to the claimant’s domicile, which was dissonant with the Regulations and a proposition rejected in Shevil. EDate had been concerned with the centre of the gravity of harm, and secondarily with the centre of gravity of the claimant, not the other way round, eDate explained, Shevill considered. The defendant’s interpretation was the better starting point. The CJEU had since confirmed that eDate was distinct from the standalone form of special jurisdiction the Regulations provided. Unless at least some harm had occurred in any given states, the courts of that state were not the best place to conduct a trial of the issues, Bolagsupplysningen OU v Svensk Handel AB (C-194/16) EU:C:2017:766, [2018] Q.B. 963, [2017] 10 WLUK 361 applied (paras 18-20, 23-25, 28-30).
+ 
+Application - It was not disputed that the defendants had published the article complained of. The claimants had to show a good arguable case that the article was published in England, was defamatory at common law, and was defamatory under the Defamation Act 2013 s.1. A statement was defamatory at common law if it substantially affected in an adverse manner the attitude of other people towards a claimant, or had a tendency to do so Thornton v Telegraph Media Group Ltd [2010] EWHC 1414 (QB), [2011] 1 W.L.R. 1985, [2010] 6 WLUK 316 applied. Defamatory under s.1 meant that it had caused or was likely to cause serious harm to the claimants’ reputation. In relation to publication, the claimants had to show at least one actual publishee in England. On the evidence, the claimants had the better of the argument that the article had been viewed in England. The claimants had also made a good arguable case that the article was defamatory at common law. It had imputed knowledge onto the claimants of the suspicious origins of their father’s wealth and a willingness to profit from it regardless, a matter tending to make people think less well of them. As to serious harm, the allegations were relatively grave. The problems for the claimants were the extent of publication and causation. There was no evidence that the articles had come to the attention of any identifiable person in the UK who knew them. The claimants’ evidence did not clearly indicate any actual harm occasioned via readers in the UK and as a result of publication in the UK. They had not made out a good arguable case that serious reputational harm had been caused, or was likely to be caused, in the UK. They had therefore not established that all the components of a libel actionable in England, in particular serious harm, were present in their claim. Even if they could establish that their CoI was in the UK, the centre of gravity of the harmful event was Spain. That was where the first publication had occurred, and where most readers were located. Spain was also the defendants’ country of domicile. The High Court did not have jurisdiction to try the claim (paras 37-41, 44, 46, 55, 57, 63, 66, 68-69).
+ 
+

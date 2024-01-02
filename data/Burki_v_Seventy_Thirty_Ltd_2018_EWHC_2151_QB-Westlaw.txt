@@ -1,0 +1,61 @@
+﻿
+Burki v Seventy Thirty Ltd
+Seventy Thirty Ltd v Burki
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+15 August 2018
+ 
+Where Reported
+[2018] EWHC 2151 (QB)
+[2018] 8 WLUK 144
+Judgment
+ 
+Subject
+Torts
+ 
+Other related subjects
+Defamation
+ 
+Keywords
+Deceit; Honest opinion; Inducement; Libel; Malicious falsehood; Membership fees; Misrepresentation; Publication; Reputation; Truth
+ 
+Judge
+Judge Richard Parkes QC
+ 
+Counsel
+For Tereze Burki: Jonathan Edwards.
+For Seventy Thirty Ltd: Lisa Lacob.
+ 
+Solicitor
+For Tereze Burki: Charles Douglas.
+For Seventy Thirty Ltd: Keystone.
+ 
+Case Digest
+Summary
+A dating agency had falsely misrepresented that it had a substantial number of wealthy male members who matched the claimant’s criteria, and she had been induced to pay £12,800 to become a member. She was entitled to repayment of her membership fee, plus £500 damages for distress, but was required to pay £5,000 damages for a libelous review of the agency.
+ 
+Abstract
+The claimant sued the defendant dating agency for deceit and misrepresentation, and in conjoined proceedings the dating agency sued the claimant for libel and malicious falsehood.
+ 
+The agency claimed to be an exclusive matchmaking and elite introduction service, whose members were high net-worth individuals. The claimant had approached the agency about becoming a member and stated that she was looking for a man who led a wealthy lifestyle, was willing to travel internationally and was prepared to have children. She had several meetings with the agency’s managing director. Two years after her initial contact she became a member on payment of £12,600. She was disappointed with the matches offered to her and cancelled her membership after five months. She posted two reviews online. In the first review, which was online with other favourable reviews, she described the agency as fraudulent and a scam. In the other, she said that the agency coerced customers to accept unsuitable matches and appeared solely focused on obtaining fees. She began proceedings to recover her fee and damages for distress on the basis that the managing director had falsely represented that the agency database included a substantial number of men who had paid for membership, were actively participating in its matchmaking services and were a sufficient match for her criteria. The agency denied misrepresentation and claimed to have around 1,500 paying members in any given calendar year. It began proceedings for libel and malicious falsehood in relation to the reviews, which it claimed had resulted in lost fees from two potential clients. The claimant admitted that the reviews were defamatory, but relied on defences of truth and honest opinion.
+ 
+ 
+Held
+Claim allowed, counterclaim allowed in part.
+ 
+Nature of and reliance on the membership representations - Any reasonable person would have understood that the managing director had told the claimant about the substantial numbers of wealthy, actively engaged paying members. The claimant had relied on that representation. It was entirely credible that it was important to her to be reassured that a substantial pool of paying members, who were plausible matches and actively involved in and committed to the dating process, was available (see paras 136, 142 of judgment).
+ 
+Truth or falsity of the membership representations -On the evidence, there were at the most 200 active members, probably fewer, with around 100 being active male members. A membership of 100 active men could not be described as a substantial number, even without considering how far that number would have to be reduced to allow for compliance with the claimant’s criteria. The representations made by the managing director had been false and misleading and he had known that he was giving a wholly false impression. If the claimant had known the true size of the membership she would not have joined. She had been induced to join by the false misrepresentations. They had been made within the scope of the managing director’s authority as the agency’s agent and the agency was answerable for his misrepresentations (paras 166-173).
+ 
+Damages for deceit - Damages for deceit should put the claimant into the position she would have been if the representation had not been made, so damages were awarded in the amount of her membership fee. It would not be right to award aggravated damages simply because of the nature of the services offered, their significance for the client and the amount charged. There was nothing about the performance by the agency of its contractual services which aggravated the injury done to the claimant. It was understandable that she felt let down and disappointed, but she had taken two years to decide to join and was only a member for five months. Damages of £500 were awarded for distress (paras 175, 178, 181).
+ 
+The online reviews - For the libel claims to succeed, the court had to be satisfied that publication had caused or was likely to cause serious harm to reputation, and that that harm had caused or was likely to cause serious financial loss. The word “likely” had the meaning of being liable, or having a tendency, to cause. The focus when assessing serious harm was on the words published, not on the impact of other material published by third parties with which it was placed online. The reviews conveyed a serious defamatory meaning and had been available to read for over four months. They were both likely to cause serious harm to the agency’s reputation, and the harm suffered was liable to cause it serious financial loss, Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155 followed (paras 206, 215-220). In relation to the first review, the claimant’s defences of truth and honest opinion failed; she had not proved that the agency was engaged in a fraudulent scheme. The agency had failed to establish that the review had caused two potential clients not to join and so was not entitled to recover the lost fees. In relation to general damages, the fact that the managing director had deceitfully misrepresented to the claimant the size of the active membership, and induced her to pay a substantial fee on the strength of his deceit, while not providing the truth of the libel, reduced very substantially the damages that would otherwise have been appropriate. A small, but not nominal award was called for of £5,000 (paras 242-244, 250, 261-262). The claimant had established a defence of truth and honesty in relation to the second review (para.265). The claim in malicious falsehood failed as the reviews had not been published maliciously (paras 268-269).
+ 
+

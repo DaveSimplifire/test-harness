@@ -1,0 +1,53 @@
+﻿
+Coker v Nwakanma
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+23 April 2021
+ 
+Where Reported
+[2021] EWHC 1011 (QB)
+[2021] 4 WLUK 230
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defamatory meaning; Defamatory statements; Libel; Publications; Serious harm; Social media; Third parties; Truth
+ 
+Judge
+Saini J
+ 
+Counsel
+For the claimant: In person.
+For the defendant: In person.
+ 
+Case Digest
+Summary
+A libel claim in which the defendant had called the claimant a rapist in a social media message to a third party, having accused him of sexually assaulting the defendant’s friend, was dismissed. The court accepted the friend’s evidence of the alleged rape such that the defendant had substantially proved the meaning of the words complained of in the message and succeeded in his truth defence.
+ 
+Abstract
+The claimant brought a claim that the defendant had libelled him in social media messages by calling him a rapist.
+ 
+The victim of the alleged rape was a friend of the defendant. She lived in Nigeria and had stayed at the defendant’s flat for a few days while visiting England. She and the defendant had a night out with friends including the claimant. At the end of the evening, the claimant had no money to get home and the defendant let him stay over at the flat. The victim alleged that during the night, the claimant got into bed with her and forcefully inserted his fingers into her vagina and touched her breasts against her will. The claimant then went to the kitchen, the victim told the defendant what had happened, and the defendant ordered the claimant to leave. The following day, the victim informed three other people of the alleged assault. She returned to Nigeria a day later and made reports to the police. During those two days, the defendant and claimant had heated exchanges on WhatsApp. The claimant’s case was that the defendant had called him a rapist in the messages and had sent three of the messages on to third parties, namely the defendant’s sister and a large WhatsApp group to which the claimant and defendant belonged. He denied the rape allegations and stated that it was a story concocted by the defendant and the victim that they intended to use to blackmail him.
+ 
+The defendant submitted that he had threatened to send the messages to the parties’ WhatsApp group because he was angry with the claimant and wanted to scare him, but ultimately he only published one message to one third party, namely his sister. He further submitted that the content of the message was true.
+ 
+ 
+Held
+Claim dismissed.
+ 
+Publication to third parties - Only the first message, in which the defendant had sent to his sister a snapshot of his heated exchange with the claimant, could be said to have been published to a third party. The second message was from the defendant to the claimant and simply stated that the defendant had orally told third parties that the claimant was a rapist. It provided no basis for a claim in libel. The third message on its face looked like a publication sent (or to be sent) by the defendant to the parties’ large social media group, describing the allegations the victim had made against the claimant. However, the court accepted the defendant’s statement that he had not sent the message to the group but simply sent it to the claimant to scare him and because he was angry with him. Independent evidence from members of the group stated that they had received no such message, and the claimant had produced no documentary or electronic verifying evidence to establish that the message had been published to third parties (see paras 20-28 of judgment).
+ 
+Meaning and serious harm - The relevant words complained of in the first message were “Told everyone who came yesterday about you rapist”. The ordinary and reasonable reader would find those words to mean that the claimant had committed a serious sexual assault involving non-consensual penetration of the sexual organs of a victim. That was defamatory at common law and a Chase Level 1 accusation that he was guilty of criminal conduct, Chase v News Group Newspapers Ltd [2002] EWCA Civ 1772, [2003] E.M.L.R. 11, [2002] 12 WLUK 44 followed. Based on the meaning of the words alone, the test for serious harm to reputation under the Defamation Act 2013 s.1(1) was satisfied. Although the scope of the publication was limited to the defendant’s sister, it was a case where the nature of the language allowed one to infer serious harm (paras 29-33).
+ 
+Truth defence - The court was satisfied that the defendant and the victim were credible witnesses and the claimant was not. It had no hesitation in accepting the victim’s evidence as accurate and wholly truthful. She was convincing and consistent and had no reason to make up the distressing events she recounted. It followed that the court found that the claimant had committed a serious sexual assault against the victim involving forceful digital penetration of her vagina and non-consensual touching of her breasts. The claimant’s allegations that the defendant and the victim had conspired to make up the accusation of rape so as to blackmail him were an invention to cover up the assault and turn the blame on the victim and those who supported her. Accordingly, the defendant had substantially proved the meaning of the words complained of and succeeded in his truth defence. A reasonable person would not consider that there was a difference in substance between non-consensual digital penetration and non-consensual penile penetration such that the former could not be described as rape. If the court was wrong in that conclusion and the defendant had proved the truth only of the former, it would have decided that the claimant was entitled to only nominal damages, Pamplin v Express Newspapers Ltd [1988] 1 W.L.R. 116, [1985] 2 WLUK 280 followed (paras 36, 46-50, 55-57, 59-61).
+ 
+

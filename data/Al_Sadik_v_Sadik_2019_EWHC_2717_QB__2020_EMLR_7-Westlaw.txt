@@ -1,0 +1,60 @@
+﻿
+Al Sadik (aka Al Sadek) v Sadik
+
+
+Mixed Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+16 October 2019
+ 
+Where Reported
+[2019] EWHC 2717 (QB)
+[2019] 10 WLUK 256
+[2020] E.M.L.R. 7
+[2020] C.L.Y. 561
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Abuse of process; Disputing the court’s jurisdiction; Domicile; Instant messaging; Libel; Publication; Reputation; Serious harm; Striking out; Summary judgments
+ 
+Judge
+Julian Knowles J
+ 
+Counsel
+For the claimant: Richard Munden.
+For the defendant: Ian Helme.
+ 
+Solicitor
+For the claimant: Gowling WLG (UK) LLP.
+For the defendant: Brett Wilson LLP.
+ 
+Case Digest
+Summary
+A claim that the claimant’s sister-in-law had sent defamatory messages to a family WhatsApp group would not be struck out. It was at least arguable that the court had jurisdiction because the sister-in-law had been domiciled in the UK when the proceedings were issued, there was a realistic prospect of establishing serious harm and the proceedings were not an abuse of process.
+ 
+Abstract
+The defendant applied for an order striking out, or for summary judgment on, the claimant’s libel claim.
+ 
+The claimant was a businessman and philanthropist who lived in Dubai. His brother was married to the defendant, who was also sister to the claimant’s wife. A dispute had arisen between them about the ownership of a house in London in which the defendant and her family had lived for many years. The claimant began proceedings seeking possession. At the conclusion of the trial the defendant and her family signed a consent order to give vacant possession to the claimant one month later. On the same day, the defendant sent three messages about the claimant to a WhatsApp group, which comprised 34 members of the claimant’s wider family, none of whom were resident in the UK. The claimant began libel proceedings on the basis that the defamatory imputations arising from the messages were that he had arranged to rob his brother’s house, he had lied on the Quran, and had committed perjury in order to dishonestly promote his interests at the expense of his own brother. The defendant applied to strike out, or for summary judgment on, the claim on the grounds that the court did not have jurisdiction under the Defamation Act 2013 s.9 because she had been domiciled outside the UK when proceedings had been issued, there was no real prospect of establishing a likelihood of serious harm, and the claim was an abuse of process.
+ 
+ 
+Held
+Application refused.
+ 
+Jurisdiction - A failure by a defamation defendant to follow the procedure in CPR Pt 11 for contesting jurisdiction under s.9 did not mean that her right to make a jurisdictional challenge under s.9 had been waived. Jurisdiction under s.9 could not be conferred by waiver, submission or consent. It was concerned with the subject matter of the suit and not with personal jurisdiction over the defendant (see para.55 of judgment). It was at least arguable that at the date the claim was issued the defendant was still domiciled in the UK because she was resident here and the nature and circumstances of her residence indicated that she had a substantial connection with the UK. The defendant’s evidence in the property proceedings had been that for 25 years her home had been in London, even though from 2000 she had also been resident in Kuwait, and after signing the consent order she had moved out to live with her daughter in London. It was at least arguable that she had remained resident in the UK until she had left for Kuwait, which was after the proceedings had been issued (paras 72, 76).
+ 
+Realistic prospect of success - The defendant had not shown that the claimant had no realistic prospect of showing that publication of the messages had caused him significant harm, or was likely to do so. That conclusion was based on: the very serious nature of the allegations, which struck at the claimant’s honesty and integrity; the fact that the claimant and all the publishees were Muslim was capable of exacerbating the harm suffered by the allegation that he had lied on the Quran; the claimant’s standing and reputation in the Middle East and elsewhere; the fact that the person who sent them was his wife’s sister, which could cause some to think that there had to be some substance to the accusations; the targeted nature of the persons to whom the messages were sent; the scale of the publication both directly to the WhatsApp group and by further dissemination to those who did not know the claimant (para.100).
+ 
+Abuse of process - The claimant had a realistic prospect of showing that he had suffered a real and substantial tort in the UK. The fact that the budgeted costs were far in excess of the likely damages was not an unusual feature of defamation litigation, and the court had power to control the parties’ costs budgets. The claimant would at minimum receive a measure of vindication through a public judgment in his favour. It was not a proper case for striking out (paras 105-107).
+ 
+

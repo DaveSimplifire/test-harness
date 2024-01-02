@@ -1,0 +1,63 @@
+﻿
+Brown v Bower
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+19 June 2017
+ 
+Where Reported
+[2017] EWHC 1388 (QB)
+[2017] 1 W.L.R. 4703
+[2017] 6 WLUK 344
+[2017] E.M.L.R. 24
+[2017] C.L.Y. 646
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Abuse of process; Case management; Damage; Defamation claims; Meaning; Preliminary issues
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Adrienne Page QC, Jacob Dean.
+For the defendants: Catrin Evans QC.
+ 
+Solicitor
+For the claimant: Carter-Ruck.
+For the defendants: Wiggin LLP.
+ 
+Case Digest
+Summary
+In a defamation action, the court declined to order a preliminary trial on the issues of serious harm and abuse of process. There was no general rule that a challenge to serious harm should be dealt with as a preliminary issue. It was uncertain whether the defendants would advance any substantive defence if their challenge to serious harm was unsuccessful, and if they did not there would be little difference between a full trial and a preliminary trial of the serious harm and abuse issues, resulting in confusion and wasteful duplication.
+ 
+Abstract
+In a defamation action the defendants sought an order that the issues of meaning, defamatory tendency, serious harm and abuse of process be dealt with by way of a preliminary issues trial.
+ 
+The defendants were the author and publisher of a 2016 book which contained a passage reporting that the claimant, a prominent Member of Parliament, had in 1998 been accused by a newspaper of using male prostitutes. The defendants’ case was that the words complained of were not defamatory, or that, if they were, the claimant had failed to establish “serious harm” as required by the Defamation Act 2013 s.1. They raised three novel points of principle: that a public figure should show a high level of tolerance of defamation; that other, similar books and articles published from 1998 onwards had not seriously injured the claimant’s reputation; and that even if the book were to become a resource for journalists in the future, the same would be true of other publications in respect of which the claimant had taken no action, and it would be an unjustifiable interference with their ECHR art.10 rights to make them liable for the alleged effects of future publication. Alternatively, they argued that there was no harm to reputation and that the claim was therefore an abuse of process of the kind identified in Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44. They had not served a defence before applying for a preliminary issues trial, but on the eve of the hearing they indicated that they would be advancing a defence of truth. The claimant agreed that meaning and defamatory tendency should be tried as preliminary issues. However, he was opposed to serious harm and Jameel abuse being dealt with on a preliminary basis.
+ 
+ 
+Held
+Application granted in part.
+ 
+Meaning/defamatory tendency - It was just and convenient to deal with meaning and defamatory tendency as preliminary issues. A preliminary trial of those matters would be short and could be dealt with relatively quickly and inexpensively: the issues were narrow; the words and meanings complained of were straightforward; and the arguments were conventional. There was a reasonable chance that a preliminary issues trial would bring an end to the proceedings, but even if it did not, it would narrow the issues (see paras 33-36, 45, 58 of judgment).
+ 
+Serious harm/Jameel abuse - It would be neither just nor convenient to deal with serious harm or Jameel abuse as preliminary issues. There was no general rule or principle that serious harm should always be tried as a preliminary issue; it was a matter for judicial determination in each case. The observation in Ames v Spamhaus Project Ltd [2015] EWHC 127 (QB), [2015] 1 W.L.R. 3409, [2015] 1 WLUK 562 that it was likely to be preferable to deal with serious harm by way of a preliminary issues trial was not laying down any general rule, Ames considered. Similarly, the observation in Lachaux v Independent Print Ltd [2015] EWHC 2242 (QB), [2016] Q.B. 402, [2015] 7 WLUK 966 that if meaning was to be tried as a preliminary issue then serious harm should be too, simply meant that meaning and serious harm ought generally to be tried together, Lachaux considered (paras 46-49).
+ 
+A relevant factor in cases in which a preliminary issues trial had been ordered was the nature and extent of the other issues between the parties. In cases such as Ames and Lachaux, the defendants were planning to advance substantive defences if they lost on serious harm. In the light of the authorities, CPR r. 1.3, and the defamation pre-action protocol, there was force in the argument that defendants were obliged to indicate, before any preliminary issues trial, whether they were going to advance a substantive defence and, if so, what kind. Giving such an indication would not prevent the defendant making an offer of amends under the Defamation Act 1996 s.2, but the discount would be a reduced one. The expectations of defendants set out in the pre-action protocol were not qualified by the offer of amends regime, and a defendant was not exempted from meeting either those expectations or the requirements of CPR r.1.3 just because he was seeking a preliminary trial on serious harm. The offer of amends regime aimed to bring about swift settlement and was not intended as a fallback for defendants who had unsuccessfully challenged serious harm as a preliminary issue (paras 50-56).
+ 
+In the instant case, a preliminary trial on serious harm and Jameel abuse would waste resources, complicate and delay matters, and undermine the overriding objective. Because the defendants were raising novel issues of principle, there would have to be a thorough factual enquiry. There would be substantial case management implications, and the trial would take over a day. Moreover, it would be undesirable to try such novel issues while the principles applicable to serious harm were pending consideration by the Court of Appeal in Lachaux. Finally, it was highly uncertain whether the defendants would advance any substantive defence, and if they did not there would be little difference between a full trial and a preliminary trial of the meaning, serious harm and Jameel issues. Such overlap would result in confusion and wasteful duplication (paras 57-58).
+ 
+

@@ -1,0 +1,59 @@
+﻿
+Palmer v Farmer
+
+
+No Substantial Judicial Treatment
+
+
+Court
+King’s Bench Division
+ 
+Judgment Date
+28 April 2023
+ 
+Where Reported
+[2023] EWHC 976 (KB)
+[2023] 4 WLUK 308
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Abuse of process; Email; Libel; Misuse of private information; Serious harm; Sexual offences
+ 
+Judge
+Saini J
+ 
+Counsel
+For the claimant: Jenan Jaafar.
+For the third and fourth defendants: Kate Wilson.
+ 
+Solicitor
+For the claimant: Direct Access.
+For the third and fourth defendants: South London Legal Partnership.
+ 
+Case Digest
+Summary
+Claims for libel and misuse of private information were struck out where the claimant had no real prospect of successfully satisfying the test of serious harm under the Defamation Act 2013 s.1 or the threshold of seriousness.
+ 
+Abstract
+The third and fourth defendants (D3 and D4) applied for summary judgment and/or to strike out claims by the claimant for libel and misuse of private information (MPI).
+ 
+D4 was a local authority and D3 was a management organisation which managed D4’s housing stock. The claimant lived in a property owned by D4 and managed by D3. He had made numerous complaints about a neighbour to D3 and the police. His complaints were to be discussed at a community multi-agency risk assessment conference. The first defendant police officer sent an email to D3 which contained a false statement that the claimant had been convicted of a sexual offence. That email was relayed internally as part of an email chain. D4 then cautioned against the email being forwarded. An agreement was finally reached between the claimant and D3 and D4 concerning his housing issues. The first defendant’s allegation was untrue and the claimant had settled his claims against the first defendant and the second defendant. The claimant sought to make some amendments to his particulars of claim.
+ 
+D3 and D4 submitted that the draft amended case did not plead a case fit to go to trial and the claimant had not submitted evidence to establish that he had suffered adverse impact as a result of the emails or to rebut their evidence that he had in fact received positive treatment as regards his housing. Alternatively they invited the court to strike out the claims as Jameel abuse.
+ 
+ 
+Held
+Defendants’ applications granted.
+ 
+Defamation - There was an absence of anything specific in terms of the impact of the emails in the claimant’s second attempt to plead his case on serious harm. The claims failed to recognise the limited nature of the circulation of the emails. It was essentially internal and nothing happened as a result. The agreement between the claimant, D3 and D4 regarding his housing issues was not consistent with anyone taking a negative view of the claimant by reason of the email or its contents. The suggestion of any negative impact was fanciful. The claimant’s new pleaded case under the Defamation Act 2013 s.1 was repetitive and lacked substance. Defamatory tendency itself was not sufficient to satisfy s.1. The email was part of a chain, not authored by D3 and was cautioned against by D4. Those matters undermined the prospect of the claimant establishing serious reputational harm in respect of either email. The uncontradicted evidence was that there was no impact on the claimant. Summary judgment was granted for D3 and D4 on the defamation claim on the ground that the claimant had no real prospect of successfully satisfying s.1 (see paras 22, 40-42, 45, 49 of judgment).
+ 
+Jameel abuse - It was not a case where a real or substantial wrong had been committed and litigating the claim would not yield a benefit proportionate to the likely use of court procedures. Jameel abuse was made out, Higinbotham (formerly BWK) v Teekhungam [2018] EWHC 1880 (QB), [2018] 7 WLUK 507 applied. The allegation was serious but the communication was essentially internal, the extent of the distribution was limited, there was no impact on the claimant, the emails had been deleted and the recipients had been informed that the allegation was untrue (paras 51-53).
+ 
+Misuse of private information - There were a number of difficulties with the claim for MPI. An MPI claim had to satisfy a threshold of seriousness, R. (on the application of Wood) v Commissioner of Police of the Metropolis [2009] EWCA Civ 414, [2010] 1 W.L.R. 123, [2009] 5 WLUK 521 and Bloomberg LP v ZXC [2022] UKSC 5, [2022] A.C. 1158, [2022] 2 WLUK 191 followed. Minimal internal conduct did not satisfy the threshold such as to engage rights under the ECHR art.8, which was the foundation for the tort. The MPI claim had no realistic prospect of success and it was dismissed on that basis. The MPI claim was also struck out on a Jameel basis. If the libel claim was abusive, the MPI claim could not fare better (paras 58-59, 61-63).
+ 
+Amendment of P’s claim - The claimant’s application to amend his claims was refused (para.63).
+ 
+

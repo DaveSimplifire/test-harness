@@ -1,0 +1,68 @@
+﻿
+Undre v Harrow LBC
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+26 April 2016
+ 
+Where Reported
+[2016] EWHC 931 (QB)
+[2016] 4 WLUK 544
+[2017] E.M.L.R. 3
+[2017] C.L.Y. 649
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Local government
+ 
+Keywords
+Animal cruelty; Companies; Defamatory meaning; Press releases; Reputation; Restaurants
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimants: Matthew Mason.
+For the defendant: Adam Wolanski.
+ 
+Solicitor
+For the claimants: Bar Public Access Scheme.
+For the defendant: BLM LLP.
+ 
+Case Digest
+Summary
+A company which ran a vegetarian restaurant had not been defamed by a publication about the owner of the company’s conviction for neglect of animals. The focus of the publication was entirely on the owner and his personal conduct. It did not suggest to the reasonable reader that the restaurant business was jointly responsible for the care and welfare of the animals.
+ 
+Abstract
+The court was required to determine as a preliminary issue in a libel action whether words complained of bore a defamatory meaning to the second claimant company.
+ 
+The first claimant had owned a company which had operated a vegetarian restaurant. That company entered voluntary liquidation in 2013 and ceased to operate the restaurant which was then taken over by the second claimant, another company owned by the first claimant. He also owned farmland where he kept cows between 2012 and 2013. The defendant local authority prosecuted the first claimant for neglect of the cows. He was convicted of five charges relating to the feeding, watering and tagging of the animals and the proper disposal of carcasses. The first claimant complained that the defendant had placed a news release on its website in 2014 which falsely stated that his neglect had led to the death of three cows. It identified him as having owned the restaurant. Newspapers had published stories based on that information. The defendant made an offer of amends to the first claimant which was accepted with remedies to be determined. However, the particulars of claim also alleged that the words complained of were defamatory of the second claimant company and had caused it serious financial loss.
+ 
+The claimants submitted that the
+ 
+(1) references to the first claimant’s ownership of the restaurant were references to the second claimant company;
+ 
+(2) words bore the meaning that the first claimant so neglected his cattle that three died and bore the same or similar meaning about the second claimant;
+ 
+(3) second claimant suffered serious financial loss consequent on serious harm to its reputation caused by a defamatory imputation about it.
+ 
+ 
+Held
+Judgment for defendant.
+ 
+(1) Words could defame both a company director and the company itself, but not every derogatory statement about someone who ran a company defamed that company. The words had to refer to the company and convey a defamatory meaning about it, Shendish Manor Ltd v Coleman [2001] EWCA Civ 913, [2001] 6 WLUK 318 followed. The question was whether reasonable people would understand the words to refer to the company, Lachaux v Independent Print Ltd [2015] EWHC 2242 (QB), [2016] Q.B. 402, [2015] 7 WLUK 966 considered. The restaurant had been mentioned in the news release, but the objective test of reference was not satisfied save to a limited and unimportant extent. Reasonable people acquainted with the company would have known that it was operating the restaurant at the time of publication, but it did not follow that they would have understood the words to refer to the company. The release had provided information about events of the previous year. The point conveyed to the reasonable reader was that the first claimant had neglected his cows and had owned the restaurant. A reader acquainted with the company would not have taken the references to the first claimant’s ownership of the restaurant as references to the second claimant company which had not been operating the restaurant in 2013 (see paras 21-23, 28, 30 of judgment).
+ 
+(2) The focus of the release was entirely on the first claimant and his personal conduct. It did not suggest to the reasonable reader that the restaurant business had been jointly responsible with the first claimant for the care and welfare of the cattle and for the neglect that was said to have caused the deaths (paras 35-36).
+ 
+(3) It followed that the second claimant could not show that the publication caused serious harm to its reputation because it had not shown that the publication had conveyed any imputation defamatory to the company. Even if there was such a defamatory imputation, the court was not satisfied that it had caused serious financial loss. The company did not prove that its financial position worsened in 2014 and did not put forward any profit and loss calculation. Nor was there any expert evidence. It was the task of a libel claimant which traded for profit to persuade the court of the probability of serious financial loss, but the court did not have the necessary evidential basis to find that. Nor had the company made out causation. It had been loss-making from the outset and the prosecution and conviction of the first claimant had been embarked on before the original company had gone into liquidation. After publication there was evidence that the news of the first claimant’s conviction had caused revulsion among customers at his conduct, but there was scarcely any evidence that anyone thought badly of the restaurant on any basis other than its association with an individual convicted of animal neglect (paras 41, 50-51, 53-54, 56-57, 63).
+ 
+

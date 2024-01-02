@@ -1,0 +1,73 @@
+﻿
+Banks v Cadwalladr
+
+
+Negative Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+13 June 2022
+ 
+Where Reported
+[2022] EWHC 1417 (QB)
+[2022] 1 W.L.R. 5236
+[2022] 6 WLUK 93
+[2022] E.M.L.R. 21
+[2022] C.L.Y. 663
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Change of circumstances; Defamatory statements; Journalism; Libel; Political donations; Public interest; Publication on a matter of public interest; Reasonable belief; Serious harm; Social media; Speeches
+ 
+Judge
+Steyn J
+ 
+Counsel
+For the claimant: William McCormick QC, Sara Mansoori QC.
+For the defendant: Gavin Millar QC, Aidan Wills.
+ 
+Solicitor
+For the claimant: Kingsley Napley LLP.
+For the defendant: RPC LLP.
+ 
+Case Digest
+Summary
+The High Court dismissed a defamation claim brought by a prominent pro-Brexit businessman against an investigative journalist in relation to statements she made in a TED talk and subsequent Tweet.
+ 
+Abstract
+The claimant businessman, who was the largest financial donor in the pro-Brexit campaign, brought libel proceedings against the defendant investigative journalist.
+ 
+The claim concerned a TED talk given by the journalist on 15 April 2019 (later published on the TED.com website) and an associated Tweet made in June 2019. The TED talk was entitled “Facebook’s role in Brexit - and the threat to democracy”. Within it, the journalist referred to “...the lies that [the claimant] had told about his covert relationship with the Russian Government”. In the Tweet, she claimed that the claimant had “...lied about his contact with [Russian government]”. At a preliminary hearing, Saini J had determined that the meaning of the publications was: “On more than one occasion [the claimant] told untruths about a secret relationship he had with the Russian government in relation to acceptance of foreign funding of electoral campaigns in breach of the law on such funding”.
+ 
+The court had to determine whether each of the journalist’s statements had caused or was likely to cause serious harm to the claimant’s reputation, within the meaning of the Defamation Act 2013 s.1 and, if so, whether the journalist had established a public interest defence to the claim pursuant to s.4.
+ 
+ 
+Held
+Claim dismissed.
+ 
+Serious harm
+ 
+    • Publication of TED talk - The claimant had established that publication of the TED talk had caused and/or was likely to cause serious harm to his reputation and was defamatory for the purposes of s.1. It could be inferred that a sizeable number of people who knew or would later come to know the claimant, would have viewed the TED talk and believed what was said about him, lowering his reputation in their eyes. That was a proper inference to draw given the extent of publication, the gravity of the single meaning, the serious nature of the TED talk, the fact that it was given by an award-winning investigative journalist, and the authoritative and credible nature of the international platform on which it was given (namely, at the main TED conference) (see paras 80-90 of judgment)
+    • Publication of Tweet - The claimant had failed to prove that publication of the Tweet caused or was likely to cause serious harm to his reputation. The number of people within the jurisdiction to whom the Tweet was published was likely to be only a fraction of the number who viewed the TED talk and there was no probability of future harm flowing from the Tweet. Furthermore, those within the jurisdiction to whom the Tweet was published were likely to consist of people whose opinion of the claimant was of no consequence to him (paras 91-94).
+ 
+ 
+Public interest defence
+ 
+    • Matters of public interest - The TED talk was political expression of high importance, and great public interest (in the strictest sense), not only in the UK but worldwide (paras 136-140).
+    • Belief that publication was in the public interest - The journalist believed that publishing the words complained of was in the public interest, and that had continued to be her belief at all times since she gave the talk (paras 141-142).
+    • Reasonable belief - The journalist genuinely did not appreciate that the words she spoke could carry the single meaning found by Saini J. Accordingly, the public interest defence fell to be assessed having regard to the less damaging meaning she intended to convey, namely that (i) the claimant lied on more than one occasion about a secret relationship he had with the Russian government; and (ii) there were questions to be asked (i.e. grounds to investigate) whether the source of his donations was foreign funding, accepted in breach of the law on the funding of electoral campaigns. Although less damaging, it was still a serious allegation. In particular, she alleged outright that the claimant had told lies about a covert relationship with the Russian government, as well as raising the question whether the source of his political donations was unlawful foreign funding. However, on balance, the journalist had established that her belief that publishing the TED talk was in the public interest was reasonable. A key factor was that she had reasonable grounds to believe that her intended meaning was true when she gave the talk. Accordingly, the journalist had established a public interest defence in relation to the publication of the TED talk pursuant to s.4. For the same reasons, if the court had found that the serious harm threshold was met in relation to the Tweet, it would also have found that the journalist’s belief that publishing the Tweet was in the public interest was reasonable (paras 376-399).
+ 
+ 
+Significant change of circumstances - Although the journalist had established a public interest defence in respect of publication of the TED talk on 15 April 2019, there had been a significant change of circumstances on 29 April 2020 when the Electoral Commission issued a statement in which it accepted a finding by the National Crime Agency that there was no evidence that any criminal offences had been committed by the claimant. Once that statement was made, it was no longer reasonable to believe that it was in the public interest to assert that there were grounds to investigate whether the source of the claimant’s donations was foreign funding. Accordingly, the public interest defence fell away on 29 April 2020 (paras 407-408).
+ 
+Serious harm since 29 April 2020 - The claimant had failed to prove that the publication of the TED talk since 29 April 2020 had caused or was likely to cause serious harm to his reputation. Views of the talk would have peaked at or shortly after the time of first publication and the extent of publication would continue to diminish. Most of those within the UK who had viewed it since 29 April 2020 were likely to consist of people whose opinion of the claimant was of no consequence to him (paras 95-99).
+ 
+(Obiter) Strategic lawsuit against public participation (SLAPP) - Even though his claim had failed, the claimant’s attempt to seek vindication through the instant proceedings was legitimate. In circumstances where the journalist had no defence of truth, and her defence of public interest had succeeded only in part, it was neither fair nor apt to describe the claim as a SLAPP suit (para.9).
+ 
+

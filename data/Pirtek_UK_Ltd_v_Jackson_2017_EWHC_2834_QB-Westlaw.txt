@@ -1,0 +1,63 @@
+﻿
+Pirtek (UK) Ltd v Jackson
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+9 November 2017
+ 
+Where Reported
+[2017] EWHC 2834 (QB)
+[2017] 11 WLUK 211
+Judgment
+ 
+Subject
+Civil procedure
+ 
+Other related subjects
+Defamation
+ 
+Keywords
+Absence; Acknowledgment of service; Default judgments; Libel; Malicious falsehood; Publishers; Summary disposal
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Caroline Addy.
+For the defendant: No appearance or representation.
+ 
+Solicitor
+For the claimant: Irwin Mitchell LLP.
+ 
+Case Digest
+Summary
+A company was granted judgment in default of acknowledgement of service, and summary disposal of its libel claim, after the defendant failed to take part in the proceedings despite being aware of the claim. The particulars of claim sufficiently alleged libel and malicious falsehood by the defendant. The maximum permissible award under the Defamation Act 1996 s.9(1)(c) was granted.
+ 
+Abstract
+The claimant company applied for judgment in default of acknowledgement of service, and for summary disposal of its libel claim under the Defamation Act 1996 s.8 and s.9.
+ 
+The company provided hydraulic hose replacement services through a network of franchisees. The defendant had owned and operated a franchise. He fell out with the claimant and failed to pay an agreed settlement sum. The company successfully sued him for harassing its senior executives. Following a statutory demand for debts due, the defendant was made bankrupt and lost his home. A campaign was carried out on a website and via social media disparaging the company and its products. The company alleged that the defendant was behind all the online statements. It brought a claim for libel and malicious falsehood, and obtained a court order allowing alternative service through an email address. The defendant did not submit an acknowledgement of service, but later website statements referred to the letter of claim and responded in the form of an open letter. He took no part in the proceedings.
+ 
+ 
+Held
+Applications granted.
+ 
+Proceeding in the defendant’s absence - Under CPR r.23.11, the question was whether the defendant had received proper notice of the hearing and issues, and whether the available evidence as to the reasons for his absence supported an adjournment, Sloutsker v Romanova [2015] EWHC 545 (QB), [2015] 2 Costs L.R. 321, [2015] 3 WLUK 126 applied. Pursuant to the Human Rights Act 1998 s.12(2)(a), the company had to show that it had taken all reasonable steps to notify him. It had effected service as ordered and the defendant clearly knew the nature of the claims, as he had offered open responses on the website. He was aware of the claim, its basis and its detail, and had been given notice of the applications and evidence relied on. Nothing suggested the need for an adjournment. It was just and convenient to proceed (see paras 19-24 of judgment).
+ 
+Jurisdiction - Under the Defamation Act 2013 s.10(1) the court did not have jurisdiction to determine a defamation action brought against someone who was not the author, editor or publisher of the statement. Without a defence or acknowledgement of service, the court had to approach jurisdiction on the basis of the particulars of claim, which led to the conclusion that the defendant was the author or editor of all the statements. Even if the court had to decide on the basis of the evidence, the conclusion was the same; there was uncontradicted evidence regarding the website contents, and the defendant’s letters disputing responsibility for the statements were merely correspondence, not a statement of case verified by a statement of truth. He was not entitled to have the court treat such assertions as worthy of any weight. He had deliberately avoided engaging in the proceedings, and the general rules in r.32.2 and r.32.6(1) applied. Moreover, his denials were contrary to earlier admissions of responsibility and were wholly implausible (paras 27-36).
+ 
+Libel - The particulars of claim clearly and sufficiently alleged publication on the website and social media accounts and set out the defendant’s responsibility. The company had identified three categories of defamatory meaning: that it knowingly or recklessly acted illegally and risked public safety, that it abused and extorted its franchisees, and that it was a shady company that practised tax avoidance. The first two were defamatory, as was the accusation of “shadiness”; tax avoidance allegations might or might not be defamatory. In the instant case they had defamatory overtones. The company also had to show that the harm to its reputation had caused or was likely to cause serious financial loss, under s.1(2) of the 2013 Act. The particulars of claim justified concluding that the publications had a tendency to cause serious financial loss, and there was an uncontradicted case of actual financial loss, which the court found was serious, as the company had spent money on a public relations consultant because of the statements (paras 40-53).
+ 
+Malicious falsehood - The particulars of claim made out a prima facie case of falsity in respect of each imputation complained of, for instance that the company had supplied unsuitable hoses for commercial aircraft, when it had never supplied such hoses. The particulars also disclosed a case of malice (paras 54-58).
+ 
+Default judgment - The company was entitled to default judgment for damages for libel and malicious falsehood, to be assessed. A final injunction was granted to restrain further publication of similar statements; that was justified under s.12(4) of the 1998 Act (para.62).
+ 
+Summary disposal - Summary relief was available after a court had entered default judgment, Robins v Kordowski [2011] EWHC 1912 (QB), [2011] 7 WLUK 647 and Brett Wilson LLP v Person(s) Unknown [2015] EWHC 2628 (QB), [2016] 4 W.L.R. 69, [2015] 9 WLUK 319 applied. The company had substantially complied with the procedural requirements in r.53.2(2) and CPR PD 53. It had secured judgment on liability for damages because the defendant had advanced no defence. Under s.9(1)(c) of the 1996 Act, the company did not have to identify and refute defences on the merits which the defendant could have advanced. The s.8 threshold was satisfied: the libel claim was sound and there was no reason why the issue of damages had to go to trial. The maximum permissible damages award under s.9(1)(c) was appropriate due to the gravity of the allegations (paras 69-70, 73-75).
+ 
+

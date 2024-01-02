@@ -1,0 +1,64 @@
+﻿
+Sube v News Group Newspapers Ltd
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+27 July 2018
+ 
+Where Reported
+[2018] EWHC 1961 (QB)
+[2018] 1 W.L.R. 5767
+[2018] 7 WLUK 660
+[2018] E.M.L.R. 27
+[2018] C.L.Y. 702
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Defamatory meaning; Defamatory statements; Imputation; Libel; Newspapers; Reputation; Serious harm
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimants: Mark Engelman, Robert Whittock.
+For the first defendant: David Price QC, Robin Hopkins.
+For the second defendant: Christina Michalos.
+ 
+Solicitor
+For the claimants: Debenhams Ottaway.
+For the first defendant: David Price QC.
+For the second defendant: In-house solicitor.
+ 
+Case Digest
+Summary
+In a libel action, the requirement for a defamatory statement to have caused, or been capable of causing, “serious harm” to a person’s reputation pursuant to the Defamation Act 2013 s.1 could not be satisfied by aggregating the injury to reputation caused by two or more less harmful imputations. Thus, it was not possible to take separate and distinct defamatory meanings in a publication as having a cumulative impact going beyond their individual effect.
+ 
+Abstract
+In a libel action arising from the defendants’ publication of newspaper articles concerning the claimants, the court had to consider whether the cumulative effect of statements in the articles, as opposed to the individual statements themselves, were capable of crossing the reputational harm threshold in the Defamation Act 2013 s.1.
+ 
+The articles in question were published in two different newspapers, published by the first and second defendants respectively. At an interim hearing, the court concluded that none of the meanings complained of was a defamatory factual imputation about the claimants. It held that the articles contained or implied derogatory comments about the claimants which satisfied the “consensus” requirement, namely that the statements complained of would impute some conduct or quality that would seriously harm the claimant’s reputation in the eyes of “right-thinking members of society generally ... or reasonable people generally”, but that none of those comments or opinions was, taken individually, sufficiently harmful to their reputations to satisfy the “serious harm” requirement in s.1.
+ 
+The claimants submitted that a single publication might convey separate and distinct defamatory meanings capable of having a cumulative impact going beyond their individual effect. Relying on Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155, the defendants submitted that s.1 did not permit a claimant to combine non-defamatory imputations to make a statement defamatory.
+ 
+ 
+Held
+Judgment for defendants.
+ 
+”Consensus” requirement - It would be contrary to established principle and to the statutory wording for the court to consider the cumulative impact on reputation of all the imputations in all the articles complained of. Although articles published at different times might be so interlinked that they could be considered in conjunction for some purposes, such as meaning or reference, a published article generally had to be considered individually for the purposes of assessing defamatory impact, Hayward v Thompson [1982] Q.B. 47, [1981] 6 WLUK 181 followed. A number of articles could not be treated as a single “statement” for the purpose of s.1; nor could it be right to consider the articles published by the first defendant collectively with those published by the second. In deciding whether the serious harm requirement was satisfied, the court could not take account of meanings that were not defamatory because they did not satisfy the consensus requirement; therefore, the claimants could not seek to aggregate meanings which had been upheld as defamatory with others which had been rejected as non-defamatory (see paras 21-24 of judgment).
+ 
+Distinction between claimants - The claims plainly needed separate and individual consideration; an individual imputation against one, which was not defamatory when considered in isolation, might nonetheless cross the s.1 threshold because of some similar or different imputation against the other (para.25).
+ 
+Cumulative harm - The statutory test was whether serious harm to the reputation of a claimant resulted, or was likely to result, from the “publication” of a “statement”. Section 2 of the Act distinguished between a statement and the “imputation” it conveyed. Lachaux was not binding authority against the claimants’ submissions, even though some of the wording used in that case was consistent with the view that the question whether the serious harm requirement was satisfied depended upon the seriousness of the “meaning” or “imputation” borne by the words in question, Lachaux considered. Such language was commonplace in discussion of general principles; moreover, a judgment was not to be treated as if it was a statute. In any event, the “cumulative harm” point was not before the court in Lachaux. The common law test of what was defamatory depended on the impact upon people’s attitudes towards the claimant of “the publication of which he complains”, with no reference to “meaning” or “imputation”, Thornton v Telegraph Media Group Ltd [2010] EWHC 1414 (QB), [2011] 1 W.L.R. 1985, [2010] 6 WLUK 316 applied. The courts had traditionally approached the question of whether a statement was defamatory by identifying the imputations conveyed by a published article or statement, and then testing each individually against the consensus requirement and the threshold of seriousness. The actionability of a publication containing several imputations, each of which satisfied the consensus requirement but fell short of the threshold of seriousness, did not appear to have been raised under the common law. Thus, a statement was only defamatory if it conveyed an imputation about a person which tended to lower them in the opinion of right-thinking people generally, and caused or was likely to cause serious harm to their reputation. The serious harm requirement could not be satisfied by aggregating the injury to reputation caused by two or more less harmful imputations (paras 26-34).
+ 
+Application to facts - Although the conclusions on the issue of principle meant that it did not arise, none of the articles published by the first defendant satisfied the serious harm requirement, even on an aggregation of the injury caused by each individual imputation. In relation to the second defendant’s publications, two articles would have satisfied the serious harm requirement if the “cumulative harm” point had been good in law (paras 36-39).
+ 
+

@@ -1,0 +1,59 @@
+﻿
+George v Cannell
+
+
+Negative Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+9 November 2021
+ 
+Where Reported
+[2021] EWHC 2988 (QB)
+[2021] 4 W.L.R. 145
+[2021] 11 WLUK 80
+[2022] C.L.Y. 658
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Assurances; Contracts of employment; Libel; Loss of reputation; Malice; Malicious falsehood; Non-solicitation covenants; Publication; Recruitment; Restrictive covenants; Serious harm; Slander
+ 
+Judge
+Saini J
+ 
+Counsel
+For the claimant: William Bennett QC, Gemma McNeil Walsh.
+For the defendants: John Stables.
+ 
+Solicitor
+For the claimant: Thomson Heath & Associates.
+For the defendants: Brabners LLP (Liverpool).
+ 
+Case Digest
+Summary
+For the Defamation Act 1952 s.3(1) to apply so as to exempt a claimant from having to prove special damage in a claim for malicious falsehood on the basis that the words complained of were calculated to cause pecuniary damage, the claimant had to prove the nature and the mechanism of the loss, and causation, on the facts. That required the court to look at what actually happened, and not simply to assess the probability of what might happen by reference to the words generally.
+ 
+Abstract
+The claimant brought claims for libel, slander and malicious falsehood in respect of four publications alleged to have been made by the first defendant (D1).
+ 
+D1 ran a recruitment agency (D2) which employed the claimant for eight months before she left to to join another recruitment agency (F). The claimant complained that after she left D2, D1 made four false and defamatory publications about her: an email to the director of F and three oral statements to clients of D2. The High Court determined the defamatory meaning of each publication on a contingent basis as follows: that the claimant, in breach of post-contractual restrictions and contrary to express assurances given by her, had approached D2’s clients and candidates to solicit business from them.
+ 
+The issues were (1) whether a truth defence run by the defendants pursuant to the Defamation Act 2013 s.2(1) succeeded; (2) the extent of the publications; (3) whether the claimant’s case on libel and slander succeeded; (4) whether the claimant’s case on malicious falsehood succeeded.
+ 
+ 
+Held
+Judgment for defendant.
+ 
+Publications - The court found as a fact that there were only two publications: the email to F’s director and an oral statement to one of D2’s clients warning him that post-contractual restrictions meant that the claimant should not be approaching him. In those circumstances, the only viable claims were for libel and malicious falsehood arising from the email, and for slander and malicious falsehood arising from the oral statement (see paras 111-114 of judgment).
+ 
+Libel and slander - The libel and slander claims failed. The claimant had not proved, as required by s.1(1), that either the email or the oral statement caused, or was likely to cause, serious harm to her reputation. Serious harm depended on the actual impact of the words as well as their inherent tendency to cause harm, and the publishees’ pre-existing views of the claimant were therefore relevant, Lachaux v Independent Print Ltd [2019] UKSC 27, [2020] A.C. 612, [2019] 6 WLUK 127 followed, Monroe v Hopkins [2017] EWHC 433 (QB), [2017] 4 W.L.R. 68, [2017] 3 WLUK 289 considered. The oral statement was brief and had been made to just one person, who had already been put off from dealing with the claimant for another reason; thus, it was not the slander that made him think less of her. The email had been sent to just one person who, within minutes of receipt, became aware that the claimant was not in fact subject to any post-contractual restraints. Thus, any negative view of her which might have been engendered by the email was immediately corrected (paras 114-115, 122-125, 132- 138).
+ 
+Malicious falsehood - There were two relevant falsehoods: that the claimant was subject to a post-contractual restriction on soliciting D2’s clients and candidates, and that she had breached that restriction. Both were false and published maliciously. D1 knew that the claimant was not subject to any such restriction, but she had instructed an employment law consultant and gone along with his suggestion that contractual confidentiality provisions could be presented as a non-solicitation covenant. It was not a case of her acting in good faith on legal advice; she knew that the provisions were being manipulated and put forward as a legal restraint which simply did not exist. The giving of advice to her did not shield her from a finding of malice and the publications were not spur of the moment acts in which spontaneity might excuse a failure to present facts accurately (paras 143-144, 160-166). However, the claimant’s claim for special damages failed: the publications had no financial impact on her and no recoverable loss flowed from them. Further, she was unable to rely on the Defamation Act 1952 s.3(1) so as to establish a cause of action in malicious falsehood without having to prove special damage. A claimant relying on s.3(1) had to establish that the words complained of were calculated to cause pecuniary damage, and doing so involved identifying the nature of the loss and the mechanism by which it was likely to be sustained. Establishing the likelihood of pecuniary damage had to be subject to some form of inquiry as to the circumstances of publication generally, Tesla Motors Ltd v BBC [2013] EWCA Civ 152, (2013) 163 N.L.J. 290, [2013] 3 WLUK 51 followed, BHX v GRX [2021] EWHC 770 (QB), [2021] 2 WLUK 582 and Niche Products Ltd v MacDermid Offshore Solutions LLC [2013] EWHC 3540 (IPEC), [2014] E.M.L.R. 9, [2013] 11 WLUK 358 applied. The claimant was unable to identify the nature of the loss and the mechanism by which it was likely to be sustained, and she had not established causation. The asserted pecuniary damage had be a direct and natural result of publication of the words, and the court had to look at what actually happened, and not just the probability of what might happen, Sallows v Griffiths [2001] F.S.R. 15, [1999] 11 WLUK 792 followed, Quinton v Peirce [2009] EWHC 912 (QB), [2009] F.S.R. 17, [2009] 4 WLUK 570 not followed. In conclusion, although the claimant was the subject of false allegations made maliciously by D1, the pleaded pecuniary damage was not caused by the publications and the claims therefore had to be dismissed (paras 180-185, 191-217).
+ 
+

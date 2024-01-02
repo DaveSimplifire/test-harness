@@ -1,0 +1,68 @@
+﻿
+Lachaux v Independent Print Ltd
+Lachaux v AOL (UK) Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Court of Appeal (Civil Division)
+ 
+Judgment Date
+12 September 2017
+ 
+Where Reported
+[2017] EWCA Civ 1334
+[2018] Q.B. 594
+[2018] 2 W.L.R. 387
+[2017] 9 WLUK 155
+[2018] E.M.L.R. 1
+[2018] C.L.Y. 698
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Damage; Defamatory meaning; Defamatory statements; Libel; Reputation
+ 
+Judge
+McFarlane LJ;
+Davis LJ;
+Sharp LJ
+ 
+Counsel
+For the first appellants: David Price QC.
+For the second appellant: Andrew Caldecott QC, Manuel Barca QC, Hannah Ready.
+For the respondent/claimant: Adrienne Page QC, Godwin Busuttil.
+ 
+Solicitor
+For the first appellants: David Price Solicitors & Advocates.
+For the second appellant: Lewis Silkin LLP.
+For the respondent/claimant: Taylor Hampton.
+ 
+Case Digest
+Summary
+The legal presumption of damage in libel cases had not been displaced by the Defamation Act 2013 s.1(1) but there was no presumption at law of “serious” damage in a libel case and that had to be proved under s.1(1). Serious reputational harm was capable of being proved by a process of inference from the seriousness of the defamatory meaning.
+ 
+Abstract
+The appellant publishers appealed against a finding in favour of the claimant that articles published by them involved publication of defamatory statements which had caused or were likely to cause him serious harm.
+ 
+The claimant was a French citizen who worked in aerospace and aviation. His marriage to a British citizen in Dubai had broken down and she had left with their son. Articles were published by the publishers in 2014 alleging that his wife was a victim of domestic abuse, that he had kidnapped their child and was using the Emirati legal system to deny her any rights. A judgment was later handed down in the Family Division which rejected the wife’s assertions of domestic violence and found that she herself had deliberately removed their son so that the claimant could not see him. At the trial of preliminary issues, the main issue was whether the publication had caused or was likely to cause serious harm to the claimant under the Defamation Act 2013 s.1(1). The judge considered that the words “is likely to cause” meant more probably than not and held that, under s.1(1), libel was no longer actionable without proof of damage. He went on to rule in favour of the claimant.
+ 
+The claimant contended that s.1(1) had not changed the well-established principles of common law that in cases of libel the tort was complete on publication and damage was presumed. The publishers submitted that the judge had failed to have regard to the fact that the wife’s allegations had been published in other media publications.
+ 
+ 
+Held
+Appeal dismissed.
+ 
+(1) The judge’s interpretation of s.1(1) involved a substantial change in the law of defamation by removing the legal presumption of damage. It would also mean that s.1(1) had swept away the common law principle that in defamation the cause of action was complete when the defamatory statement was published to a person by whom it was read or heard, Grappelli v Derek Block (Holdings) Ltd [1981] 1 W.L.R. 822, [1981] 1 WLUK 608 followed. The words “is likely to cause” did not necessarily require it to be proved that it was more probable than not that serious harm would be caused. The statutory imposition of a threshold of seriousness did not usually require a substantive threshold hearing in advance of trial on the issue of serious harm. The legal presumption of damage in libel cases had not been displaced by s.1(1) but there was no presumption at law of “serious” damage in a libel case and that, under s.1(1), had to be proved. Serious reputational harm was capable of being proved by a process of inference from the seriousness of the defamatory meaning, Theedom v Nourish Training (t/a CSP Recruitment) [2015] EWHC 3769 (QB), [2016] E.M.L.R. 10, [2015] 12 WLUK 367 approved (see paras 57-58, 63, 68, 72-74, 78 of judgment).
+ 
+(2) The position was that (a) s.1(1) had given statutory status to Thornton v Telegraph Media Group Ltd [2010] EWHC 1414 (QB), [2011] 1 W.L.R. 1985, [2010] 6 WLUK 316, raising the threshold from one of substantiality to one of seriousness, Thornton considered; (b) the common law presumption as to damage in libel cases, the common law principle that the cause of action accrued on the date of publication, the established position as to limitation and the common law objective single meaning rule were all unaffected by s.1(1); (c) any issue as to meaning could be resolved at a meaning hearing. If there was a further issue as to serious harm, it could be dealt with at the meaning hearing. If the meaning was evaluated as seriously defamatory it would ordinarily then be proper to draw an inference of serious reputational harm. Once that threshold was reached, further evidence was likely to be more relevant to quantum and any continuing dispute should be left to trial; (d) courts should be slow to direct a preliminary issue involving substantial evidence on a dispute as to whether serious reputational harm had been caused or was likely to be caused by the published statement; (e) a defendant disputing the existence of serious harm could in an appropriate case issue a summary judgment application or a Jameel application: the Jameel jurisdiction continuing to be available after the 2013 Act, Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44 considered; (f) all interlocutory process in such cases should be managed proportionately, cost-effectively and promoting the overriding objective; (g) the position in regard to bodies trading for profit might be different (para.82).
+ 
+(3) Though the court had reservations about aspects of the judge’s approach to s.1(1), he had reached a fully justified conclusion as to the overall outcome. The gravity of the imputations derived from the published statements was obvious and a clear inference was to be drawn that serious harm to the claimant’s reputation had been caused by the accusations of criminal acts. The judge had been correct to rule in favour of the claimant on the preliminary issue by reference to s.1(1) (paras 84-86, 102-103).
+ 
+(4) The publication by other persons on other occasions of substantially the same libel was of no relevance on the matter of general damages, Associated Newspapers Ltd v Dingle [1964] A.C. 371, [1962] 5 WLUK 82 followed. Each libel, as published, was actionable as causing distinct damage to reputation (paras 89-91).
+ 
+

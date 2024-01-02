@@ -1,0 +1,261 @@
+﻿
+Akintunde Coker v Samson Nwakanma
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+23 April 2021
+ 
+Case No: QB-2019-000240
+High Court of Justice Queen’s Bench Division Media and Communications List
+[2021] EWHC 1011 (QB), 2021 WL 01600161
+Before: The Honourable Mr Justice Saini
+Date: 23/04/2021
+Hearing dates: 15-16 April 2021
+ 
+ 
+Representation
+      The Claimant in person.
+      The Defendant in person.
+Approved Judgment
+Honourable Mr Justice Saini
+ 
+I. Overview
+1.  This is the trial of a claim in libel between the Claimant, Mr Akintunde Coker, and the Defendant, Mr Samson Nwakanma. They act in person in this claim. The trial was conducted remotely, including remote taking of oral evidence of all witnesses.
+ 
+2.  The claim is based on number of WhatsApp messages alleged to have been sent by the Defendant to third parties concerning the Claimant in the period 23-26 December 2018: see the Appendix. The Claimant and the Defendant are both former friends, having studied together at the same school (King’s College in Nigeria) and university. The proceedings arise out of comments said to have been made by the Defendant about the Claimant’s conduct in relation to a woman. Specifically, an allegation that the Claimant committed a serious sexual assault (rape) against a named person at the Defendant’s flat in the early hours of 23 December 2018. I will call this “the Alleged Assault”.
+ 
+3.  At the start of the trial, and of my own motion, I made an order pursuant to CPR 39.2(4) , directing that that the victim of the Alleged Assault would be referred to as “X” in these proceedings, and that she should have anonymity. By that order, her identity shall not be disclosed. I decided that as a third party involved in these proceedings, and as a victim of an alleged serious sexual assault, it would be contrary to her Article 8 ECHR rights, and contrary to the overall administration of justice, to name her. Her specific identity is not a relevant issue in these proceedings, and it would be wholly inappropriate for her privacy to be invaded in a case where she is a witness. Neither party objected to this course.
+ 
+4.  I will need to make findings of fact in relation to the Alleged Assault, given that at the heart of the Defendant’s case in these proceedings is a truth defence under section 2 of the Defamation Act 2013 . I made it clear to the Claimant on more than one occasion during the trial that I would need to make such findings because the way he conducted his case suggested he did not understand that was to be an issue.
+ 
+5.  Indeed, the Claimant sought unsuccessfully at the start of the trial to strike out the Defendant’s witness statements (in particular the statement of X) which were relied upon by the Defendant for the purposes of the section 2 defence. It was not clear to me that he appreciated the seriousness of the matter even by the end of the case. The Claimant clearly feels strongly about this case and repeatedly said, in emotional terms, that he was the true “victim”.
+ 
+6.  Conducting a hearing with oral evidence on sensitive issues in a remote manner has proved challenging. Both parties act in person and it was not always clear what the nature of each party’s case was, nor was there compliance with all necessary procedural directions. There were also two competing electronic bundles and some technical difficulties in transmission. Ultimately, however, all the oral evidence the parties wished to call was given, and the parties were able to make detailed submissions over 2 days.
+ 
+7.  As to non-compliance with procedural orders, the Defendant had failed to serve a witness statement from himself for trial, in accordance with Master Sullivan’s Order dated 29 January 2020. That was particularly puzzling, given that he did serve written statements from other witnesses who he intended to call. I dealt with that issue with the parties agreement as follows. Rather than preventing the Defendant giving evidence at trial at all (given that the Claimant wished to cross-examine him), or adjourning the case (which was already very old), both parties agreed that the most sensible course was for me by way of sanction to refuse to permit the Defendant to pursue his libel Counterclaim (which he agreed would be dismissed), but to allow him to rely upon his Defence as his evidence-in-chief and for the Claimant to be able to cross-examine him on that. This was a document which the Claimant had been prepared to challenge.
+ 
+8.  Both the Claimant and the Defendant accordingly gave oral evidence, and there was evidence from a number of additional witnesses called on behalf of the Defendant, including, most importantly, X (on the truth defence, as stated above).
+ 
+9.  As will appear in due course, in addition to the truth defence, there was a prior issue between the parties on the question of publication. It was not agreed (save in a limited and single respect) that the Defendant had in fact published the relevant WhatsApp messages to third parties. I will need to make appropriate findings on that issue. There was a further issue raised by the Defendant, and that concerns the issue of serious harm within section 1(1) of the Defamation Act 2013 .
+ 
+10.  So, in broad terms, the issues (and the order in which I will address them) were publication, meaning/serious harm, and truth. A honest opinion defence was at one time suggested in a pleading by the Defendant but was not pursued before me. I say no more about it.
+ 
+II. Legal Principles
+11.  As to the law, to establish that the Defendant is liable in defamation, the Claimant has to prove:
+      (a)  The Defendant published words by making them known to at least one other person, apart from the Claimant.
+      (b)  The words referred to the Claimant.
+      (c)  The words were defamatory of the Claimant in that (i) they were defamatory at common law and (ii) the publication of the words caused, or was likely to cause, serious harm to the reputation of the Claimant: section 1(1) of the Defamation Act 2013 . At common law, a statement is defamatory of the Claimant if, but only if, (i) it imputes conduct which would tend to lower the Claimant in the estimation of right-thinking people generally, and (ii) the imputation substantially affects in an adverse manner the attitude of other people towards him, or has a tendency to do so.
+ 
+12.  Section 1(1) of the Defamation Act 2013 provides: “A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant”. In Turley v Unite the Union [2019] EWHC 3547 (QB) at [106]-110 ], Nicklin J summarised the relevant principles. Of particular relevance are the following: this section raised the threshold of seriousness above the tendency of defamatory words to cause damage to reputation; the application of the test of serious harm must be determined by reference to actual facts about its impact and not just to the meaning of the words. Reference to the situation where the statement “ has caused “ serious harm is to the consequences of publication, and not the publication itself. Serious harm can in principle be proved on a combination of (a) the meaning of the words; (b) the situation of the claimant; (c) the circumstances of publication; and (d) the inherent probabilities. In this case, the meaning of the words (an accusation in one of the publications of the Claimant being a “rapist”) is particularly relevant.
+ 
+13.  The principles governing the statutory defence of truth were summarised by Nicol J in Depp v News Group [2020] EWHC 2911 (QB) at [38]-[44] and I gratefully adopt that summary without repeating it. As section 2(1) of the 2013 Act makes clear, it is for a Defendant to prove that the libel was substantially true. The burden of proof therefore rests on the Defendant. As for the standard of proof, the starting point is that these are civil proceedings and in civil proceedings the standard of proof is the balance of probabilities i.e. is it more probable than not that the published matter was substantially true in the meaning that it bore?
+ 
+14.  Although there is a single and unvarying standard of proof in civil proceedings, the evidence which is required to satisfy it may vary according to the circumstances. It is flexible in its application . In particular, the more serious the allegation or the more serious the consequences if the allegation is proved, the stronger must be the evidence before a court will find the allegation proved on the balance of probabilities. Thus the flexibility of the standard lies not in any adjustment to the degree of probability required for an allegation to be proved (such that a more serious allegation has to be proved to a higher degree of probability), but in the strength or quality of the evidence that will in practice be required for an allegation to be proved on the balance of probabilities. See also Hunt v Times Newspapers Ltd. [2013] EWHC 1868 (QB) at [76] : where the allegation is one of serious criminality, clear evidence is required. That principle is engaged in this case where the allegations in issue are of rape or serious sexual assault.
+ 
+III. The Publications
+15.  Given the way in which the Claimant at various points appeared to argue this case, I should underline at the outset that this is a claim in libel and not slander. As identified in the Claim Form, issued on 23 January 2019, the claim is for “Damages for publication of defamatory comments, whereby the Defendant has falsely alleged that the Claimant is a rapist on several social media platforms”. So, the claim is based on social media publications.
+ 
+16.  However, the precise nature of the Claimant’s case as to the social media publications in issue has remained unclear. This is despite an earlier procedural order of Master Davidson dated 14 April 2019 requiring the Claimant to plead his case with clarity. The Claimant provided an Amended Particulars of Claim dated 26 April 2019 in purported compliance. That argumentative document is rather difficult to follow as regards the identity of the publications sued upon. It has attached to it a series of WhatsApp exchanges between the Claimant and the Defendant. They are not dated, nor are they in time order. An ordered series of these messages is attached as an Appendix to this judgment with sending/receipt information provided by the Defendant. Despite the efforts of the parties, I am not satisfied that this ordering is correct but ultimately that is not a determinative issue.
+ 
+17.  Although not always clear, one can see that these exchanges are part of a discussion between the Claimant and the Defendant which post-dates the Alleged Assault and broadly concerns the Defendant being outraged as to the assault, asking that the Claimant apologise to X, telling the Claimant that the Defendant had already told various third parties that the Claimant was a “rapist”, and text which appears to have been sent or to be sent (with a photo of the Claimant) to the Returnees Group (as to this group, see para. [39] below). The Claimant also says in these exchanges he has consulted lawyers who are going to “press charges” against the Defendant.
+ 
+18.  What is notable about this group of messages is that, save in one respect, each of them is on its face an exchange between just the Claimant and the Defendant with no indication of a publication of the posts to any third party. I have given a broad summary of the content which does not reflect the unedifying and intemperate nature of the language used in these posts, including statements about family members. Anyone interested in the broader context can read the run of messages in the Appendix. The Defendant regrets the nature of certain of the personal comments he made in these messages. They are clearly offensive and these comments no doubt contributed to the Claimant’s anger and his decision to bring these proceedings.
+ 
+19.  Returning to the libel claim itself, I pressed the Claimant on what his specific complaints were on the publication point at trial and ultimately it emerged that his case was based on three WhatsApp posts which he says were published to third parties and which he said were admitted to have been published. I will call these the First, Second and Third Messages, respectively, and I will identify them by page references to the Appendix. Save for one of these posts (the First Message), the Defendant denies they were communicated to third parties and I heard evidence on this issue from the parties and additional witnesses. I will set out my findings below.
+ 
+The First Message, Appendix, page 6 (24 December 2018)
+20.  The first publication is a message which the Defendant says he sent to his sister and which he then forwarded to the Claimant. It contains a voice message from the Defendant’s sister to him (I have listened to it and it broadly contains her outrage as regards the Alleged Assault). The message is in substance a written communication of the Defendant’s accusation of rape (the Alleged Assault) against the Claimant to the Defendant’s sister (Amabelle). The Defendant’s sister at this time knew the alleged victim was X and had already in fact spoken to her.
+21.  It is common ground that there was publication of the First Message to a third party, the Defendant’s sister. I find that the was sole publication by the Defendant. There is no evidence of further dissemination. I accept the Defendant’s evidence in this regard.
+The Second Message: Appendix, page 4 (23/24 December 2018)
+22.  This message simply records that the Defendant had orally told third parties that the Claimant was a “rapist”. It provides no basis for a claim in libel. There was no evidence of any publication in non-transient form. Had a slander claim been pursued, the Claimant would no doubt have had difficulty in complying with the onerous and necessary pleading requirements of such a claim. However, I say no more about this message.
+The Third Message: Appendix, pages 11-13 (24/25 December 2018)
+23.  This (and a related message) contain the text of a message which (under a photo of the Claimant) describes the allegations made by X against the Claimant. On its face it looks like this is a publication sent (or to be sent) to the Returnees (a large group). However, there is no direct evidence it was in fact sent to (or received) by anyone other than the Claimant. Notably, the Claimant did not present at trial a copy of this message which he (as a member of one or more Returnee chat groups) received.
+24.  The Defendant says he did not send it out but in fact simply sent it to the Claimant to scare him and because he was angry with him. I also have heard independent evidence from a number of member of the Returnees Group that this message was never put on the group chat of which they were aware.
+25.  These witnesses, Mr Njoku, Mr Ugwa, and Ms Amada, were in my view plainly honest and straightforward witnesses. No serious challenge was made to their evidence as opposed to speculation that they might not have been on some sub-group of Returnees who had in fact received the Third Message. Their evidence was consistent. They had never seen anything about the Claimant posted on the Returnees group or any other social media platform of which the Defendant is a part. They also said in evidence that they had never seen anything posted by the Claimant on social media groups where he has accused anybody of being a rapist.
+26.  I also received evidence from Ms Soluchi Amobi who said that she had not seen anything posted on the Defendant’s Facebook page about the Claimant. I will return to this witness below because she also gave oral evidence of speaking with X following the Alleged Assault: see para. [53] below.
+27.  Against this evidence, the Claimant has only given unspecific oral evidence that third parties told him that a message of this type had been received. No documentary or electronic verifying evidence has been produced to support the case, as I have said. I prefer the evidence of the Defendant and find his version credible, and it is supported by the independent evidence of third parties. The Claimant has not established publication of the Third Message on the balance of probabilities.
+28.  In conclusion, only one of the messages relied upon was published to a third party, the First Message, and I turn to the claim in relation to this publication.
+IV. Meaning and Serious Harm
+29.  It is my task to determine what the First Message would mean to the hypothetical ordinary and reasonable reader. In applying this test, I have gratefully adopted the summary of the principles in Koutsogiannis v The Random House Group Ltd [2019] EWHC 48 (QB); [2020] 4 WLR 25 at [11]-[12] .
+ 
+30.  The relevant words in the First Message upon which the Claimant bases his claim are “Told everyone who came yesterday about you rapist” (they appear at various points: see Appendix, page 6, for example).
+ 
+31.  The meaning I find is that:
+”The Claimant has committed a serious sexual assault involving non- consensual penetration of the sexual organs of a victim”.
+ 
+ 
+32.  This is defamatory at common law and a Chase Level 1 accusation of criminal conduct.
+ 
+33.  As to serious harm, I am also satisfied that based on the meaning alone, and without any necessary additional evidence, the test under section 1(1) of the 2013 Act is satisfied. Although I have found that the scope of the publication was limited to the Defendant’s sister, this is one of those cases where the nature of the language allows one to infer serious harm. Assessment of harm to reputation has never been just a ‘numbers game’ and very serious harm to reputation can be caused by publication to a relatively small number of publishees. See Turley at [109].
+ 
+34.  The Defendant relied upon the fact that his sister had already been told by X that she had been assaulted prior to his sending her the Third Message. He said that his publication accordingly did not cause serious harm. This is not relevant. I refer to Warby J’s discussion of the Dingle case in Lachaux v Independent Print [2015] 2242 (QB) at [69]-[87].
+ 
+35.  So, the Claimant has established publication of a defamatory message to a third party. I turn to the truth defence, which was the main focus of the evidence I heard.
+ 
+V. Truth: the Alleged Assault
+36.  My summary of the relevant events of the 22-23 December 2018 and my findings of fact in relation to those events (where there are disputes) are based upon the oral and written evidence of the Claimant, the Defendant, and a number of other witnesses including the alleged victim, X. I accept the Defendant’s evidence and that of X where there are disputes between them and the Claimant. As I explain below, this is principally because they were credible witnesses, unlike the Claimant.
+ 
+37.  X came to stay with the Defendant while in transit from America on her way to Nigeria. She is a family friend of the Defendant’s family. She arrived in the UK on 21 December 2018 and was due to depart for Nigeria on 24 December 2018. Following her arrival, she stayed with the Defendant at his flat in Catford.
+ 
+38.  On the evening of Saturday 22 December 2018, the Defendant invited X to accompany him to a pool tournament he was due to attend, together with a group of former pupils from his former secondary school in Lagos, Nigeria. This is the King’s College Old Boy’s Club, also known as “KCOB”. As stated earlier, both the Claimant and the Defendant are Old Boys.
+ 
+39.  The Defendant and X arrived at the pool hall in Victoria at around 6pm. In addition to the Old Boys such as the Claimant, there were also present a number of people attending the tournament from a group known as “the Returnees”. This is a networking platform for people who have moved from Nigeria to the UK and vice versa. The main means of communication for the Returnees group is WhatsApp and they also hold networking events from time to time. I heard oral evidence from some members of the Returnees, as I describe below.
+ 
+40.  During the pool tournament, the Claimant asked the Defendant if X was single, which he confirmed. The Defendant said that later in the evening, the Claimant was being “a bit full on” towards X but the Defendant reassured X that he (the Claimant) was “harmless”. He did however tell the Claimant to “calm down”. The evidence was that another woman on that evening also came to inform him that the Claimant was making her feel uncomfortable with his advances.
+ 
+41.  Following the end of the pool tournament, a small group including the Claimant, the Defendant and X, went to a restaurant in Croydon at around 10:30pm, where they ate and watched a boxing match. They remained there until around 1:30am-2am on the morning of Sunday 23 December 2018. At this point in time, the Claimant informed the Defendant that his phone battery was dead and that he did not have money for an Uber to get back to his residence in Chingford. The Claimant asked the Defendant if he could come back to the Defendant’s flat. The Defendant agreed that he could do that and rest there for a while before making his way home.
+ 
+42.  The three, that is the Claimant, the Defendant and X, were given a lift back to the Defendant’s flat. When they got in the door, they noticed that the Defendant’s flatmate was sleeping in the living room and the flatmate’s own room was locked. That meant there was only one room available, that of the Defendant. The Defendant asked the Claimant whether he should call him a cab. The Claimant said to the Defendant that he did not have money for a cab and asked if he could stay but said that he would leave early in the morning to get a train.
+ 
+43.  As I have said, given the lack of other room in the flat, the only place the three could sleep was in the Defendant’s bedroom. The Defendant asked X if she was “okay” with the Claimant sleeping on the floor whilst she and the Defendant slept on the bed. X said that this would be fine, given that the Claimant said he would be leaving relatively shortly afterwards, at around 5am-6am.
+ 
+44.  All three persons accordingly went to sleep, with the Defendant and X sharing a bed and the Claimant sleeping on the floor in the same room. Originally, the Claimant had sought to get into the bed, together with the Defendant and X, but following a reprimand from the Defendant he agreed to sleep on the floor.
+ 
+45.  The following events are at the heart of this case and I have two radically differing accounts from X and the Claimant. Before the Claimant cross-examined X, I warned him that he should remain courteous and that I would prevent him acting in an intimidatory way. In large part he followed my guidance, but during his cross-examination of X I refused to allow him to ask further questions directly and he was required to put all questions through me for me to ask, if I considered them appropriate. We then proceeded in that way. I was satisfied that the Claimant was able to appropriately challenge X’s evidence.
+ 
+46.  X’s account of the events (which I set out below) was challenged as a fiction and as part of a conspiracy with the Defendant to blackmail the Claimant. I reject this and I have no hesitation accepting her evidence as accurate and wholly truthful. She was to my mind a convincing and consistent witness who kept her composure throughout and would have no reason at all to make up the distressing events which I am about to recount. She also made contemporaneous reports to the Defendant and at least two women on the morning following the Alleged Assault. She also made reports on 24/25 December 2018 to the police.
+ 
+47.  Turning to the disputed facts as I find them, based principally on my acceptance of X’s evidence, they are as follows.
+ 
+48.  Picking up matters when the Defendant and X were asleep in the bed and the Claimant was asleep on the floor, at some point the Claimant complained that something was biting him (either a rat or a cockroach) and he asked to get into bed. The Defendant is a deep sleeper, but when he heard the Claimant shouting that something was crawling, he said that it was okay for him to get into the bed.
+ 
+49.  This was a queen-size bed, with the Defendant sleeping closest to the wall. X was behind him and the Claimant then got in behind her. When he first got into the bed, the Claimant did not touch X, but once she had fallen asleep, he started to put his hand under her nightgown and put his fingers forcefully inside her by penetrating her vagina. He used one finger at first. X kept telling him to stop. She did not understand why he was doing this, given that he had been pleasant throughout the night, but he would not stop. He continued by touching her breasts as well as trying to get her to say that she wanted him to sleep with her. X made it clear that she did not want to do that. She squeezed his hand where he was shoving it between her legs and tried to grab his wrists. At that point in time the Claimant desisted, got up and said he needed to get a drink of water to see if he could “cool down”. The evidence of X, which I accept, is that she was extremely distressed at this and she was worried that he might come back and, in her words, “completely rape me”.
+ 
+50.  As soon as the Claimant left to get his drink, X woke the Defendant and told him that his friend was violating her. At this point, the Defendant confronted the Claimant and there was a heated exchange of words in the kitchen. He denied the assault and was asked to leave. He left and came back a few minutes later claiming to have left his card. He then said something to X and left. There seem to have been recordings made at this time but they have not been produced to me. In any event, I have the first hand evidence of the Claimant, the Defendant and X.
+ 
+51.  I move to later that morning on 23 December 2018. X is a friend of the Defendant’s sister (Amabelle) who called her to ask how her stay in London was going. X was unable to hide her distress and told her what had happened. The Defendant’s sister was disgusted and angry and said that this matter should be reported to the police. She was particularly angry that the Defendant had permitted this to happen (although he said he had been in a deep sleep at the time of the assault). She clearly felt that he had some responsibility for not having protected her friend.
+ 
+52.  The evidence given to me by X is that she was confused and she was worried about her family’s reaction. She hadn’t believed she had dressed in a way that was revealing. She cancelled her plan to go on a tour of London and spent most of the day crying in bed and was still crying on the following day on her plane journey to Nigeria.
+ 
+53.  Before she left the country, X also informed two witnesses of the assault (in addition to the Defendant and Amabelle). These were Ms Vivian Nwakanma (another of the Defendant’s sisters) and Ms Soluchi Amobi (a witness who gave evidence on another issue). They have given what I find was truthful evidence to the effect that when they spoke with X that morning she was in tears and hysterical stating that she had been sexually assaulted by the Claimant while she was asleep. Ms Soluchi Amobi is a friend of the Defendant (and she does not know X). She had called him socially that morning but was asked by him to speak with X because he thought she should be able to speak to a woman about what had happened to her.
+ 
+54.  Once she got to Nigeria, X discovered that she could complain about this incident online and made a police report. She also then made a further oral report on 25 or 26 December. There was some debate between the parties as to the precise date of the reports, but it does not seem to me that that is particularly relevant. In particular, I reject the apparent case being put by the Claimant that there was some form of conspiracy going on between the police and the Defendant and X which led to a 22 December 2018 police report (which appeared in the papers before me but seems obviously to be incorrectly dated).
+ 
+55.  I find X’s account of events proven. I have not ignored the fact that the Claimant strongly denied these events had occurred. I am also acutely aware of how serious the allegations are. The Claimant’s case is that there was some form of blackmail attempt going on by way agreement between the Defendant and X to extort money from him. I reject that.
+ 
+56.  In my judgment, the allegations of blackmail are an invention to cover up what I consider was a serious sexual assault and to turn the blame on the victim and those who supported her. I also reject the Claimant’s arguments that X needed to provide some form of “DNA” evidence to prove her claims, and that the police have rejected her complaints. My concern is with the evidence I have heard. The fact that there have been no criminal proceedings (common in this type of case) is not relevant to my decision.
+ 
+57.  On the balance of probabilities, I find that the Claimant committed a serious sexual assault involving forceful vaginal penetration by fingers of X’s vagina and non- consensual touching of her breasts.
+ 
+58.  It was following these events that the WhatsApp exchanges which gave rise to the current claim took place. As I have said above, those exchanges show discussions between the Defendant and his sister about what had happened and then some heated exchanges between the Claimant and the Defendant about the Claimant’s conduct. Those exchanges show that the Defendant was concerned with what had happened and was seeking to get the Claimant to apologise to X. They do not support any claim of blackmailing.
+ 
+59.  The Defendant succeeds in his truth defence. By proving the Claimant committed a sexual assault by penetration of X’s vagina, he has substantially proved the meaning of the words in the First Message, as I have identified them above.
+ 
+60.  Insofar as it might be suggested that this was not “rape” in the sense of penetration of the vagina using a penis, I see no merit in that argument. An individual who commits this form of violent and non-consensual sexual penetration of the vagina is in substance rightly described as a rapist. In my judgment, a reasonable person would regard penetration of the form in issue in this claim as essentially akin to rape.
+ 
+61.  If I am wrong in this and there is a difference of substance between digital and penile penetration, and it is said the Defendant has proved the substantial truth of the former allegation and not the latter, I would have decided that on this limited success the Claimant would have been entitled to only nominal damages, applying the principle in Pamplin v Express Newspapers Ltd [1988] 1 WLR 116 (CA) . In my judgment, taking into account, in mitigation of damages, evidence which was admitted as relevant to the truth defence would have reduced damages to a nominal sum.
+ 
+VI. Conclusion
+62.  The claim is dismissed.
+ 
+ 
+Appendix
+A) Date: ?23 December 2018
+Time range: 13:11 – 15:46
+White background: Defendant
+Green background: Claimant
+​
+B) Date: 23 December 2018
+Time range: 15:46-15:47
+White background: Defendant
+Green background: Claimant
+​
+C) Date: 23 December 2018
+Time range: 15:48 – 15:50
+White background: Defendant
+Grey and green backgrounds: Claimant
+​
+D) Date: 23 & 24 December 2018
+Time range: 16:55 – 00:05
+White background: Defendant
+​
+E) Date: 24 December 2018
+Time range: 00:05 – 07:32
+White background: Defendant
+​
+F) Date: 24 December 2018
+Time range: 07:44 – 07:53
+Screenshot of messaging between Defendant and his sister
+White background: Defendant’s sister
+Green background: Defendant
+​
+G) Date: 24 December 2018
+Time range: -7:33 – 08:32
+White background: Defendant
+Green background: Defendant (within screenshot)
+​
+H) Date: 24 December 2018
+Time range: 08:26 – 08:42
+Screenshot of messaging between Defendant and his sister
+White background: Defendant’s sister
+Green background: Defendant
+​
+I) Date: 24 December 2018
+Time range: 08:48 –
+Screenshot of messaging conversation between Defendant and his sister
+White background: Defendant’s sister
+Green background: Defendant
+​
+J) Date: 24 December 2018
+Time range: 08:52 –
+White background: Defendant
+Green background: Defendant (within screenshot)
+​
+K) Date: unclear
+Time range: 13:14 –
+White background: Defendant
+​
+L) Date: unclear, ?before 25 December 2018
+Time range: 13:46 – 13:56
+White background: Defendant
+​
+M) Date: before & on 25 December 2018
+Time range: 13:56 – 20:54
+White background: Defendant
+​
+N) Date: 26 December 2018
+Time range: 19:30 –
+Green background: Claimant
+​
+O) Date: ?26 December 2018
+Time range: 19:32 –
+Green background: Claimant
+​
+P) Date: unclear, ?26 December 2018
+Time range: 20:02 – 20:10
+White background: Defendant
+Green background: Claimant
+​
+Q) Date: unclear, ?26 December 2018
+Time range: 20:10 – 20:12
+White background: Defendant
+Green background: Claimant
+​
+R) Date: unclear, ?26 December 2018
+Time range: 20:16 – 20:18
+White background: Defendant
+Green background: Claimant
+​
+S) Date: unclear, ?26 December 2018
+Time range: 20:29 – 20:31
+White background: Defendant
+Grey background: Claimant
+​
+T) Date: unknown
+Time range: 21:15 – 21:29
+White background: Defendant
+Grey background: Defendant – attached to comment on message he had forwarded to Claimant (at 21:15 just above) having received ‘Notification’ from third party
+​
+U) Date: unknown
+Time range: 21:35 – 21:41
+White background: Defendant
+Grey background: Defendant’s name but Claimant’s words – unsure of sequence
+​
+Crown copyright
+

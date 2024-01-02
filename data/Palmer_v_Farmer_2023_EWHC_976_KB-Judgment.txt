@@ -1,0 +1,261 @@
+﻿
+James Palmer v PC Colin Farmer, Metropolitan Police Service, Sutton Housing Partnership, Mayor and Burgesses of the London Borough of Sutton
+
+
+No Substantial Judicial Treatment
+
+
+Court
+King’s Bench Division
+ 
+Judgment Date
+28 April 2023
+ 
+Case No: QB-2021-004156
+High Court of Justice King’s Bench Division
+[2023] EWHC 976 (KB), 2023 WL 03129030
+Before: The Honourable Mr Justice Saini
+Date: 28/04/2023
+Media and Communications List
+ 
+Hearing date: 25 April 2023
+ 
+ 
+Representation
+      Jenan Jaafar (Direct Access) for the Claimant.
+      Kate Wilson (instructed by South London Legal Partnership ) for the Third and Fourth Defendants.
+This judgment is in 5 main parts as follows:
+I.
+ 
+
+Overview:
+ 
+
+paras.[1]-[5].
+ 
+
+II.
+ 
+
+The Facts:
+ 
+
+paras.[6]-[31].
+ 
+
+III.
+ 
+
+The Libel Claims:
+ 
+
+paras.[32]-[53].
+ 
+
+IV.
+ 
+
+The MPI Claims:
+ 
+
+paras.[54]-[62].
+ 
+
+V.
+ 
+
+Conclusion:
+ 
+
+paras.[63]-[64].
+ 
+
+
+Approved Judgment
+Mr Justice Saini:
+ 
+I. Overview
+1.  The Third Defendant (”D3”) and the Fourth Defendant (”D4”) (collectively, “the Defendants”) have made applications for summary judgment and/or a striking out of the Claimant’s claims for libel and misuse of private information (”MPI”). I will refer to the Claimant as “Mr Palmer”. His claim was commenced on 5 November 2021 and arises out of the content of emails sent in November 2019, internally within D3 and D4. Those emails pasted and relayed an email (as part of a chain) sent, unsolicited, to D3 by a police officer, PC Colin Farmer. PC Farmer’s email included a false statement to the effect that Mr Palmer had been “convicted for a sexual offence”. Mr Palmer has settled his claims against PC Farmer (”D1”) and the Metropolitan Police Service (”D2”, or “the MPS”), as I describe further below.
+ 
+2.  The Defendants’ applications are made on the conventional CPR Part 24.2 basis, and alternatively under CPR 3.4(2)(a) . D3 and D4 additionally rely on what is known as the Jameel abuse jurisdiction for dismissal of these claims: Jameel v Dow Jones & Co. [2005] EWCA Civ 75; [2005] QB 946 .
+ 
+3.  Mr Palmer responded to the applications by making his own application to amend his Particulars of Claim (”POC”). In accordance with established principles, I first considered whether the claim in proposed amended form (”the APOC”) was viable and therefore should proceed to trial.
+ 
+4.  Before I heard the applications a Statement in Open Court was read and I approved a consent order compromising the proceedings against D1 and D2. They, as the originators of the allegations, have apologised unreservedly for making untrue and inaccurate statements concerning Mr Palmer. An offer of amends was made and accepted. Substantial damages and costs have been paid to him by D1 and D2 in relation to libel and MPI. The quantum of damages was not stated in court but was disclosed to Counsel for the Defendants, and to me, following my request. That figure is relevant to the Jameel application as regards both the libel and MPI claims against D3 and D4.
+ 
+5.  Following conclusion of the oral submissions on 25 April 2023, I indicated I would not permit the amendments to the Particulars of Claim, as regards the libel and MPI claims, and would grant the applications of D3 and D4 to dismiss these claims. These are my reasons.
+ 
+II. The Facts
+6.  The basic facts are not in dispute. I take my summary below principally from the Claimant’s pleadings and statements, and aspects of the Defendants’ evidence which did not appear to be contested or were plainly credible, and/or were based on contemporaneous documents. The facts fall within a fairly narrow compass. I will avoid any conclusions on matters which, applying Part 24 principles, are properly matters which should only be resolved at trial.
+ 
+7.  D4 is the local authority for the London Borough of Sutton. D3 is an Arms-Length Management Organisation established by D4 for the purpose of managing its housing stock.
+ 
+8.  Mr Palmer lives in a property which is owned by D4 and managed, on D4’s behalf, by D3. His mother was D4’s tenant until she died in February 2020. Mr Palmer lived at the property with his mother and half-brother.
+ 
+9.  Between around 2017 and 2019, Mr Palmer made numerous complaints about a neighbour, including complaints of noise and the smell of cannabis. According to D3, no evidence was found to corroborate the complaint of drug use on unannounced visits by housing officers and the police. D3 says that the noise from ordinary household activities was an unfortunate feature of the relevant housing. I make no findings in relation to these matters. They are not relevant to the issues before me. Mr Palmer clearly holds genuine and strong views on this issue.
+ 
+10.  Mr Palmer raised complaints with D3 about his housing, including about how D3 had dealt with his complaints, using its complaints process. He was not satisfied with the outcome.
+ 
+11.  On 30 April 2019, Mr Palmer emailed Simon Latham (”Mr Latham”) to complain about what he regarded as D3’s unsatisfactory responses to his complaints. Mr Latham is D4’s senior client officer for D3. The complaints were also brought to Mr Latham’s attention by local politicians (an MP and Councillor) on behalf of Mr Palmer. The evidence is clear that by November 2019 considerable attention from senior personnel with the Defendants was being given to Mr Palmer’s complaints.
+ 
+12.  These complaints were to be discussed at a Community Multi-Agency Risk Assessment Conference (”Community MARAC”). I understand that these are multi-agency meetings held monthly with a wide remit to consider issues relating to community matters. Chris Lyons, a D4 employee, was the Community Safety Manager and the lead officer in coordinating Community MARACs. I will return to Mr Lyons below.
+ 
+13.  On 5 or 6 November 2019, PC Colin Farmer of the MPS who worked in the Safer Neighbourhood Team for the area where Mr Palmer lived sent an email to Ms Amato (”the Farmer Email”). This document is the foundation for the claims before me. It was in the following terms (my underlining and redaction of email addresses):
+”On Wed, 6 Nov at 17:17 [REDACTED] Laura Amato wrote:
+Hi All
+Update, tenants son (James Palmer) has not only sent a lengthy email to us, councillors, LBS but also emailed the Police Inspector directly and it was discussed at the MARAC this afternoon. It was agreed by all at MARAC that a joint letter is drafted and sent by MARAC on behalf of all professionals involved. The police are concerned for James’ mental health and also our tenant, Sara Palmer’s welfare (ongoing cancer treatment and at her wits end). MARAC are looking at support for both James, Sara and moving the tenant upstairs as soon as possible. We have been asked to not send any response but to await the draft from MARAC which will be sent to Sarah Howard (enforcement officer). Hope this is OK. It makes sense to send a response on behalf of all professionals. I have pasted below the correspondence from the Police just FYI . I am visiting James Palmer with the SNT tomorrow.
+Lara
+ 
+From: Clifton Phillip N.D – SN-CU [REDACTED] Sent: 05 November 2019 20:15
+ 
+To: Farmer Colin – SN-CU [REDACTED]1
+ 
+Subject: RE: ASB
+ 
+Thanks Colin, I will send him back an e-mail.
+ 
+From: Farmer Colin – SN-CU [REDACTED] Sent: 05 November 2019 16:39
+ 
+To: Clifton Phillip N.D – SN-CU [REDACTED]
+ 
+Subject: RE: ASB
+ 
+Guv, I know about it, we have a planned visit with Sutton Housing tomorrow, his mother is fed up with him making these complaints, she has no issues with the neighbour upstairs and he is obsessed with police/authority. The neighbour he is complaining about has been spoken to by us several times with no evidence of cannabis use and also response have attended when he has called us about noise complaints, again no evidence of drug misuse. He was a police cadet but was turned down as a police officer as he was convicted for a sexual offence I believe .
+ 
+Colin”.
+ 
+ 
+14.  The Farmer Email included a complaint sent by Mr Palmer on 1 November 2019 to PC Farmer’s superior officer in the MPS, Inspector Clifton, copied to a local Councillor assisting Mr Palmer, and subsequent exchanges. As I have underlined above, PC Farmer’s response to Inspector Clifton concluded with the words “ he [Mr Palmer] was convicted for a sexual offence I believe “. The above information was not a response to any request from Ms Amato, but was sent on to her unsolicited (as part of the exchange between the two MPS officers).
+ 
+15.  On 6 November 2019, a Community MARAC was held where Mr Palmer’s complaint was discussed. D3 was represented by Sarah Howard, the anti-social behaviour officer. Ms Amato did not attend that meeting. There is no evidence that anyone at that meeting was aware of the Farmer Email or its contents.
+ 
+16.  Later that same day, Ms Amato emailed 5 people, namely her line manager, 3 more senior staff at D3, and Mr Latham at D4 (”the Amato Email”). Ms Amato had been asked to provide an update to Mr Latham following Mr Palmer’s various complaints. As is clear from the email chain, it starts with Mr Palmer’s complaints to Councillors being raised by them with Mr Latham, and Mr Latham asking to be provided with a briefing by D3. The Amato Email updated D3’s management and Mr Latham on the decision of the Community MARAC to send a joint letter to Mr Palmer. It also informed them that he had complained to Inspector Clifton directly. Ms Amato added the Farmer Email into the chain. She drew no attention to the statement complained of and made no comment about it in her own text.
+ 
+17.  On his return to work on 14 November 2019, Mr Latham replied to the Amato Email (”the Latham Email”). The focus of Mr Latham’s reply email was a request for an update following a planned visit to Mr Palmer on 7 November 2019. However, he added that he was surprised “ to read in the email chain a reference in Colin Farmer’s email to Mr Palmer’s offending history. This seems inappropriate to me and would be disclosed if Mr Palmer were to make a Subject Access Request (and now that we are in receipt of it, we too are in that domain). That is probably an issue for the MPS to pick up on however” . The documents before me appear to show, that he ‘replied all’. His reply therefore contained all the preceding email chain and went to those who had received the Amato Email, as well as to Ms Amato herself.
+ 
+18.  The only additional recipient was Mr Lyons who was copied given the “ political interest “ (Mr Latham’s words) in Mr Palmer’s case. That was no doubt a reference to the involvement of the councillor and MP in the matter. Mr Lyons was a point of contact for these politicians and any update from Ms Amato on Mr Palmer’s position was understandably relevant to him.
+ 
+19.  On 20 November 2019, D4 wrote to Mr Palmer following the Community MARAC. The letter was sent by Anita Bhardwaj, on behalf of Mr Lyons. It addressed the areas of Mr Palmer’s complaints, noting the difficulty of addressing alleged drug use when none had been detected, and offered various forms of assistance, including having the council install a noise recorder in Mr Palmer’s home and a general offer of services to assist the family’s wellbeing. There is nothing in this letter to show that Mr Palmer was being treated in any adverse way regarding his housing or that the Farmer Email had motivated D4 in the way it dealt with him.
+ 
+20.  On 6 February 2020, Mr Palmer’s mother passed away. He and his half-brother continued to reside in the property of which she had been the tenant.
+ 
+21.  At around this time (February 2020), a safeguarding referral was made concerning Mr Palmer’s half-brother, who continued to live with him following their mother’s passing. The referral made reference to the “family of the brother” wishing potentially to take on guardianship. Again, there is nothing in the evidence to indicate that this referral related in any way to the Farmer Email or its contents. Indeed, although the parties did not refer to it, I can see in the correspondence from April 2020, that it was confirmed there were no safeguarding issues.
+ 
+22.  On 7 November 2020, a settlement agreement was made between D3 and D4 on the one part and Mr Palmer on the other in relation to his ongoing issues concerning his housing. Under its terms, D3 agreed Mr Palmer could succeed to his mother’s tenancy, and substantial other benefits were provided to him. That agreement is not consistent with anyone within the Defendants having taken a negative view of Mr Palmer by reason of the Farmer Email or its contents.
+ 
+23.  I pause here in the narrative to note that there was an unpleaded suggestion made for the first time in the oral reply from Counsel for Mr Palmer to the effect that the date of this favourable settlement agreement coincided with the Defendants becoming aware that the Farmer Email contained a false allegation. I was taken to correspondence from the MPS to Mr Palmer dated 5 November 2020 which included a report from the MPS making clear he had never been convicted of a sexual offence and that PC Farmer was in error. This was shared with the Chief Executive of D4 on or around 7 November 2020. Putting aside the lack of a pleading, the point made by Counsel for Mr Palmer has no merit. The correspondence before me from the period well before the settlement agreement shows it was in advanced form and close to execution before the correspondence from the MPS admitted the error. The suggestion of some form of connection is fanciful.
+ 
+24.  On 9 June 2021, the MPS emailed D4. The MPS informed Mr Latham that the Farmer Email was inaccurate and asked Mr Latham to delete it, which he did. Mr Latham copied his response to Ms Amato. Ms Amato deleted the Farmer Email around the same time. Save for the purposes of litigation neither D3 nor D4 is holding the emails in issue in this claim.
+ 
+25.  Separately, in light of the complaints about the Farmer Email/Amato Email, D3 self-reported to the ICO in relation to the Amato Email. The ICO determined that no further action was required. The ICO’s reasons included that the matter was in part caused by human error.
+ 
+26.  On 13 May 2021, Mr Palmer complained to the ICO about D4 and its processing of the information in the Farmer Email. On 11 October 2021, the ICO informed D4 that it considered no further action was necessary.
+ 
+The original and the new claims
+27.  In the Claim Form and POC, the subject matter of all claims against all Defendants are the words “ he was convicted for a sexual offence “, which PC Farmer wrote in his email to Inspector Clifton and was then forwarded to Ms Amato and included, as detailed above, in the email chains under the Amato Email and the Latham Email.
+28.  As against D3, Mr Palmer advanced or advances the following claims:
+      a.  In the POC, he made a slander claim in respect of words allegedly spoken by Ms Amato at the Community MARAC. This has been abandoned in the Draft APOC. Ms Amato did not attend that meeting.
+      b.  A defamation claim for including the Farmer Email in the Amato Email, i.e. forwarding it in the chain when Ms Amato emailed her four senior colleagues at D3 and Mr Latham at D4, as I have described above. I will call this the “First Publication”.
+      c.  A claim for MPI in respect of the First Publication. A claim for MPI in respect of the alleged disclosure at the Community MARAC has been abandoned.
+      d.  A claim for breach of duties under data protection legislation. This plea materially expands the scope of the data protection claim advanced in the POC, adding entirely new claims, i.e. reliant on different matters and numerous additional provisions of the UKGDPR. Other than objecting to the lack of particulars in the draft APOC 33.3.1, D3 has consented to these proposed amendments.
+29.  As against D4, C advances the following claims:
+      a.  A defamation claim in respect of the Latham Email, but only insofar as it included the Farmer Email in the chain. I will call this “the Second Publication”.
+      b.  A claim for MPI in respect of the same matter. While the claim against D4 is mingled with the pleading of the claim against D3, as Mr Palmer complains of the disclosure of a criminal conviction in which he had a reasonable expectation of privacy, it follows that his complaint against D4 is Mr Latham’s disclosure to Mr Lyons. It is not in dispute that all the other recipients of the Latham Email had already received a copy of the Farmer Email from Ms Amato.
+      c.  A claim for breach of duties under data protection legislation. Again, these amendments are not opposed.
+30.  Mr Palmer requires the Court’s permission to make these amendments not consented to pursuant to CPR 17.1 . The principles under CPR 17.1 and 17.3 are addressed in The White Book (2023) at 17.3.5 – 17.3.6. A proposed claim must have a “real prospect of success”, mirroring the Part 24 standard.
+31.  Given the focus of the argument before me on the serious harm issue under section 1 of the Defamation Act 2013 (”the 2013 Act”) , I should at this stage set out the full terms of Mr Palmer’s expanded case on that matter in the draft APOC with my redactions of names:
+”21.1.  The allegation of which the Claimant complains, that of being a convicted sex offender, contained in both the Publications, goes to the very heart of his personal character and integrity and is an accusation of not only moral, but also criminal, wrongdoing of the most heinous kind. The allegation repeated in each publication is so inherently injurious and damaging to The Claimant’s reputation that it can be inferred that the words have caused and/or are likely to cause serious harm to the Claimant’s reputation.
+ 
+21.2.  On the death of The Claimant’s mother in Feb 2020 a safeguarding referral was made with respect to The Claimant assuming custody of his the sixteen-year-old half-brother, [NAME REDACTED]. It has been established that there were no legitimate risk factors, as determined by reference to Section 17 Children’s Act (1989), requiring that a safeguarding referral be made. Given that the recipients of defamatory information were party to the decision to make the referral and there are multiple references to the risk of exploitation being given as a reason for the referral (see Annex 6) it can be inferred that the concern about potential exploitation of [REDACTED] stemmed from belief that the Claimant was a convicted sex offender. It is averred that but for the Publications the referral never would have been made.
+ 
+21.3.  In their role as The Claimant’s landlord and managing agent both defendants are charged with making decisions relating to The Claimant’s housing needs and complaints. All the recipients of both The Publications knew The Claimant and were actively involved in his life, making decisions and in positions of authority and influence relative to The Claimant, on an ongoing basis.
+ 
+21.3.1.  It is averred that judgements and decisions made by both Defendants, in relation to the Claimant’s credibility and deservingness of help, and their general opinions of his character, were harmed by the recipients’ inevitable inherent bias, whether consciously or subconsciously, against those they believed to be a convicted of sex offender.
+ 
+21.3.2.  Additionally with respect to The Second Publication, Mr Simon Latham added Mr Chris Lyons to the recipients in the knowledge that Mr Lyons was the chair for the Community MARAC meeting held regarding The Claimant’s complaints of being a victim of anti-social behaviour Mr Latham published the Farmer email to Mr Lyons despite Home Office recommendations that MARACs should be chaired by a trained, independent lead with no prior involvement in the case, in contrast to most other agency representatives in attendance who will have had varying levels of involvement in the case. By including Mr Lyons in the Second Publication Mr Latham compromised the independence of the meeting chair therefore undermining the integrity of the final MARAC meeting outcome. It can be inferred that consideration of The Claimant’s MARAC case would be negatively affected, whether consciously or subconsciously, by the chair’s belief that The Claimant was a convicted sex offender.
+ 
+21.3.3.  When The Publications are considered in the context of the Farmer Email, as a whole, and the threads within the Farmer Email was published, it is averred that recipients would tend to view the Claimant as less credible, a time waster and/or more likely to be a problematic tenant and neighbour and thereby less deserving of assistance than a tenant of good character.
+ 
+21.4.  With reference to The Second Publication, Mr Simon Latham forwarded the Farmer Email to Mr Chris Lyons for reasons of “political interest” because Mr Lyons was a point of contact with the various politicians who had raised complaints on the Claimant’s behalf. Despite being explicitly aware that the email contained inappropriate and damaging information about The Claimant, which would tend to significantly lessen the Claimant in the minds of any reader, Mr Simon Latham specifically added Mr Chris Lyons to the recipients, in the knowledge that Mr Lyons was liaising with Councillors and MPs advocating for The Claimant. Irrespective of whether Mr Lyons repeated the allegation to anyone or not, it can be inferred that the Second Publication would tend to lead Mr Lyons to an inevitable inherent bias against The Claimant, whether conscious or subconscious, that would likely negatively impact Mr Lyon’s communications with MPs advocating on The Claimant’s behalf.
+ 
+21.5.  By including Mr Lyons in the Second Publication, with no guidance other than a warning that the contents would need to be disclosed to The Claimant should he make a Subject Access Request, Mr Latham created or increased the risk that the defamatory statement about The Claimant would be disseminated further by means of the verbal “percolation” of statements to others, particularly to those politicians with whom Mr Lyons was expected to liaise, regarding The Claimant.
+ 
+21.6.  The Second Defendant is a public authority with the ability to wield significant power and influence over the lives of members of the general public that reside within the London Borough of Sutton, particularly to those residents who are tenants of The Second Defendant and subject to management by the First Defendant. As such the potential consequences of the dissemination of the defamatory information, by this public body, who act as the Claimant’s landlord, does constitute serious harm to the Claimant’s reputation.
+ 
+21.7.  In support of the Claimant’s case on serious harm, as it pertains to the extent of the publication, the Claimant reserves the right to rely, pending disclosure and/or the provision of further information and/or acceptable admissions by the First and/or Second Defendants on the facts that the allegation was repeated to multiple other unnamed persons including employees of the First and Second Defendants at the MARAC meetings on 6th November 2019 and/or by any other communications”.
+ 
+III. The Defamation Claims
+Serious harm
+32.  Section 1(1) of the 2013 Act provides as follows:
+”A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant”.
+ 
+33.  Riley v Murray [2021] EWHC 3437 (QB); [2022] EMLR 8 at [34] contains a helpful summary of the law on the test of “serious harm”, including the principles to be derived from Lachaux v Independent Print Media [2019] UKSC 27; [2020] AC 612 .
+34.  In short, whether the publication of the statement sued upon caused or is likely to cause serious reputational harm is a factual matter to be determined according to the impact which the statement is shown actually to have had. That requires a consideration of the combination of the inherent tendency of the words and their actual impact on those to whom they were communicated.
+35.  Although in practical terms the need to satisfy section 1 of the 2013 Act means that the Jameel jurisdiction has become less important, the general principles remain in place: Haviland v The Andrew Lownie Literary Agency Ltd [2022] EWHC 1688 (QB) at [31]-[34] .
+36.  Section 12 of the Defamation Act 1952 (”the 1952 Act”) provides:
+”In any action for libel or slander the defendant may give evidence in mitigation of damages that the plaintiff has recovered damages, or has brought actions for damages, for libel or slander in respect of the publication of words to the same effect as the words on which the action is founded, or has received or agreed to receive compensation in respect of any such publication.”
+ 
+37.  Section 12 enables the Court to consider “ the full picture “ where there are multiple libels: Gatley (13th Edition) at §10-013, citing Lachaux v Independent Print Media [2021] EWHC 1797 (QB) at [222] . I refer to this provision because it is relied upon by the Defendants in support of their Jameel abuse application.
+The arguments
+38.  Counsel for Mr Palmer, in her clear and well-structured oral and written submissions, argued that there was not a basis to strike out the libel claim on the serious harm issue. The main focus of the submissions was on the inherently damaging tendency of the words themselves. It was argued that Mr Palmer was the subject of one of the most serious allegations that can be made. I was invited to infer that the words themselves satisfied, for summary judgment purposes, the “realistic prospect of success” test in relation to section 1 of the 2013 Act . In terms of actual impact, Counsel for Mr Palmer argued that this is a matter which needs to await disclosure and oral evidence. When I asked what the case might be about how his reputation was in fact harmed in terms of impact, Counsel gave the example of issues Mr Palmer had with ongoing repairs with his property. The argument was essentially that something might turn up in disclosure showing how the Defendants treated him negatively as regards his property as a result of the Farmer Email. It is also said that the denial by the Defendants’ witnesses that the email had any effect on the way Mr Palmer was dealt with as regards his housing is self-serving and needs to be tested at trial. Counsel said that the email went into the Defendants’ “housing system” and Mr Palmer wishes to explore at trial what was done with the information in the email. Reliance was placed on the poor record of the Defendants in disclosing documents or redacting documents in the past (following subject access requests), and how this gives rise in Mr Palmer’s view to a justified suspicion of what in fact was done with the Farmer Email and the false and damaging information within it.
+39.  Counsel for the Defendants forcefully argued that the draft amended case in the APOC does not plead a case fit to go to trial. Taking the points made in the APOC sequentially, she underlined the fact that in substance the new pleaded case essentially relied on no more than the words themselves. It was said that a case based on what might appear in disclosure was not fit to go to trial. Counsel submitted that the evidence of how Mr Palmer was in fact dealt with following the email shows he suffered no negative impact and in particular that the safeguarding referral was unrelated to the email. Counsel also took me to the contemporaneous documents which it was said show the way in which Mr Palmer received positive treatment as regards his housing. She underlined that he had not submitted evidence to rebut this and indicate how in fact he had suffered adverse impact as a result of the email. Emphasis was placed on the obligation on Mr Palmer to demonstrate as a fact that serious harm was caused.
+Analysis
+40.  I accept the Defendants’ submissions. This is Mr Palmer’s second attempt to plead his case on serious harm. But there remains an absence of anything specific in terms of the impact of the Amato Email or the Latham Email. The claims against D3 and D4 fail to recognise the limited nature of the circulation of the emails. It was essentially internal, and nothing happened as a result. I note that in the Latham Email, D4 actually cautioned against the Farmer Email having been forwarded. In terms of subsequent dealings with D3 and D4, Mr Palmer not only suffered no harm, but under the settlement agreement assumed the tenancy of the property, after his mother’s death in 2020, despite council policy on occupancy. The suggestion of any negative impact is fanciful.
+41.  Mr Palmer’s new pleaded section 1 case as a whole (set out at [31] above) is repetitive and lacks substance. It relies principally on the inherently damaging tendency of the specific words from the Farmer Email which are complained of: see APOC 26.1, 26.3; 26.3.1; 26.3.3; 23.3.4, 26.5. Defamatory tendency itself is not sufficient to satisfy section 1 . Casting a case on inherent tendency in six different ways does not alter the substance of Mr Palmer’s case.
+42.  As I have noted above, consideration of serious harm is concerned with impact or likely impact. This requires taking account of the context of the words and circumstances of their publication. The Farmer Email was part of a chain, not authored by Ms Amato, and cautioned against by Mr Latham. Those matters undermine the prospect of Mr Palmer establishing serious reputational harm in respect of either email.
+43.  In respect of D4, Mr Palmer asserts that there were “ actual consequences “ in Draft APOC 26.5, but none are identified. The pleas which attempt to identify an impact on him, namely the outcome of the Community MARAC and the safeguarding referral made some time later after his mother died are put in such vague terms that the connection is not articulated. However, once the evidence is considered, it is clear there was neither a connection nor any adverse impact on Mr Palmer. His case is fanciful.
+44.  The attempt to advance a case that there might have been wider publication is hopeless. APOC 26.3.5 asserts a “ risk “ of percolation. But it sets out no grounds as to why there would have been any so-called ‘grapevine’ effect; it was inherently unlikely in the overall circumstances and the warning contained in the Latham Email. The plea in APOC 26.8: (a) is precisely the Micawberism deprecated in King v Stiefel [2021[ EWHC (Comm) 1045; and APOC 26.8(b) relies on only one specific matter, namely “ the facts that the allegation was repeated…at the MARAC meeting on 6th November 2019 “. In abandoning his slander claim for the very same matter, Mr Palmer has accepted either that the allegation was not repeated or that his case in that regard was hopeless.
+45.  The uncontradicted evidence from the Defendants is that there was no impact on Mr Palmer from the Amato Email and the Latham Email respectively. That is supported by the contemporaneous documents. Mr Latham, the only person not within D3, to receive the Amato Email gives evidence that in response to the Amato Email, he “ asked Ms Amato for an update on the position in relation to the Claimant following the Community MARAC meeting and in particular the visit to the Claimant’s home which was mentioned in Ms Amato’s email of 6.11.19. This was the focus of my email “. Mr Latham adds that he “ did not take account of “ the Farmer Email in D4’s decisions about Mr Palmer. Even though this is a summary judgment process I see no basis to question this evidence.
+46.  That evidence is wholly consistent with the caution expressed by Mr Latham in the Latham Email about the Farmer Email having been added into the email chain. It is also consistent with: (a) the response from the Community MARAC to Mr Palmer on 20 November 2019; (b) D4’s subsequent response to Mr Palmer’s complaints about CCTV policy; and (c) the terms of the settlement agreement.
+47.  Mr Tucker’s evidence is that “ The information from PC Farmer had no bearing on decisions made by the Third Defendant in respect of the claimant and from a review of documents I do not believe that it was referred to again .” Mr Tucker details the meetings which he personally had with Mr Palmer and his representatives in 2020 to hear the grievances and the settlement agreement being agreed to achieve a compromise.
+48.  Mr Palmer’s responsive evidence does not rebut the above evidence. His response amounts to little more than an assertion that the two emails must have caused harm to his reputation. There is no basis for assuming that other evidence may become available at trial.
+49.  I will enter summary judgment for D3 and D4 on the defamation claims made against them respectively on the ground that Mr Palmer has no real prospect of successfully satisfying section 1 of the 2013 Act . I will also strike out POC 26 on the ground that it does not disclose reasonable grounds for the defamation claims against either of them.
+Jameel abuse and the libel claim
+50.  In an alternative position, D3 and D4 invite the Court to strike out the claims as Jameel abuse. They argue that there is no real and substantial tort and anything which Mr Palmer might gain is not worth the costs and resources of the court and the parties. For Mr Palmer, it is argued that he has suffered serious reputational harm and the court should not take the exceptional step of striking out on a Jameel basis.
+51.  The legal principles are not in dispute and are helpfully summarised in Higinbotham v Teekhungham [2018] EWHC 1880 (QB) at [44] . In my judgment, this is not a case where a real or substantial wrong has been committed and litigating the claim will yield a benefit proportionate to the likely use of court procedures.
+52.  My reasons for finding Jameel abuse made out are as follows:
+      (1)  I accept the allegation is very serious. However, Ms Amato did not author the allegation complained of and it was sent unsolicited to her. The claim is based entirely on PC Farmer’s words. They appeared in the Amato Email because of the actions of the MPS, i.e. PC Farmer forwarding his exchanges with his superior to Ms Amato.
+      (2)  The extent of distribution was very limited. Four of the five publishees were Ms Amato’s management at D3. In the circumstances, where Mr Palmer’s complaints were receiving the attention of senior personnel, it would have been wholly unrealistic to expect the junior housing officer to delete part of an email chain she had been sent by the MPS before updating her management. They were entitled to see what she had been sent.
+      (3)  While D3 and D4 are distinct entities, they operate in partnership (with D3 only operating for D4) and the email was essentially an internal communication.
+      (4)  There was no impact on Mr Palmer. See my discussion above. Other than generalised assertions, he has not identified any credible adverse impact from the limited actions of the Defendants.
+      (5)  D3 has confirmed it will not be repeating the allegation complained of. Indeed, in his Draft APOC, Mr Palmer has abandoned his claim for an injunction.
+      (6)  The emails containing the allegation complained of have been deleted (save for legal proceedings purposes).
+      (7)  Mr Palmer does not need vindication in the eyes of the recipients. The MPS has informed them that PC Farmer’s allegation was untrue.
+      (8)  Damages, if any, would be minimal, but the costs of this High Court action would be considerable. The payment of substantial compensation by MPS can be relied upon by the Defendants in mitigation of damages pursuant to section 12 of the 1952 Act . I will not set out the damages figure which MPS will pay but I have been made aware of it. I consider the low value claim against D3 and D4 has become of even less value when one factors in a substantial payment to be made by the MPS.
+      (9)  Mr Palmer has obtained vindication for the defamatory imputation from the originator of the allegation, the MPS. I refer to the statement in open court. The allegation was never endorsed by D3 or D4.
+      (10)  The Latham Email was only sent to one individual who had not already received the Farmer Email in the email chain, and Mr Latham gave a warning in relation to the Farmer Email allegation.
+53.  The Jameel application succeeds in relation to the libel claims.
+IV. Misuse of Private Information
+54.  Liability for misuse of private information is determined applying a well-known two-stage test: (1) does the claimant have a reasonable expectation of privacy in the relevant information; and (2) if yes, is that outweighed by countervailing interests: McKennitt v Ash [2008] QB 73 [11] ; and ZXC v Bloomberg [2022] 2 WLR 424 [26] .
+ 
+55.  That is a high-level summary description as to how liability is established. At a more granular level, and having regard to the Practice Direction, (CPR PD 53B), para.8.1, a claimant suing in tort for misuse of private information needs to plead an arguable case in relation to the following five matters:
+      (1)  the information said to be private;
+      (2)  the facts said to give rise to a reasonable expectation of privacy in respect of that information;
+      (3)  what the defendant has done (or threatens to do) which is said to amount to misuse of the information;
+      (4)  why the claimant’s right to privacy takes precedence over any rights the defendant may have to use the information in the way said by the claimant to be a misuse; and
+      (5)  detriment and relief sought.
+ 
+56.  Although not framed by reference to these requirements, in substance, the Defendants’ submission is that Mr Palmer’s MPI claim faces fatal problems under elements (3) and (5). Even assuming that there was a reasonable expectation of privacy, they say that what the Defendants did has not reached a threshold of seriousness (in terms of effect on Mr Palmer) sufficient to amount to a misuse, nor did it cause actionable detriment. They also make a Jameel abuse argument, relying on essentially the same points deployed in relation to the defamation claims.
+ 
+57.  Counsel for Mr Palmer argued that the inclusion of the offending allegations is themselves actionable and capable of giving rise to a financial claim for MPI. Her arguments essentially relied on the points she had made in relation to serious harm and the libel claim.
+ 
+58.  There are a number of difficulties with the MPI claim. Putting aside issues of falsity, the information communicated in the Farmer Email was material concerning convictions circulated by a police officer to the local authority. I find it hard to see how there was a reasonable expectation of privacy in it when received by the Defendants. One would expect such information would be shared with the line managers of the recipient in the organisation. That said, the Defendants’ attack was on a different basis, as I describe above. In my judgment, the Defendants’ submissions are correct.
+ 
+59.  An MPI claim must satisfy a threshold of seriousness: Hutcheson v NGN [2011] EWCA Civ 808; [2012] EMLR 2 at [24] citing R(Wood) v Commissioner of Police of the Metropolis [2009] EWCA Civ 414; [2020] 1 WLR 123 at [51]. Wood was referred to in ZXC v Bloomberg LP at [55]:
+”The effect on the claimant must attain a sufficient level of seriousness for article 8 to be engaged—see R (Wood) v Comr of Police of the Metropolis [2010] 1 WLR 123 per Laws LJ at para 22; In re JR38 at para 87. In general, there will be no reasonable expectation of privacy in trivial or anodyne information.”
+ 
+ 
+60.  In my judgment, while the nature of the information about an individual may be the reason why some matters do not attain the requisite level of seriousness, that is not the only basis on which the “ effect on the claimant “ may fall short. The email was clearly not of an anodyne nature. But Ms Amato, having received that email from the MPS, only shared it in a limited way with her line management and Mr Latham, to whom she had been asked to report. Mr Latham expressly cautioned against the inclusion of the Farmer Email. It was not used by either D3 or D4 in any way which had a tangible impact upon Mr Palmer.
+ 
+61.  Stripped to its essentials, the complaint is that having received the Farmer Email – unsolicited – from the MPS (in D3’s case) and from D3 (in D4’s case), D3 and D4 respectively then retained it within the limited email exchanges into which it was incorporated. I do not accept that this minimal internal conduct even arguably satisfies the threshold test of seriousness such as to engage Article 8 ECHR rights, the foundation for this tort. The MPI claim falls to be dismissed on that basis. It has no realistic prospect of success.
+ 
+62.  In addition, for essentially the same reasons as I gave for accepting the Jameel submission in relation to defamation, I will also strike out the MPI claim on a Jameel basis. In short, the game is not worth the candle. What is really a libel claim has been shoehorned into the MPI tort. If the libel claim is abusive, the MPI claim cannot fare better.
+ 
+V. Conclusion
+63.  The Defendants’ applications succeed. The defamation and MPI claims in original form are struck out and I refuse Mr Palmer’s application to amend those claims. His remaining data protection claims will be transferred for trial in the County Court. He is to serve an amended pleading confined to those claims.
+ 
+64.  As I indicated to the parties, that pleading and the transfer will be put on hold while the parties engage in ADR for a 56 day period. I have directed a stay of my own motion. The true wrongdoers have apologised and retracted the statements in open court, accepting they were untrue. D3 and D4 have a tangential involvement and I would hope the parties can compromise the remaining data protection claim.
+ 
+ 
+Crown copyright
+

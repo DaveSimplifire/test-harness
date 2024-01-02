@@ -1,0 +1,58 @@
+﻿
+Amersi v Leslie
+
+
+No Substantial Judicial Treatment
+
+
+Court
+King’s Bench Division
+ 
+Judgment Date
+7 June 2023
+ 
+Where Reported
+[2023] EWHC 1368 (KB)
+[2023] 6 WLUK 84
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Defamatory meaning; Libel; Permission to amend; Reputation; Serious harm; Statements of case; Striking out
+ 
+Judge
+Nicklin J
+ 
+Counsel
+For the claimant: William McCormick KC, Jacob Dean.
+For the defendants: David Price KC, Jonathan Crystal.
+ 
+Solicitor
+For the claimant: Carter-Ruck.
+For the defendants: Rradar Ltd.
+ 
+Case Digest
+Summary
+A libel action brought by a businessman against a former MP was struck out because the neither the original particulars of claim nor a draft amendment disclosed a proper pleading of serious harm to reputation, and neither complied with the requirements of CPR PD 53B para.4.2(3). The claimant’s case on serious harm to reputation was fanciful and speculative, and it was not appropriate to allocate further court resources to the claim.
+ 
+Abstract
+In a libel action, the claimant applied under CPR r.17.3 for permission to amend his particulars of claim and the defendants applied to strike out the claim.
+ 
+The claimant was a businessman and a Conservative Party donor. His claim related to a series of 15 memos sent by the first defendant, a former MP, to a small number of individual recipients who included ambassadors, senior figures within the Conservative Party, and individuals connected with the security services. The claimant asserted that the memos were defamatory of him and had caused serious harm to his reputation within the meaning of the Defamation Act 2013 s.1. However, his particulars of claim did not comply with the requirements of CPR PD 53B para.4.2(3). Instead of setting out separate particulars of serious harm to his reputation for each publication relied upon, it set out a composite and entirely inferential case contained in a single paragraph. The court ordered the claimant to apply for permission to amend his particulars so as to particularise the harm allegedly caused by each publication. He therefore made the instant application, but his draft amended particulars still pleaded a composite case. The defendants applied to strike out the claim on the basis that neither the original nor draft amended particulars of claim complied with CPR PD 53B para.4.2(3).
+ 
+ 
+Held
+Claim dismissed.
+ 
+Permission to amend: general principles - On an application for permission to amend, the court had to determine whether the claimant had a realistic prospect of success on the claim, taking account of not only the evidence before it, but also the evidence that could reasonably be expected to be available at trial, Elite Property Holdings Ltd v Barclays Bank Plc [2019] EWCA Civ 204, [2019] 2 WLUK 286 followed, Easyair Ltd (t/a Openair) v Opal Telecom Ltd [2009] EWHC 339 (Ch), [2009] 3 WLUK 2 applied. Whether a publication had caused, or was likely to cause, serious reputational harm, could be established only by reference to the impact that the allegedly defamatory statement was shown actually to have had, Lachaux v Independent Print Ltd [2019] UKSC 27, [2020] A.C. 612, [2019] 6 WLUK 127 followed. Thus, the claimant bore the evidential burden of proving serious harm for the purposes of s.1. Each publication gave rise to a single cause of action, Banks v Cadwalladr [2023] EWCA Civ 219, [2023] K.B. 524, [2023] 2 WLUK 433 followed. In a case of widespread publication such as an article in a national newspaper, the court could infer a degree of percolation caused by the repetition of the defamatory allegations, and the claimant might be able to show serious harm to reputation by a wholly inferential case. However, in a case of publication to a limited number of identified individuals, the scope for reliance on inference was much reduced. The court had to focus on the particular circumstances of each publication, and the claimant could not aggregate reputational harm across multiple publications. Where statements had been published to single publishees, as in this case, a purely inferential case of reputational harm was highly unlikely to discharge the s.1 evidential burden. The proper course was for the court to assess, publication by publication, whether the claimant had a real prospect of showing that each had caused, or was likely to cause, serious harm to his reputation in the eyes of each publishee (see paras 140-163, 181 of judgment).
+ 
+Permission to amend: outcome - The proposed amendments did not demonstrate a case on serious harm to reputation that had a real prospect of success. The claimant had provided no direct evidence from any of the identified publishees capable of supporting his case on serious harm, and his suggestion that the court would have to wait until trial to hear from them was not how modern defamation litigation was conducted. In relation to each publishee, his case on reputation was fanciful and devoid of reality. Further, although he had produced some speculative evidence of re-publication beyond the original publishees, there was no evidence that any such re-publication had caused serious harm to his reputation. Overall, his case on serious harm to reputation was not based on any properly premised inference but was optimistic guesswork, and he would not be permitted to amend his particulars of claim (paras 182-184, 186-192, 195-196, 201, 205-206, 214-220, 232, 234).
+ 
+Strike-out - Because the particulars of claim failed to disclose a proper pleading of serious harm to reputation and did not comply with the requirements of the Practice Direction, the plea of serious harm to reputation would be struck out under CPR r.3.4(2)(a). It was not appropriate to give the claimant a further opportunity to remedy his pleadings. His amendment application had failed because the evidence on which he relied did not disclose a claim with a real prospect of success. He had put forward the best evidential case he had, and there was no suggestion that his evidence would improve if he had a further opportunity to re-plead his case. Further, it was not clear if he had been pursuing the claim either genuinely or at proportionate cost. Although the court did not need to decide whether his pursuit of the claim was for some impermissible collateral purpose, it was entitled to conclude that it was not appropriate to allocate more of the court’s resources to the matter. The claim would therefore be dismissed (paras 233-241).
+ 
+

@@ -1,0 +1,58 @@
+﻿
+Hope not Hate Ltd v Farage
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+2 November 2017
+ 
+Where Reported
+[2017] EWHC 3275 (QB)
+[2017] 11 WLUK 30
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Libel; Preliminary issues; Reputation; Single publication rule
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Anthony Hudson QC.
+For the defendant: Justin Rushbrooke QC.
+ 
+Solicitor
+For the claimant: Hamlons LLP.
+For the defendant: Carter-Ruck.
+ 
+Case Digest
+Summary
+Although, following Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155, courts would be cautious before ordering that the issue of serious harm to reputation in a defamation case should be tried as a preliminary issue, in the instant case it was appropriate as the circumstances were unusual and exceptional, the evidential investigation was likely to be modest, and the parties had previously agreed to a preliminary issue hearing.
+ 
+Abstract
+The court was required to consider whether the issue of serious harm in a libel claim should be determined at a preliminary issue hearing.
+ 
+The claimants were a company and charitable trust which sought to challenge and defeat the politics of hate and fear at a grassroots national level. The defendant, a well-known politician and Member of the European Parliament, had spoken the words complained of in a radio interview in December 2016. He had stated that the claimants pretended to support peace but pursued “violent and undemocratic means”. A video clip of the interview continued to be available on the radio station’s website. The claimants brought a libel claim in April 2017, arguing that the defendant’s words had caused or were likely to cause serious harm to their reputation under the Defamation Act 2013 s.1(1). The defendant had not yet filed a defence. In correspondence he denied serious harm, and questioned whether the limitation period set out under the single publication rule in s.8 applied because he had made similar remarks in a 2014 television interview. The defendant applied for a preliminary issue hearing regarding the s.8 issue and the issue of serious harm. The claimants eventually agreed, and a hearing was listed in mid-November 2017. Following the decision in Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155, the claimants changed their position in correspondence and applied for a case management direction to determine whether serious harm should be determined as a preliminary issue.
+ 
+The claimants submitted that Lachaux stated that it was not appropriate to consider serious harm as a preliminary issue, and that that clear change in approach had made it incumbent on the defendant to raise the matter with the court after the claimants’ correspondence. They submitted that it was inappropriate to treat serious harm as a preliminary issue given that it was not clear what the defendant’s substantive defences would be. The defendant submitted that procedural fairness required that the claimants not be permitted to resile from their agreement to a preliminary issue hearing.
+ 
+ 
+Held
+Judgment accordingly.
+ 
+Applicable principles - The court was cautious about ordering preliminary issue trials. The risks were well-documented, Brown v Bower [2017] EWHC 1388 (QB), [2017] 1 W.L.R. 4703, [2017] 6 WLUK 344 applied. It was clear in Lachaux that the Court of Appeal was concerned about the risk of preliminary issues running up costs in a way inimical to the overriding objective, Lachaux followed. However, each case had to be considered on its facts, Brown applied. It was for the court to determine whether a preliminary issue trial should take place. That was a discretionary aspect of case management, taking into account the overriding objective and the identification of the issues and how they fitted into the litigation. The court should be slow to order a preliminary issue trial where there was substantial evidence.
+ 
+Application to the facts - The instant case was unusual and exceptional, and the court did not intend to establish any new principle, rule or guideline arising from its decision. The defendant had prepared its case in the pre-Lachaux procedural context. The parties had agreed to separate a preliminary issue, and although that did not create an estoppel, it was a factor with some weight. Procedural fairness and public policy encouraged parties to hold to their procedural agreements. It was relevant that the claimants’ application had come late in the day when the preliminary issue hearing was not far away, though still with some time to prepare. Lachaux had indicated that if it was in issue whether serious harm had been caused or was likely to be caused, it might be convenient to deal with it first if it was not appropriate to leave it until the full trial. The Court of Appeal may have been thinking of cases where there was not much evidence beyond the statement itself, Lachaux followed. The evidential investigation for the instant trial was likely to be relatively modest. It was not a case requiring the Lachaux-type of cross-examination regarding reputation. The defendant had not yet submitted a defence; that supported holding a preliminary issue trial which might end the matter altogether. In any event, he would not have to submit his defence until after the limitation point was resolved. The preliminary issue trial was ordered to go ahead. It would also deal with the issue of meaning, which was a short point with an intimate connection to the serious harm issue.
+ 
+

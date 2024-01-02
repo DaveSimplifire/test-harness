@@ -1,0 +1,63 @@
+﻿
+Sube v News Group Newspapers Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+24 May 2018
+ 
+Where Reported
+[2018] EWHC 1234 (QB)
+[2018] 5 WLUK 460
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Media and entertainment; Torts; Civil procedure
+ 
+Keywords
+Amendments; Defamatory meaning; Exemplary damages; Honest opinion; Libel; Malicious falsehood; Newspapers; Particulars of claim; Serious harm; Striking out
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimants: Mark Engelman, Robert Whittock.
+For the first defendant: David Price QC, Robin Hopkins.
+For the second defendant: Christina Michalos.
+ 
+Solicitor
+For the claimants: Debenhams Ottaway.
+For the second defendant: In-house solicitor.
+ 
+Case Digest
+Summary
+Although newspaper articles about two claimants on benefits who had rejected an offer of local authority housing contained imputations of arrogance, greed and unreasonable behaviour, those were not the most important of societal norms, and the articles did not contain any imputation of dishonesty. They did not cross the serious harm threshold in the Defamation Act 2013 s.1(1).
+ 
+Abstract
+The court was required to determine the meaning of newspaper articles as a preliminary issue in the claimants’ defamation claim, and to consider various strike out applications from the defendant newspapers.
+ 
+The claimants, a married Cameroonian couple with 8 children, had been provided with local authority housing while the father studied. They disputed with the local authority about the size of house offered. The dispute was covered in the defendants’ newspapers. The articles took a negative tone and referred to the claimants’ being on benefits. Comments posted by readers were negative and abusive with threatening content and reference to the claimants’ race. The claimants claimed damages and sought an injunction restraining further publication of the articles. They sought to add claims on further articles and the comment posts relating to harassment, malicious falsehood, breaches of the Equality Act 2010, and/or breaches of duty under the Data Protection Act 1998. The defendants applied to disallow amendments to the claim form and/or to strike out those claims.
+ 
+ 
+Held
+Judgment accordingly.
+ 
+Meaning - The claimants contended that the ordinary reader’s understanding of the meaning of the articles was guided by their knowledge of matters of universal notoriety, including the Brexit referendum. That link seemed speculative and could not be assumed. The social or political attitudes of readers could not affect the natural and ordinary meaning that the words conveyed to the hypothetical ordinary reader, Monroe v Hopkins [2017] EWHC 433 (QB), [2017] 4 W.L.R. 68, [2017] 3 WLUK 289 considered. The reader comments could not be relied on to show that the publication caused serious reputational harm. There was a distinction between reputational harm and the consequences of such harm, outwardly expressed by hostile words or acts, Lachaux v Independent Print Ltd [2017] EWCA Civ 1334, [2018] Q.B. 594, [2017] 9 WLUK 155 followed. The claimants’ argument that by publishing inflammatory articles in the wake of the Brexit referendum, casting the claimants as foreign benefits scroungers, the defendants foreseeably provoked readers into racist and otherwise unpleasant comments, was misconceived as an argument under the Defamation Act 2013 s.1(1). It was necessary to consider the behaviour the articles imputed to the claimants, and whether that conduct involved a serious breach of a settled and important societal norm. The court rejected all factual imputations complained of: they were not conveyed by the articles, or not defamatory. Further, none of the expressions of opinion contained in or implicit in the articles had a tendency to cause serious reputational harm. While arrogant, greedy, abusive or unreasonable behaviour was undesirable, those were not the most important of societal norms, and the imputations appeared in articles which did not impute any dishonesty or imply that the claimants had obtained benefits to which they were not entitled. The imputations were plainly opinions, and none were from authoritative sources (see paras 22, 27-30, 38-42 of judgment).
+ 
+Exemplary damages - The relevant part of the claim was struck out, and permission to amend refused. An exemplary damages claim had to be tied to a single tort, not advanced as a collective claim relating to a series of torts. The claim did not allege the necessary elements, with sufficient particulars (paras 67-68).
+ 
+Malicious falsehood - The claim appeared to have been added after the expiry of the limitation period in the Limitation Act 1980 s.4A. It would be difficult to justify such an amendment. The case for falsity was highly unsatisfactory: it asserted certain propositions were false without anchoring the assertion in any of the words or meanings complained of. The plea of malice fell woefully short of requirements. There was no allegation of a dominant improper motive. Further, a claimant had to establish that an article was false, malicious, and caused special damage or fell within a statutory exception to that requirement; it was insufficient to say that it would be prolix to provide details relating to each individual publication. Pleadings had to be concise but also sufficient. No malicious individual was identified; a corporation could not be vicariously liable unless an individual for which it was responsible was personally liable. Finally, no special damage was alleged. The relevant paragraph was struck out (paras 71-76).
+ 
+Equality Act claim - The county court had exclusive jurisdiction over the pleaded claims under s.113 of the 2010 Act. No doubt the court would exercise its powers to avoid concurrent trials of overlapping issues in different courts in a case raising viable discrimination claims in conjunction with other causes of action. However, the claim as pleaded and the proposed amendments did not disclose any reasonable basis for a claim, and all the conduct complained of fell outside the Act’s scope, which did not apply to statements published to the public in the press, Trimingham v Associated Newspapers Ltd [2012] EWHC 1296 (QB), [2012] 4 All E.R. 717, [2012] 5 WLUK 707 applied. It was unarguable that the defendants were “public authorities” carrying out “public functions” under the Act. Moreover, the amendments did not disclose a tenable indirect discrimination case. The claims were struck out and the claim form amendments disallowed (paras 80-86).
+ 
+Data protection claim - The data protection claim had to be stayed under s.32(4) of the 1998 Act because the newspaper, as data controller, claimed that any personal data was being processed only for the publication of journalistic material. The Information Commissioner had exclusive or primary jurisdiction to determine that question. The draft amended statement of case had to be much clearer and more specific. A data protection claim required adequate particularisation of the information, the processing, and the respects in which it was allegedly wrongful. The application for permission to amend was refused, without prejudice to a further application (paras 94-98, 103-104, 106).
+ 
+

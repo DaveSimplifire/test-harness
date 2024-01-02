@@ -1,0 +1,56 @@
+﻿
+McGrath v Bedford
+
+
+No Substantial Judicial Treatment
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+3 February 2016
+ 
+Where Reported
+[2016] EWHC 174 (QB)
+[2016] 2 WLUK 80
+Judgment
+ 
+Subject
+Defamation
+ 
+Other related subjects
+Civil procedure
+ 
+Keywords
+Defamatory meaning; Particulars of claim; Permission to amend; Publications; Reputation; Serious harm; Slander
+ 
+Judge
+Sir David Eady
+ 
+Counsel
+For the claimants: John Samson.
+For the defendants: Ian Helme.
+ 
+Solicitor
+For the claimants: Gregg Latchams.
+For the defendants: Gisby Harrison.
+ 
+Case Digest
+Summary
+When refusing permission to amend particulars of claim in defamation proceedings, the court considered developments in practice since the coming into force of the Defamation Act 2013 s.1, specifically in relation to the need for a claimant to show that serious harm to reputation had occurred or was likely to occur.
+ 
+Abstract
+The claimants in defamation proceedings applied for permission to amend their particulars of claim.
+ 
+The first claimant was the managing director of the second claimant company (N). The first defendant was a director of the second defendant company (P). N and P supplied water purification systems which used silver in the process. At some future point, only silver obtained from a supplier appearing on an approved list in Regulation 528/2012 art.95 was to be allowed to be used in such products. P was on the approved list, N was not. P was involved in the tender to supply and maintain a hospital’s water purification system and discovered that N had put in a lower price. The first defendant emailed the hospital’s representative, stating that N was not on the art.95 list and would not therefore be able to supply silver after 1 September 2015. A further email from the first defendant, in response to N’s contention that it would be able to supply silver if it obtained it from a source which was on the list, stated that neither of the two companies on the list would sell silver to N. Those emails constituted the allegedly defamatory publications. The defendants challenged the claimants’ draft amended pleadings.
+ 
+ 
+Held
+Application refused.
+ 
+(1) Following the coming into force of the Defamation Act 2013 s.1, a claimant had to show that serious harm to reputation had occurred or was likely to occur. That requirement was a substantive element in any libel or slander claim and was logically unconnected to the strength or weakness of any possible defence. Without it, no such claim was viable. Defendants needed to be alert to the possibility that a claimant would not be able to establish that basic ingredient and, where appropriate, raise the point by way of preliminary objection prior to serving a defence. It depended on the circumstances, but cases could be envisaged in which the words complained of appeared not to be of a sufficient level of gravity, or where the evidence of publication was very limited. Where that was so, the overriding objective appeared to require that the point was taken early, with a view to saving time and costs, Lachaux v Independent Print Ltd [2015] EWHC 2242 (QB), [2016] Q.B. 402, [2015] 7 WLUK 966 considered. Correspondingly, claimants would generally be wise to be in a position to make out a case of serious harm which went beyond mere assertion, even before a defence had to be served, and to be able to demonstrate a realistic possibility of success, Collier v P & MJ Wright (Holdings) Ltd [2007] EWCA Civ 1329, [2008] 1 W.L.R. 643, [2007] 12 WLUK 384 applied. It would generally not be sufficient to simply assert that serious harm had been suffered and call on the defendant to plead to it without more. It might make sense to determine the “serious harm” issue at a full hearing with early disclosure of relevant documents, evidence and cross-examination. If so, it would normally be appropriate for the court also to rule, in advance of such determination, on the issues of meaning. However, the overriding objective would not always be served by a full preliminary hearing, which would sometimes increase rather than reduce litigation costs, thereby undermining the intention of the legislature, Theedom v Nourish Training (t/a CSP Recruitment) [2015] EWHC 3769 (QB), [2016] E.M.L.R. 10, [2015] 12 WLUK 367 considered. No general rule could be laid down. Much would turn on the facts of the particular case, the parties’ judgement and the judge’s case management. The instant case might well be a case for “serious harm” to be explored by way of preliminary hearing, but that was not a matter to be decided in the instant application. The publication appeared to be very limited in scope and the defamatory meanings, which depended on establishing an innuendo, were not obvious on first reading. The defendants would be entitled to the fullest information available on the claimants’ plea of serious harm. That was separate from their right to have the case properly pleaded on other essential ingredients, such as publication and meaning. How much, if any, harm had been done to the reputation of either claimant was clearly going to be a matter of close enquiry at some stage. It did not appear to be a case in which it would be possible to infer serious harm by reference solely to the gravity of the words complained of and the scale of publication, Theedom considered. N had won the hospital contract and there was no suggestion that it had suffered any financial loss as a result of the publications, which was especially significant in the light of the provisions about corporate claimants in the 2013 Act (see paras 4-7, 13 of judgment).
+ 
+(2) The court considered the proposed amendments, taking account of the principles outlined in Collier, the need to narrow the issues in such a case from the outset, and the need to be in a position to test the cogency and coherence of a plea of serious harm or, in the case of a corporate claimant, a plea of financial loss. Permission to amend the relevant pleadings was refused (paras 14-21).
+ 
+

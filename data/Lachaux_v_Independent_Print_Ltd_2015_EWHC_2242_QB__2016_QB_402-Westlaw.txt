@@ -1,0 +1,60 @@
+﻿
+Lachaux v Independent Print Ltd
+Lachaux v AOL (UK) Ltd
+Lachaux v Evening Standard Ltd
+
+
+Positive/Neutral Judicial Consideration
+
+
+Court
+Queen’s Bench Division
+ 
+Judgment Date
+30 July 2015
+ 
+Where Reported
+[2015] EWHC 2242 (QB)
+[2016] Q.B. 402
+[2016] 2 W.L.R. 437
+[2016] 4 All E.R. 140
+[2015] 7 WLUK 966
+[2015] E.M.L.R. 28
+[2015] C.L.Y. 689
+Judgment
+ 
+Subject
+Defamation
+ 
+Keywords
+Abuse of process; Damage; Defamatory meaning; Libel; Preliminary issues; Reputation
+ 
+Judge
+Warby J
+ 
+Counsel
+For the claimant: Adrienne Page QC, Godwin Busuttil.
+For the first and second defendants: David Price QC.
+For the third defendant: Manuel Barca QC, Hannah Ready.
+ 
+Solicitor
+For the claimant: Taylor Hampton Ltd.
+For the first and second defendants: David Price Solicitors & Advocates.
+For the third defendant: Lewis Silkin.
+ 
+Case Digest
+Summary
+In enacting the Defamation Act 2013 s.1(1), Parliament had intended that libel claimants should have to prove as a fact on the balance of probabilities that serious reputational harm had been caused by, or was likely to result from, the publication complained of. The court was entitled to have regard to all the relevant circumstances, including evidence of what actually happened after publication. Libel was no longer actionable without proof of damage, and the legal presumption of damage would cease to play any significant role.
+ 
+Abstract
+The court had to decide preliminary issues in libel claims brought by the claimant (L) in relation to the publication of a number of articles.
+ 
+L was a French national who lived in the United Arab Emirates. He was qualified as an aeronautical engineer and taught at a military college in Dubai. The articles, which were published in Dubai and the UK, contained an account of events in the UAE including proceedings against L’s former wife for “kidnapping” the couple’s son and allegations against L of domestic abuse. L’s former wife was a British national. The preliminary issues were (i) the extent to which the words complained of were understood to refer to L and the natural and ordinary meaning of those words; (ii) whether the publications had caused or were likely to cause sufficient harm to L’s reputation, within the meaning of the Defamation Act 2013 s.1(1), to justify bringing the claims; and (iii) whether the pursuit of the claims against one of the defendants constituted an abuse of process pursuant to the principles established in Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75, [2005] Q.B. 946, [2005] 2 WLUK 44.
+ 
+ 
+Held
+Preliminary issues determined in favour of claimant.
+ 
+(1) A meaning was defamatory if it substantially affected in an adverse manner the attitude of other people, or had a tendency to do so, Thornton v Telegraph Media Group Ltd [2010] EWHC 1414 (QB), [2011] 1 W.L.R. 1985, [2010] 6 WLUK 316 applied. In the instant case, the tenor of the articles was to suggest that the mother was justified in taking her child away from a violent father, who was consequently unjustified in taking the child back (see paras 15, 89-100 of judgment). (2) In enacting s.1(1) of the 2013 Act, Parliament had intended to do more than raise the common law threshold for defamation from a tendency to cause “substantial” to “serious” reputational harm; it intended that claimants should have to prove as a fact on the balance of probabilities that serious reputational harm had been caused by, or was likely to result from, the publication complained of. When deciding that question, the court was not confined to considering only the defamatory meaning of the words and the harmful tendency of that meaning; it might have regard to all the relevant circumstances, including evidence of what actually happened after publication. The natural consequence of that construction of s.1(1) was that libel was no longer actionable without proof of damage, and that the legal presumption of damage would cease to play any significant role. In the instant case it was reasonable to infer that, as someone who had lived and worked in the UAE for nearly 10 years by the time of publication, L had a substantial reputation there. He also had personal and professional contacts in the UK. On the balance of probabilities, there were tens and possibly more than 100 people who knew of L, had read one or more of the articles and identified him, and who thought the worse of him as a result. A person might also be seriously defamed in the eyes of those who did not already know him. L worked in an industry which was by its nature international and he travelled a considerable amount. Four out of the five articles complained of had caused serious harm to L’s reputation, having regard to the seriousness of the topic and the defamatory meanings; the reputable nature of the publishers; and the inherent likelihood that the publications had reached a significant number of people who knew L or knew of him (paras 45, 60, 65, 126, 131-153). (3) The pursuit of a defamation claim might represent an interference with freedom of expression which could not be justified as necessary for or proportionate to the pursuit of the legitimate aim of protecting or vindicating reputation. In Jameel, it was recognised that the Human Rights Act 1998 s.6 required the court to dismiss such a case as an abuse of process. In the instant case, there were no grounds on which to find an abuse of process based on (a) the extent of L’s connection to, or the extent of publication in, the UK; (b) whether the claim could serve the legitimate purpose of protecting or vindicating L’s reputation in the UK; or (c) the advantage of a final trial outweighing the disadvantages for the parties in terms of expense and wider public in terms of court resources, Jameel followed (paras 16-18, 155).
+ 
+
